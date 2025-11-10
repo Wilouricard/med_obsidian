@@ -25,6 +25,6 @@ Set-Location $quartzPath
 git add .
 $commitMessage = "auto update notes - $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
 git commit -m $commitMessage
-git push origin main
+git push origin v4
 
 Write-Host "=== 🟢 Mise à jour terminée. Notes en ligne à jour. ==="
