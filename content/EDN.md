@@ -387,3 +387,4 @@ Listes des items de l'EDN
 | 367   | Impact de l’environnement sur la santé                                                                                                                                                                                                                   |
 
 
+Sources : [WikiMedSyn, La base de connaissances médicales collaborative et gratuite](https://wikimedsyn.fr/fiches/ue/apprentissage-de-lexercice-medical-et-de-la-cooperation-interprofessionnelle)

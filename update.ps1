@@ -1,20 +1,30 @@
-# Simple script to update Quartz from Obsidian
+# --- Update Quartz from Obsidian (UTF-8 + accents friendly) ---
+
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 $obsidianPath = "C:\Users\Wilson\Documents\Projet Médical\Médecine"
 $quartzPath   = "C:\Users\Wilson\Documents\quartz"
 $contentPath  = Join-Path $quartzPath "content"
 
-Write-Host "=== Updating Quartz from Obsidian ==="
+Write-Host "=== Mise à jour Quartz depuis Obsidian ==="
 
-# Copy markdown files
+if (!(Test-Path $obsidianPath)) {
+    Write-Host "❌ Le dossier Obsidian n'existe pas : $obsidianPath"
+    exit 1
+}
+if (!(Test-Path $contentPath)) {
+    Write-Host "❌ Le dossier 'content' de Quartz n'existe pas : $contentPath"
+    exit 1
+}
+
+Write-Host "Copie des fichiers..."
 Copy-Item -Path (Join-Path $obsidianPath "*") -Destination $contentPath -Recurse -Force
-Write-Host "Files copied successfully."
+Write-Host "✅ Fichiers copiés avec succès."
 
-# Git push
 Set-Location $quartzPath
 git add .
 $commitMessage = "auto update notes - $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
 git commit -m $commitMessage
 git push origin main
 
-Write-Host "=== Update completed successfully ==="
+Write-Host "=== 🟢 Mise à jour terminée. Notes en ligne à jour. ==="
