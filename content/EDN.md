@@ -1,5 +1,5 @@
 
-Listes des items de l'EDN : 😀 
+Listes des items de l'EDN : 
 
 |      |                                                                                               |             |
 | ---- | --------------------------------------------------------------------------------------------- | ----------- |
@@ -18,9 +18,9 @@ Listes des items de l'EDN : 😀
 |       |                                                                                                                                                                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | N°    | Item                                                                                                                                                                                                                                                     |
-| [[1]] | La relation médecin-malade. La communication avec le patient et son entourage. L'annonce d'une maladie grave ou létale ou d'un dommage associé aux soins. La formation du patient. La personnalisation de la prise en charge médicale.                   |
-| 2     | Les valeurs professionnelles du médecin et des autres professions de santé                                                                                                                                                                               |
-| 3     | Le raisonnement et la décision en médecine. La médecine fondée sur les preuves (Evidence Based Medicine, EBM). La décision médicale partagée. La controverse.                                                                                            |
+| [[Item 1]] | La relation médecin-malade. La communication avec le patient et son entourage. L'annonce d'une maladie grave ou létale ou d'un dommage associé aux soins. La formation du patient. La personnalisation de la prise en charge médicale.                   |
+| [[Item 2]] | Les valeurs professionnelles du médecin et des autres professions de santé                                                                                                                                                                               |
+| [[Item 3]] | Le raisonnement et la décision en médecine. La médecine fondée sur les preuves (Evidence Based Medicine, EBM). La décision médicale partagée. La controverse.                                                                                            |
 | 4     | Qualité et sécurité des soins. La sécurité du patient. La gestion des risques. Les événements indésirables associés aux soins (EIAS). Démarche qualité et évaluation des pratiques professionnelles                                                      |
 | 5     | La gestion des erreurs et des plaintes ; l'aléa thérapeutique                                                                                                                                                                                            |
 | 6     | L'organisation de l'exercice clinique et les méthodes qui permettent de sécuriser le parcours du patient                                                                                                                                                 |
