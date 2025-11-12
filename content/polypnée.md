@@ -3,6 +3,3 @@ Une polypnée est une augmentation de la fréquence respiratoire, avec diminutio
 
 =/= [[bradypnée]] 
 
-
-#flashcards
-Qu’est-ce que la polypnée ?:: Augmentation rapide et superficielle de la fréquence respiratoire

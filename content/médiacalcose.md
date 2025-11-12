@@ -3,7 +3,3 @@
 
 [[diabète]]
 
-
-
-#flashcards
-Qu’est-ce que la médiacalcose ?:: Calcification de la tunique moyenne des artères, surtout chez le diabétique

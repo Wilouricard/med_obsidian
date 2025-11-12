@@ -14,6 +14,3 @@ L'[[insuffisance ventriculaire gauche]] entraîne une dyspnée d'effort et un
 Les œdèmes des membres inférieurs d'origine cardiaque sont blancs, mous, bilatéraux, prenant le godet et indolores. Ils sont situés préférentiellement au niveau des chevilles et en effacent les reliefs naturels. Il convient de les chercher au niveau des lombes chez les patients alités ;
 
 
-#flashcards
-Qu’est-ce que l’insuffisance cardiaque droite ?::Incapacité du ventricule droit à assurer un débit sanguin suffisant
-Signe majeur de l’insuffisance cardiaque droite ?::Œdèmes des membres inférieurs et rétention hydrosodée

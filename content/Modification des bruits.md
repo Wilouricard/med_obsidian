@@ -7,8 +7,3 @@
 - B 4 bruit galop télédiastolique n'existant qu'en rythme sinusal. [S3 vs S4 Heart Sound - YouTube](https://www.youtube.com/watch?v=7J72wFtBdU4)
 - Clics mésosystoliques peuvent être entendues si dystrophie valvulaire mitrale (prolapsus valvulaire).
 
-
-#flashcards
-Que traduit un B 3 (galop protodiastolique) ?:: Signe d’insuffisance cardiaque
-Que traduit un B 4 (galop télédiastolique) ?::Présent uniquement en rythme sinusal
-Que signifie un éclat de B 2 au foyer pulmonaire ?:: Hypertension artérielle pulmonaire

@@ -6,6 +6,3 @@ _Cette imprégnation se produit en cas d’augmentation de la bilirubinémie don
 
 En gros **jaunisse**. 
 
-#flashcards
-Qu’est-ce que l’ictère ?:: Coloration jaune de la peau et des muqueuses due à un excès de bilirubine
-<!--SR:!2025-11-08,1,210-->

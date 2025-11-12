@@ -5,6 +5,3 @@ Ils témoignent d'une atteinte organique. Insuffisance aortique et rétrécissem
 
 [[Le souffle de rétrécissement mitral]]
 
-
-#flashcards
-Qu’indiquent les souffles diastoliques ?:: Atteinte valvulaire organique comme insuffisance aortique ou rétrécissement mitral

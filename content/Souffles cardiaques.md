@@ -23,8 +23,3 @@ Définition de différents paramètres :
 
 [[Souffles diastoliques]] 
 
-
-
-#flashcards
-Qu’est-ce qu’un souffle cardiaque ?:: Bruit anormal dû à un flux sanguin turbulent à travers les valves
-Principaux paramètres d’un souffle à décrire ?::Siège, chronologie, intensité, timbre

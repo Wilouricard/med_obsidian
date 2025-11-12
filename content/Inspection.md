@@ -14,7 +14,4 @@ Information à recueillir :
 - signs d' [[AOMI]] artériopathie oblitérante des membres inférieurs
 
 
-#flashcards
-Qu’est-ce que l’inspection en examen cardiorespiratoire ?:: Observation visuelle du thorax et des signes cliniques par le médecin
-Que recherche l’inspection ?:: Morphologie, cicatrices, signes respiratoires, circulatoires et cutanés
 

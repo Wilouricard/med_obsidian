@@ -18,7 +18,3 @@ Selon les classifications de l'OMS, l'IMC se répartit comme suit :
 
 
 
-#flashcards
-Qu’est-ce que l’IMC ?:: Indice estimant la corpulence d’une personne
-Formule de l’IMC ?:: Poids (kg) / Taille (m)²
-IMC normal selon l’OMS ?:: Entre 18,5 et 25

@@ -5,6 +5,3 @@
 - son intensité n'est pas proportionnelle à l'importance de la régurgitation valvulaire.
 
 
-#flashcards
-Qu’est-ce qu’un souffle d’insuffisance mitrale ?:: Souffle holosystolique doux au foyer mitral irradiant vers l’aisselle
-

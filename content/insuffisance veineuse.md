@@ -5,7 +5,3 @@ Elle est liée à une détérioration des valvules veineuses ou à une inefficac
 
 Signs : varicosités, les varices, la [[dermite ocre]], les ulcères veineux.
 
-
-#flashcards
-Qu’est-ce que l’insuffisance veineuse ?::Défaillance des veines des jambes à ramener le sang vers le cœur
-Signe caractéristique de l’insuffisance veineuse ?:: Varices ou dermite ocre

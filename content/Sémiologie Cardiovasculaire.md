@@ -29,7 +29,7 @@ Tout les antécédents cardiovasculaires athéromateuses, précoces  (moins de 5
 - ### Facteurs de risque d'[[athérothrombose]] :
 	- âge > 50 ans Homme, >60 ans Femme
 	- être un homme
-	- [[HTA]] : [[PA]] > 140/90 mmHg, préciser ancienneté et complications sous-jacentes (ophtalmologiques, cardiaques, rénales, cérébrales) et [[traitements]] en cours 
+	- [[HTA]] : [[pression artérielle]] > 140/90 mmHg, préciser ancienneté et complications sous-jacentes (ophtalmologiques, cardiaques, rénales, cérébrales) et [[traitements]] en cours 
 	- [[Diabète]] : [[glycémie]] veineuse à jeun > 1,26 g/L ou > 2 g/L à n'importe quel moment de la journée, préciser ancienneté et complications sous-jacentes et [[traitements]] en cours
 	- ***Tabagisme*** avec âge de début, âge de fin,[[ paquets-années]], sevrage inférieur à 3 ans 
 	- [[dyslipidémie]] et [[traitements]]
@@ -48,7 +48,7 @@ Mais la plupart du temps, les cardiopathies donnent des signs fonctionnels indis
 
 ### Signs physiques
 Recueil de ces signs durant l'examen clinique par le médecin à l'aide de ses sens et de l'examen général (poids, taille, périmètre abdominal).
-- [[PA]] - parfois aussi température et saturation en oxygène
+- [[pression artérielle]] - parfois aussi température et saturation en oxygène
 - [[Inspection]]
 - [[Palpation]]
 - [[Percussion]]
@@ -97,12 +97,3 @@ Examens complémentaires doit être exposé oralement au patients, qui doit lire
         
 - ➜ Un test n’a de valeur **que dans la population** où il a été validé.
 
-
-#flashcards
-Qu’est-ce que la sémiologie cardiovasculaire ?::Étude des signes et symptômes des maladies du cœur et des vaisseaux
-Facteurs majeurs de risque d’athérothrombose ?::Âge, sexe masculin, HTA, diabète, tabac, dyslipidémie, hérédité, obésité, sédentarité
-Signes fonctionnels principaux en cardiologie ?:: Douleur thoracique, dyspnée, palpitations, lipothymie ou syncope
-Que signifie une AOMI à l’interrogatoire ?::Artériopathie oblitérante des membres inférieurs
-But des examens complémentaires cardiovasculaires ?:: Confirmer ou exclure un diagnostic clinique
-Définition de la sensibilité d’un test ?::Capacité à détecter les vrais malades
-Définition de la spécificité d’un test ?::Capacité à reconnaître les non-malades

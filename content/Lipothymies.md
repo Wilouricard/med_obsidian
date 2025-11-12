@@ -3,5 +3,3 @@ La **lipothymie** se traduit par une sensation de malaise sans perte de connai
 
 
 
-#flashcards
-Qu’est-ce qu’une lipothymie ?:: Malaise sans perte de connaissance

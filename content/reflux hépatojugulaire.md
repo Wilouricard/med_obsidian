@@ -5,5 +5,3 @@ _Il se recherche sur le  patient en position demi-assise, à 45°, en décubitus
 C’est l’un des signs de l’[[insuffisance cardiaque droite]].
 
 
-#flashcards
-Qu’est-ce que le reflux hépatojugulaire ?:: Turgescence jugulaire provoquée par la compression du foie, signe d’insuffisance cardiaque droite

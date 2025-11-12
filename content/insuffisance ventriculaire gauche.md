@@ -14,7 +14,3 @@ _- myocardites infectieuses, et parasitaires._
 
 
 
-#flashcards
-Qu’est-ce que l’insuffisance ventriculaire gauche ?::Incapacité du ventricule gauche à fournir un débit sanguin suffisant
-Signe principal de l’insuffisance ventriculaire gauche ?::Dyspnée d’effort ou de décubitus
-<!--SR:!2025-11-07,1,230-->

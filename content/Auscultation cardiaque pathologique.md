@@ -8,6 +8,4 @@ Apparition d'éléments anormaux durant les silences : bruits supplémentaires, 
 
 [[Frottement péricardique ]] 
 
-#flashcards
-Que révèle une auscultation cardiaque pathologique ?:: Bruits ou souffles anormaux
 

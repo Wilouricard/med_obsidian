@@ -7,6 +7,3 @@ Normal : son aérien. Si on entends pas "creux" > épanchements liquidiens.
 
 *Généralement, il n'est pas effectué par le médecin, seulement en cas de symptômes reportés par le patient ou d'autres signs physiques.*  
 
-
-#flashcards
-Quel est le but de la percussion thoracique ?::Apprécier la présence d’air ou de liquide dans le thorax

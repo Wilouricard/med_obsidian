@@ -5,6 +5,3 @@
 - il irradie aux carotides
 - le rétrécissement aortique est serré et calcifié lorsque le B2 est aboli à l'auscultation.
 
-
-#flashcards
-Qu’est-ce qu’un souffle de rétrécissement aortique ?:: Souffle mésosystolique râpeux au foyer aortique irradiant aux carotides

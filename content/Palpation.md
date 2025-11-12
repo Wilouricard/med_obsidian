@@ -15,6 +15,3 @@ Permet de rechercher en cardiologie :
 ## Pouls artériels
 Patient allongé, en décubitus dorsal et de manière bilatérale. Appuie de la pulpe des doigts : sentir battements des artères. Temporaux, carotidiens, huméraux, radiaux, ulnaires, fémoraux, poplités, tibiaux postérieurs et pédieux. 
 
-
-#flashcards
-Quel est le but de la palpation en cardiologie ?::Détecter choc de pointe, pouls et signes artériels ou veineux

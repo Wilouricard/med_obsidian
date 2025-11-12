@@ -5,5 +5,3 @@
 - peuvent s'y associer le « pistol shot » mésosystolique et un roulement diastolique de Flint au foyer mitral (rétrécissement mitral fonctionnel lié à la fuite aortique).
 
 
-#flashcards
-Qu’est-ce qu’un souffle d’insuffisance aortique ?:: Souffle protodiastolique décrescendo au foyer aortique

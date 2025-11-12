@@ -42,7 +42,7 @@ Deux systèmes principaux recueillent et traitent les informations :
     
 - Fonctionne à une échelle de **millisecondes**.
     
-- Exemples : réflexe de retrait face à une brûlure, régulation de la pression artérielle.
+- Exemples : réflexe de retrait face à une brûlure, régulation de la [[pression artérielle]].
     
 
 ### 2. [[Système endocrinien]]
@@ -51,7 +51,7 @@ Deux systèmes principaux recueillent et traitent les informations :
     
 - Effets prolongés (minutes à jours).
     
-- Intervient notamment dans la **régulation du métabolisme** et de la **glycémie**.
+- Intervient notamment dans la **régulation du métabolisme** et de la **[[glycémie]]**.
     
 - L’hypothalamus joue un rôle central de lien entre système nerveux et endocrinien (contrôle de l’hypophyse).
     
@@ -187,7 +187,7 @@ Permettent de déplacer de **grandes molécules** via des **vésicules** :
 
 - **Normes** : 135–145 mmol/L.
     
-- **Fonctions** : régulation hydrique, pression artérielle, volume sanguin.
+- **Fonctions** : régulation hydrique, [[pression artérielle]], volume sanguin.
     
 - **Régulation** : aldostérone (↑ Na⁺), ADH (réabsorption d’eau).
     
@@ -272,15 +272,15 @@ Permettent de déplacer de **grandes molécules** via des **vésicules** :
 
 ---
 
-### 5. **Régulation de la glycémie**
+### 5. **Régulation de la [[glycémie]]**
 
-- **Glycémie normale** : 0,8–1,2 g/L.
+- **[[Glycémie]] normale** : 0,8–1,2 g/L.
     
 - **Hormones clés** :
     
-    - _Insuline_ : diminue la glycémie → favorise l’entrée du glucose dans les cellules, la formation de glycogène.
+    - _Insuline_ : diminue la [[glycémie]] → favorise l’entrée du glucose dans les cellules, la formation de glycogène.
         
-    - _Glucagon_ : augmente la glycémie → stimule la dégradation du glycogène hépatique.
+    - _Glucagon_ : augmente la [[glycémie]] → stimule la dégradation du glycogène hépatique.
         
 
 #### Déséquilibres
