@@ -9,7 +9,7 @@ Listes des items de l'EDN :
 | UE4  | Perception - système nerveux - revêtement cutané                                              | (81 → 117)  |
 | UE5  | Handicap - Vieillissement - Dépendance - Douleur - Soins palliatifs - Accompagnement          | (118 → 144) |
 | UE6  | Maladies transmissibles - Risques sanitaires - Santé au travail                               | (145 → 184) |
-| UE7  | Inflammation - Immunopathologie - Poumon - Sang                                               | (185 → 220) |
+| UE7  | Inflammation - Immunopathologie - Poumon - [[Sang]]                                               | (185 → 220) |
 | UE8  | Circulation - Métabolismes                                                                    | (221 → 289) |
 | UE9  | Cancérologie - Onco-hématologie                                                               | (290 → 320) |
 | UE10 | Le bon usage du médicament et des thérapeutiques non médicamenteuses                          | (321 → 330) |
@@ -346,7 +346,7 @@ Listes des items de l'EDN :
 | 326        | Cadre réglementaire de la prescription thérapeutique et recommandations pour le bon usage                                                                                                                                                                |
 | 327        | Principes de la médecine intégrative, utilité et risques des interventions non médicamenteuses et des thérapies complémentaires                                                                                                                          |
 | 328        | Thérapeutiques non médicamenteuses et dispositifs médicaux                                                                                                                                                                                               |
-| 329        | Transfusion sanguine et produits dérivés du sang : indications, complications. Hémovigilance                                                                                                                                                             |
+| 329        | Transfusion sanguine et produits dérivés du [[sang]] : indications, complications. Hémovigilance                                                                                                                                                             |
 | 330        | Prescription et surveillance des classes de médicaments les plus courantes chez l'adulte et chez l'enfant, hors anti-infectieux                                                                                                                          |
 | 331        | Arrêt cardiorespiratoire                                                                                                                                                                                                                                 |
 | 332        | État de choc. Principales étiologies : hypovolémique, septique, cardiogénique, anaphylactique                                                                                                                                                            |

@@ -1,5 +1,5 @@
 # PA (Pression artérielle)
-La pression artérielle, ou pression artérielle systémique, correspond à la pression sanguine dans les artères de la circulation systémique. On parle aussi de tension artérielle car cette pression est aussi la force exercée par le sang sur la paroi des artères, ce qui les tend.
+La pression artérielle, ou pression artérielle systémique, correspond à la pression sanguine dans les artères de la circulation systémique. On parle aussi de tension artérielle car cette pression est aussi la force exercée par le [[sang]] sur la paroi des artères, ce qui les tend.
 
 Measures sous conditions : 
 - Endroit calme

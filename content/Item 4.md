@@ -185,7 +185,7 @@ Coordination, investigation, suivi, lien avec CME.
 
 Pharmaco-, hémovigilance, matériovigilance, biovigilance, etc.
 
->Chaque “vigilance” surveille un domaine : médicaments, dispositifs, sang…
+>Chaque “vigilance” surveille un domaine : médicaments, dispositifs, [[sang]]…
 
 ### 3. Niveau national
 
