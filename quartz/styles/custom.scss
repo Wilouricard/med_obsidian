@@ -2,3 +2,17 @@
 @use "themes";
 
 // put your custom CSS here!
+
+ul, ol {
+  list-style: initial !important;
+  margin-left: 1.4rem !important;
+}
+
+li {
+  display: list-item !important;
+}
+
+ul > li::marker,
+ol > li::marker {
+  content: revert !important;
+}
