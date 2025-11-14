@@ -3,16 +3,30 @@
 
 // put your custom CSS here!
 
-ul, ol {
+/* FORCE LES LISTES POUR ITS THEME */
+
+.markdown-body ul,
+.markdown-body ol,
+.content ul,
+.content ol,
+.post-content ul,
+.post-content ol {
   list-style: initial !important;
-  margin-left: 1.4rem !important;
+  padding-left: 1.5rem !important;
+  margin-left: 1.2rem !important;
 }
 
-li {
+.markdown-body li,
+.content li,
+.post-content li {
   display: list-item !important;
 }
 
-ul > li::marker,
-ol > li::marker {
+.markdown-body ul > li::marker,
+.markdown-body ol > li::marker,
+.content ul > li::marker,
+.content ol > li::marker,
+.post-content ul > li::marker,
+.post-content ol > li::marker {
   content: revert !important;
 }
