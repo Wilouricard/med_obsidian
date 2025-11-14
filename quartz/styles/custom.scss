@@ -2,20 +2,3 @@
 @use "themes";
 
 // put your custom CSS here!
-
-/* Fix les listes pour ITS-Theme */
-.page ul,
-.page ol {
-  list-style: initial !important;
-  margin-left: 1.5rem !important;
-  padding-left: 1.2rem !important;
-}
-
-.page li {
-  display: list-item !important;
-}
-
-.page ul > li::marker,
-.page ol > li::marker {
-  content: revert !important;
-}
