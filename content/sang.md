@@ -6,7 +6,7 @@
 Le sang est un **tissu conjonctif spécialisé** qui circule dans tout le corps.  
 Il transporte des éléments indispensables à la survie et assure la communication entre les organes.
 
-> je dois voir le sang comme “l’autoroute du corps”. Tout circule dedans : oxygène, nutriments, hormones, cellules immunitaires. Si la circulation est perturbée → problème partout (un peu simpliste)
+> Voir le sang comme “l’autoroute du corps”. Tout circule dedans : oxygène, nutriments, hormones, cellules immunitaires. Si la circulation est perturbée → problème partout (un peu simpliste)
 
 ### Fonctions principales
 
@@ -92,7 +92,7 @@ Produites par le **foie** (sauf immunoglobulines produites par les lymphocytes B
 Assurent la **coagulation** du sang.  
 Déficit → hémorragies.
 
->Ces protéines = la “trousse de secours” du corps.
+>Ces protéines = la “trousse de secours” du corps. à voir homéostase etc
 
 ---
 
@@ -224,7 +224,7 @@ Fonction :
     - maladies pulmonaires
         
 
->Si le corps manque d’O₂ → il produit plus de globules rouges. Logique.
+>Si le corps manque d’O₂ → il produit plus de globules rouges.
 
 ---
 
@@ -401,7 +401,7 @@ Donne naissance :
 
 ---
 
-# 5. NFS – Normes biologiques
+# 5. NFS :; Normes biologiques
 
 |Paramètre|Homme|Femme|
 |---|---|---|
@@ -417,7 +417,7 @@ Donne naissance :
 |Monocytes|200–950/mm³|idem|
 |Plaquettes|150 000–400 000/mm³|Enfant : 160–500 k|
 
->connaître les valeurs de base permet d’interpréter très vite une NFS — indispensable en clinique.
+>connaître les valeurs de base permet d’interpréter très vite une NFS, indispensable en clinique.
 
 ---
 

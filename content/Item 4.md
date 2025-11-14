@@ -99,7 +99,7 @@ Un EI survient quand plusieurs défenses échouent simultanément.
 - Causes patentes (humaines) ≈ 10 %
     
 
-> Il faut arrêter de blâmer les individus. Les erreurs viennent surtout du système, pas des personnes.
+> On blame souvent les individus. Les erreurs viennent surtout du système, pas des personnes.
 
 ### Facteurs humains
 
@@ -194,7 +194,7 @@ Pharmaco-, hémovigilance, matériovigilance, biovigilance, etc.
 Avant : évalue utilité/dangerosité.  
 Après : récolte signalements + mesures correctrices.
 
->L’ANSM est la police des médicaments et dispositifs.
+>L’ANSM est la ""police"" des médicaments et dispositifs.
 
 #### HAS
 
