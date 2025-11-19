@@ -386,7 +386,7 @@ Listes des items de l'EDN :
 | 366          | Exposition accidentelle aux liquides biologiques : conduite à tenir                                                                                                                                                                                      |
 | 367          | Impact de l’environnement sur la santé                                                                                                                                                                                                                   |
 
-Ordre prépa : 
+## Ordre prépa : 
 
 1. **[[Item 1]] – Relation médecin-malade**
 2. **[[Item 2]] – Valeurs professionnelles
@@ -422,6 +422,164 @@ Enfin clinique de base : → pcq c'est le basique à regarder quand on tombe mal
 21. **Items 361–363 : Traumatismes fréquents (entorses, fractures simples)**
 
 → les autres items sont trop avancés, perte de temps à aller choper les infos pour comprendre le pourquoi du comment à chaque fois. à voir uniquement si temps bonus.  
+
+## Cas cliniques
+
+## Urgences vitales, les fondations**
+
+_Objectif : savoir reconnaître/hiérarchiser une urgence._
+
+### **1. Douleur thoracique non traumatique**
+[[cc SCA NSTEMI inférieur]]
+
+### **2. Syndrome coronarien aigu (STEMI inférieur)**
+[[cc SCA STEMI inférieur]]
+
+### **3. Embolie pulmonaire**
+
+### **4. OAP / Insuffisance cardiaque aiguë**
+
+### **5. Dissection aortique**
+
+### **6. Tachycardie à QRS larges (TV)**
+
+### **7. Bradycardie / BAV**
+
+### **8. Fibrillation atriale rapide**
+
+### **9. Choc anaphylactique**
+
+### **10. Œdème de Quincke**
+
+→ je sais détecter **qui va mourir en 2 min**. 
+
+---
+
+## Dyspnée / respiration (2e priorité vitale)
+
+### **11. Dyspnée aiguë (diagnostic différentiel complet)**
+
+### **12. Asthme aigu grave**
+
+### **13. Exacerbation de BPCO**
+
+### **14. Pneumonie communautaire**
+
+### **15. Pneumothorax**
+
+Cardiologie + Pneumo = 50% des urgences hospitalières.
+
+---
+
+## Neurologie aiguë (3e priorité vitale)
+
+### **16. AVC ischémique**
+
+### **17. AVC hémorragique**
+
+### **18. Crise d’épilepsie généralisée**
+
+### **19. État de mal épileptique**
+
+### **20. Céphalée aiguë (HSA vs méningite vs migraine)**
+
+### **21. Syndrome confusionnel aigu**
+
+
+---
+
+## Abdomen aiguë (urgences digestives majeures)
+
+### **22. Douleur abdominale aiguë (méthode de tri)**
+
+### **23. Appendicite aiguë**
+
+### **24. Pancréatite aiguë**
+
+### **25. Cholécystite aiguë / colique hépatique**
+
+### **26. Hémorragie digestive haute**
+
+### **27. Hémorragie digestive basse**
+
+
+---
+
+## Infectiologie
+
+### **28. Fièvre isolée – démarche EDN**
+
+### **29. Sepsis / Choc septique**
+
+### **30. Méningite purulente**
+
+### **31. Pyélonéphrite aiguë**
+
+### **32. Infection urinaire simple / cystite**
+
+
+---
+
+## Urgence fréquentes (généraliste)
+
+### **33. Malaise / syncope**
+
+### **34. Traumatismes crâniens**
+
+### **35. Brûlures**
+
+### **36. Intoxication médicamenteuse volontaire (IMV)**
+
+### **37. Colique néphrétique / douleur lombaire aiguë**
+
+
+---
+
+## Endocrinologie et métabolique
+
+### **38. Hyperglycémie + acidocétose diabétique**
+
+### **39. Hypoglycémie sévère**
+
+### **40. Hypothyroïdie / myxœdème**
+
+### **41. Hyperthyroïdie / thyrotoxicose**
+
+
+---
+
+## Vasculaire
+
+### **42. Œdèmes des membres inférieurs**
+
+### **43. Thrombose veineuse profonde**
+
+### **44. État de choc (hypovolémique, septique, cardiogénique)**
+
+---
+
+## Psychiatrie
+
+### **45. État dépressif majeur avec risque suicidaire**
+
+### **46. Bouffée délirante aiguë**
+
+---
+
+## Urgence pédiatrique
+
+### **47. Fièvre chez un nourrisson <3 mois**
+
+### **48. Bronchiolite**
+
+---
+
+## Allergo et Immuno
+
+### **49. Choc anaphylactique (déjà vu, juste révision)**
+
+### **50. Œdème de Quincke (déjà vu, juste révision)**
+
 
 
 ---
