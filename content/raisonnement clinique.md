@@ -138,7 +138,7 @@ Pour douleur thoracique :
 
 Pour dyspnée :
 
-1. OAP
+1. [[OAP]]
     
 2. BPCO décompensée
     

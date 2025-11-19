@@ -1,6 +1,6 @@
 #cc
 
-# STEMI inférieur
+# SCA STEMI inférieur
 
 ## **I. Présentation du patient**
 
@@ -101,7 +101,7 @@ Car ce sont les 3 causes de douleur thoracique qui tuent en quelques minutes/ he
 
 ### **3) Héparine IV**
 
-- HNF 60–70 UI/kg IV (ou Enox 0,5 mg/kg IV)  
+- [[HNF]] 60–70 UI/kg IV (ou Enox 0,5 mg/kg IV)  
     → empêche formation de **fibrine**  
     → bloque la coagulation  
     → complète l’effet anti-plaquettes
@@ -185,7 +185,7 @@ Car ce sont les 3 causes de douleur thoracique qui tuent en quelques minutes/ he
     → surveillance ECG continue
     
 
-### **2. BAV / bradycardie sévère**
+### **2. [[BAV]] / bradycardie sévère**
 
 Typique du STEMI inférieur → atteint le nœud AV.
 
@@ -235,14 +235,14 @@ Hypotension, marbrures, confusion.
 
 ## **IX. Traitement de fond à vie**
 
-###  **1. DAPT (Double anti-agrégation)**
+###  **1. [[DAPT]] (Double anti-agrégation)**
 
 - Aspirine : à vie
     
 - - P2Y12 : pendant **12 mois**
         
 
-###  **2. Bêta-bloquant**
+###  **2. [[Bêta-bloquant]]**
 
 - ↓ FC, ↓ consommation O₂
     
@@ -251,7 +251,7 @@ Hypotension, marbrures, confusion.
 - ↓ mortalité
     
 
-###  **3. IEC (ou ARA2 si intolérance)**
+###  **3. [[IEC]] (ou ARA2 si intolérance)**
 
 - évite dilatation du ventricule
     
@@ -284,7 +284,7 @@ Hypotension, marbrures, confusion.
 - Mortalité ≈ **40–45 %**
     
 
-→ D’où l’importance **vitale** du DAPT pendant 12 mois.
+→ D’où l’importance **vitale** du [[DAPT]] pendant 12 mois.
 
 ---
 
@@ -292,6 +292,6 @@ Hypotension, marbrures, confusion.
 
 **ST+ en DII–III–aVF = STEMI inférieur → coro immédiate.**  
 Traitement urgent : **Aspirine + P2Y12 + Héparine + Scope + Coro**.  
-Complications : **TV/FV, BAV, ruptures, choc**.  
-Traitement long cours : **DAPT + Bêta-bloquant + IEC + Statine**.  
+Complications : **TV/FV, [[BAV]], ruptures, choc**.  
+Traitement long cours : **[[DAPT]] + [[Bêta-bloquant]] + [[IEC]] + Statine**.  
 Suivi à vie.
