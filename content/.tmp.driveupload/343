@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "94fd3e4770e80cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "104febe80ebe4cfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cb73ec36b10df5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21bcff84479abcb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "abbf31a2bfcfd5e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac818ce04b3bfd4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "ad56871479932154",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pasted",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "9872fa63cea22cca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 466.5
+  },
+  "right": {
+    "id": "0a0fcebadadacfee",
+    "type": "split",
+    "children": [
+      {
+        "id": "90217e3d29eb8e40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7da7bb2a8d20b414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "6f39b1828d0de46e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "87ffaa0625be8e3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "b1aa26cd4dce0de2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "38de37216a18eb28",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Cartes à apprendre"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 886.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Ouvrir la vue graphique": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false,
+      "obsidian-spaced-repetition:Apprendre les flashcards": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ac818ce04b3bfd4d",
+  "lastOpenFiles": [
+    "Artère coronaire gauche.md",
+    "4 Foyers principaux d'auscultation cardiaque.md",
+    "Coronaires.md",
+    "Artère interventriculaire antérieure.md",
+    "Artère coronaire droite.md",
+    "Artère circonflexe.md",
+    "Pasted image 20251106133544.jpg",
+    "Pasted image 20251107095150.png.md",
+    "Souffles diastoliques.md",
+    "Modification des bruits.md",
+    "Souffle de rétrécissement aortique.md",
+    "Souffle insuffisance mitrale.md",
+    "symptômes fonctionnels cardiaques.md",
+    "Frottement péricardique.md",
+    "Item 186.md",
+    "AOMI.md",
+    "Claudication intermittente des membres inférieures.md",
+    "Item 45.md",
+    "raisonnement clinique.md",
+    "Item 185.md",
+    "Synthèse Item 1, 2, 3 et 4.md",
+    "CRP.md",
+    "VS.md",
+    "Syndrome de l’X fragile.md",
+    "Trisomie 21.md",
+    "Mucoviscidose.md",
+    "génétique.md",
+    "tasks",
+    "daily",
+    "Sans titre.base",
+    "Sans titre 3",
+    "Sans titre 2",
+    "Sans titre 1",
+    "Pasted image 20251107095150.png",
+    "Sans titre.canvas",
+    "Pasted image 20251106133526.jpg",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Pasted image 20251106080232.png",
+    "Pasted image 20251106080225.png"
+  ]
+}

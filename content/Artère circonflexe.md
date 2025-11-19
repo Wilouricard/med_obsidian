@@ -5,5 +5,3 @@ Parfois elle donne une artère ventriculaire postérieure.
 Branches collatérales : 
 - Artères ascendantes atriales
 - Artères descendantes ventriculaires
-
-![[Pasted image 20251107095150.png]]

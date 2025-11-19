@@ -6,5 +6,3 @@ Trajet :
 - Division en deux branches terminales :
 	- Artère ventriculaire postérieure 
 	- Artère rétroventriculaire gauche 
-
-![[Pasted image 20251107095150.png]]

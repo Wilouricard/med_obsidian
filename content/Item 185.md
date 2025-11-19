@@ -27,7 +27,7 @@
         
     - Connaître les complications d’un syndrome inflammatoire prolongé.
         
-    - Argumenter la conduite à tenir devant un syndrome inflammatoire et/ou une VS élevée inexpliquée.
+    - Argumenter la conduite à tenir devant un syndrome inflammatoire et/ou une [[VS]] élevée inexpliquée.
         
 
 ---
@@ -66,7 +66,7 @@
             
         - Systèmes d’activation plasmatique: complément, coagulation–fibrinolyse, système contact.
             
-        - Protéines de l’inflammation (CRP, SAA, haptoglobine, fibrinogène, orosomucoïde, etc.).
+        - Protéines de l’inflammation ([[CRP]], SAA, haptoglobine, fibrinogène, orosomucoïde, etc.).
             
 - Trois phases successives et limitées dans le temps:
     
@@ -119,7 +119,7 @@
         
     - Protéines de l’inflammation: augmentation des protéines positives, diminution des protéines négatives.
         
-    - VS: marqueur peu spécifique.
+    - [[VS]]: marqueur peu spécifique.
         
     - EPS: profil inflammatoire (↑ α1, α2, hypoalbuminémie).
         
@@ -217,7 +217,7 @@
 
 ### C. Diagnostics différentiels
 
-- VS élevée sans syndrome inflammatoire biologique:
+- [[VS]] élevée sans syndrome inflammatoire biologique:
     
     - Hypergammaglobulinémie polyclonale.
         
@@ -231,7 +231,7 @@
         
     - Polyglobulie, hémoconcentration.
         
-- Syndrome inflammatoire à VS normale (faux négatif de la VS).
+- Syndrome inflammatoire à [[VS]] normale (faux négatif de la [[VS]]).
     
 - Faux syndrome inflammatoire:
     
@@ -270,11 +270,11 @@
         
 - Patients âgés:
     
-    - Interprétation de la VS en fonction de l’âge:
+    - Interprétation de la [[VS]] en fonction de l’âge:
         
-        - Homme: VS normale ≈ âge/2.
+        - Homme: [[VS]] normale ≈ âge/2.
             
-        - Femme: VS normale ≈ (âge + 10)/2.
+        - Femme: [[VS]] normale ≈ (âge + 10)/2.
             
 
 ---
@@ -302,7 +302,7 @@
 
 - Protéines positives (concentration augmente en cas d’inflammation):
     
-    - CRP (C-reactive protein).
+    - [[CRP]] (C-reactive protein).
         
     - Procalcitonine.
         
@@ -324,7 +324,7 @@
         
 - Cinétique:
     
-    - Rapide (< 1 jour): procalcitonine, CRP, SAA.
+    - Rapide (< 1 jour): procalcitonine, [[CRP]], SAA.
         
     - Moyenne (1 à 5 jours): haptoglobine, orosomucoïde, C3.
         
@@ -359,7 +359,7 @@
 - Faux positifs (0,50 à 2): SRIS, polytraumatisme, brûlures.
     
 
-4. Vitesse de sédimentation (VS)
+4. Vitesse de sédimentation ([[VS]])
     
 
 - Marqueur peu spécifique:
@@ -372,7 +372,7 @@
         
     - Femme: ≈ (âge + 10)/2.
         
-- VS élevée sans syndrome inflammatoire:
+- [[VS]] élevée sans syndrome inflammatoire:
     
     - Hypergammaglobulinémie polyclonale.
         
@@ -384,7 +384,7 @@
         
     - Cryoglobulinémie, hypofibrinogénémie, etc.
         
-- Syndrome inflammatoire à VS normale possible.
+- Syndrome inflammatoire à [[VS]] normale possible.
     
 
 5. Électrophorèse des protéines sériques (EPS)
@@ -414,7 +414,7 @@
             
 - Indications:
     
-    - Hyperprotidémie, VS élevée, ostéoporose (recherche de myélome).
+    - Hyperprotidémie, [[VS]] élevée, ostéoporose (recherche de myélome).
         
     - Suspicion de déficit immunitaire (hypogammaglobulinémie).
         
@@ -442,7 +442,7 @@
     
 - Fibrinogène.
     
-- Profil protéique combinant CRP, EPS, fibrinogène, ferritine, etc.
+- Profil protéique combinant [[CRP]], EPS, fibrinogène, ferritine, etc.
     
 
 ### B. Imagerie
@@ -488,13 +488,13 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
     
     - Discordance entre marqueurs:
         
-        - Hémolyse: ↓ haptoglobine avec CRP et autres protéines positives toujours élevées.
+        - Hémolyse: ↓ haptoglobine avec [[CRP]] et autres protéines positives toujours élevées.
             
         - Lupus systémique:
             
-            - Syndrome inflammatoire à CRP normale.
+            - Syndrome inflammatoire à [[CRP]] normale.
                 
-            - Élévation de la CRP → évoque une sérite ou une infection surajoutée.
+            - Élévation de la [[CRP]] → évoque une sérite ou une infection surajoutée.
                 
             - Baisse du C3 et du C4 en faveur du lupus.
                 
@@ -512,7 +512,7 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
                 
 - Faux « syndromes inflammatoires »:
     
-    - VS isolément élevée.
+    - [[VS]] isolément élevée.
         
     - Hypergammaglobulinémie polyclonale isolée.
         
@@ -537,11 +537,11 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
             
             - NFS: anémie inflammatoire, thrombocytose, anomalies leucocytaires.
                 
-            - Protéines de l’inflammation: profil inflammatoire (CRP, fibrinogène, SAA, etc.).
+            - Protéines de l’inflammation: profil inflammatoire ([[CRP]], fibrinogène, SAA, etc.).
                 
             - EPS: hypoalbuminémie, ↑ α1, α2-globulines.
                 
-            - VS: souvent augmentée mais peu spécifique.
+            - [[VS]]: souvent augmentée mais peu spécifique.
                 
 - Syndrome inflammatoire biologique:
     
@@ -618,7 +618,7 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
             
 - Examen biologique de base:
     
-    - NFS, CRP, VS, EPS, bilan hépatique, rénal, ferritine, bilan du complément selon le contexte.
+    - NFS, [[CRP]], [[VS]], EPS, bilan hépatique, rénal, ferritine, bilan du complément selon le contexte.
         
 - Poursuivre par examens orientés en fonction des hypothèses:
     
@@ -683,11 +683,11 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
         
     - Réévaluation biologique:
         
-        - CRP, procalcitonine, NFS, fibrinogène, EPS.
+        - [[CRP]], procalcitonine, NFS, fibrinogène, EPS.
             
         - Utilisation de la cinétique des marqueurs:
             
-            - CRP / procalcitonine pour la réponse rapide.
+            - [[CRP]] / procalcitonine pour la réponse rapide.
                 
             - Haptoglobine, orosomucoïde, C3 pour évolution à moyen terme.
                 
@@ -947,13 +947,13 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
 
 ## XI. Pièges - Attentioon
 
-- VS:
+- [[VS]]:
     
     - Marqueur peu spécifique.
         
-    - VS élevée possible sans syndrome inflammatoire véritable (hypergammaglobulinémie, myélome, grossesse, anémie, hémolyse, cryoglobulinémie, hypofibrinogénémie).
+    - [[VS]] élevée possible sans syndrome inflammatoire véritable (hypergammaglobulinémie, myélome, grossesse, anémie, hémolyse, cryoglobulinémie, hypofibrinogénémie).
         
-    - Syndrome inflammatoire possible avec VS normale.
+    - Syndrome inflammatoire possible avec [[VS]] normale.
         
 - Hypergammaglobulinémie polyclonale:
     
@@ -967,7 +967,7 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
     
     - Hémolyse: haptoglobine basse avec autres protéines positives encore élevées.
         
-    - Lupus systémique: syndrome inflammatoire avec CRP normale.
+    - Lupus systémique: syndrome inflammatoire avec [[CRP]] normale.
         
     - Carence martiale: transferrine élevée malgré albumine basse.
         
@@ -1014,13 +1014,13 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
         
     - Protéines d’inflammation:
         
-        - Positives: CRP, procalcitonine, fibrinogène, SAA, haptoglobine, orosomucoïde, C3, C4.
+        - Positives: [[CRP]], procalcitonine, fibrinogène, SAA, haptoglobine, orosomucoïde, C3, C4.
             
         - Négatives: albumine, transferrine.
             
 - Cinétique des protéines:
     
-    - Rapide: procalcitonine, CRP, SAA.
+    - Rapide: procalcitonine, [[CRP]], SAA.
         
     - Moyenne: haptoglobine, orosomucoïde, C3.
         

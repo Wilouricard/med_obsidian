@@ -5,4 +5,3 @@ Trajet court :
 	- [[Artère interventriculaire antérieure]] 
 	- [[Artère circonflexe ]]
 
-![[Pasted image 20251107095150.png]]

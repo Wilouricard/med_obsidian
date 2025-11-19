@@ -30,7 +30,7 @@ RAISONNEMENT CLINIQUE
 |        └─ Signes de menace d’organe
 |
 |── VI. Bilan orienté (jamais catalogue)
-|        ├─ Biologie (hémogramme, CRP, PCT, iono…)
+|        ├─ Biologie (hémogramme, [[CRP]], PCT, iono…)
 |        ├─ Imagerie (selon mécanisme)
 |        ├─ Examen spécifique (GDS, BU, PL…)
 |        └─ Interprétation attendue
@@ -190,7 +190,7 @@ Ils veulent un bilan ciblé sur :
 
 ### Biologie
 
-CRP, hémogramme, iono, lactates, troponine, D-dimères, BNP…
+[[CRP]], hémogramme, iono, lactates, troponine, D-dimères, BNP…
 
 ### Imagerie
 
@@ -209,13 +209,13 @@ Le tout doit être relié aux hypothèses posées.
 Le raisonnement EDN ne s’arrête pas à “je demande X”.  
 Il faut montrer :
 
-- CRP haute + PCT basse → viral
+- [[CRP]] haute + PCT basse → viral
     
 - leucocytes élevés + PNN → bacterien
     
 - ECG ST+ → SCA ST+
     
-- VS très élevée → néoplasie / inflammatoire chronique
+- [[VS]] très élevée → néoplasie / inflammatoire chronique
     
 - D-dimères hauts + probabilité élevée → EP probable
     

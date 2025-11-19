@@ -1,7 +1,5 @@
 # [Anatomie] : vascularisation du cœur.
 
-![[Pasted image 20251107095150.png]]
-
 Artères du coeur au nombre de 2 autour du coeur : 
 - ## [[Artère coronaire droite]]
 - ## [[Artère coronaire gauche]]

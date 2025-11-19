@@ -62,7 +62,7 @@ Listes des items de l'EDN :
 | 42           | Aménorrhée                                                                                                                                                                                                                                               |
 | 43           | Hémorragie génitale chez la femme                                                                                                                                                                                                                        |
 | 44           | Tuméfaction pelvienne chez la femme                                                                                                                                                                                                                      |
-| 45           | Spécificités des maladies génétiques                                                                                                                                                                                                                     |
+| [[Item 45]]  | Spécificités des maladies génétiques                                                                                                                                                                                                                     |
 | 46           | Médecine génomique                                                                                                                                                                                                                                       |
 | 47           | Suivi d'un nourrisson, d'un enfant et d'un adolescent normal. Dépistage des anomalies orthopédiques, des troubles visuels, auditifs et dentaires. Examens de santé obligatoires. Médecine scolaire. Mortalité et morbidité infantiles.                   |
 | 48           | Alimentation et besoins nutritionnels du nourrisson et de l'enfant                                                                                                                                                                                       |
@@ -388,18 +388,18 @@ Listes des items de l'EDN :
 
 Ordre prépa : 
 
-1. **Item 1 – Relation médecin-malade**
-2. **Item 2 – Valeurs professionnelles
-3. **Item 3 – Raisonnement clinique / EBM
-4. **Item 4 – Qualité & sécurité des soins**
+1. **[[Item 1]] – Relation médecin-malade**
+2. **[[Item 2]] – Valeurs professionnelles
+3. **[[Item 3]] – Raisonnement clinique / EBM
+4. **[[Item 4]] – Qualité & sécurité des soins**
 
 [[Synthèse Item 1, 2, 3 et 4]] 
 
 → me donner le conditionnement à mon raisonnement médical, sont dans toutes situation cliniques (base de la base pour exercer correctement humainement et légalement), me donner une identité globale du soignant (ici médecin) et voir si je peux m'y accorder, surement préparation à la compréhension goblal du système fr ? Manque peut-être un peu de santé publique.
 
-5. **Item 185 – Réaction inflammatoire** → pcq c'est la base de toute maladies
-6. **Item 186 – Hypersensibilités & allergies** → premier grand schéma immuno déjà vu en bio 
- 7. **Item 45 – Spécificités des maladies génétiques** → basique transmission, anomalies  déjà vu en bio
+5. **[[Item 185]] – Réaction inflammatoire** → pcq c'est la base de toute maladies
+6. **[[Item 186]] – Hypersensibilités & allergies** → premier grand schéma immuno déjà vu en bio 
+ 7. **[[Item 45]] – Spécificités des maladies génétiques** → basique transmission, anomalies  déjà vu en bio
 8. **Item 46 – Médecine génomique (interprétation basique)** → nouvelle vision + celle de bio
 9. **Item 212 – Hémogramme (interprétation basique)** → outil de base !
 

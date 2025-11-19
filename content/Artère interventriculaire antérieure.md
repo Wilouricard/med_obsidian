@@ -5,5 +5,3 @@ Elle donne :
 - Branche ventriculaires gauches (diagonales)
 - Artères septales antérieures (parfois aussi postérieur dépendant de sa terminaison).
 
-
-![[Pasted image 20251107095150.png]]
