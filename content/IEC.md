@@ -35,4 +35,4 @@ Bloque l’ECA (enzyme de conversion de l’angiotensine)→ ↓ angiotensine II
     
 
 **Objectif**  
-Réduire post-charge, protéger le cœur et les reins, améliorer le pronostic. En gros, vasodilatation générale, réduction volume circulant, réduction travail cardiaque → meilleur pronostic post [[infarctus]] 
+Réduire post-charge, protéger le [[cœur]] et les reins, améliorer le pronostic. En gros, vasodilatation générale, réduction volume circulant, réduction travail cardiaque → meilleur pronostic post [[infarctus]] 

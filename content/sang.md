@@ -98,7 +98,7 @@ Déficit → hémorragies.
 
 ## 2.2. Électrolytes (rôle clé)
 
-- Contraction musculaire (dont cœur).
+- Contraction musculaire (dont [[cœur]]).
     
 - Transmission nerveuse.
     

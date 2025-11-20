@@ -1,5 +1,5 @@
 # Auscultation
-Auscultation cardiaque avec un stéthoscope, essentiel de l'examen cardiaque : bruit du cœur, souffles cardiaques.
+Auscultation cardiaque avec un stéthoscope, essentiel de l'examen cardiaque : bruit du [[cœur]], souffles cardiaques.
 Complété par l'auscultation pleuropulmonaire (plèvre et poumon).
 
 Position : décubitus dorsal, latéral gauche puis position assise. 

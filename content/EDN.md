@@ -63,7 +63,7 @@ Listes des items de l'EDN :
 | 43           | Hémorragie génitale chez la femme                                                                                                                                                                                                                        |
 | 44           | Tuméfaction pelvienne chez la femme                                                                                                                                                                                                                      |
 | [[Item 45]]  | Spécificités des maladies génétiques                                                                                                                                                                                                                     |
-| 46           | Médecine génomique                                                                                                                                                                                                                                       |
+| [[Item 46]]  | Médecine génomique                                                                                                                                                                                                                                       |
 | 47           | Suivi d'un nourrisson, d'un enfant et d'un adolescent normal. Dépistage des anomalies orthopédiques, des troubles visuels, auditifs et dentaires. Examens de santé obligatoires. Médecine scolaire. Mortalité et morbidité infantiles.                   |
 | 48           | Alimentation et besoins nutritionnels du nourrisson et de l'enfant                                                                                                                                                                                       |
 | 49           | Puberté normale et pathologique                                                                                                                                                                                                                          |
@@ -400,7 +400,7 @@ Listes des items de l'EDN :
 5. **[[Item 185]] – Réaction inflammatoire** → pcq c'est la base de toute maladies
 6. **[[Item 186]] – Hypersensibilités & allergies** → premier grand schéma immuno déjà vu en bio 
  7. **[[Item 45]] – Spécificités des maladies génétiques** → basique transmission, anomalies  déjà vu en bio
-8. **Item 46 – Médecine génomique (interprétation basique)** → nouvelle vision + celle de bio
+8. **[[Item 46]] – Médecine génomique (interprétation basique)** → nouvelle vision + celle de bio
 9. **Item 212 – Hémogramme (interprétation basique)** → outil de base !
 
 Ensuite : bases cardio (déjà fait un peu) → coeur de la cardio
@@ -429,27 +429,27 @@ Enfin clinique de base : → pcq c'est le basique à regarder quand on tombe mal
 
 _Objectif : savoir reconnaître/hiérarchiser une urgence._
 
-### **1. Douleur thoracique non traumatique**
+**1. Douleur thoracique non traumatique**
 [[cc SCA NSTEMI inférieur]]
 
-### **2. Syndrome coronarien aigu (STEMI inférieur)**
+**2. Syndrome coronarien aigu (STEMI inférieur)**
 [[cc SCA STEMI inférieur]]
 
-### **3. Embolie pulmonaire**
+**3. Embolie pulmonaire**
 
-### **4. OAP / Insuffisance cardiaque aiguë**
+**4. OAP / Insuffisance cardiaque aiguë**
 
-### **5. Dissection aortique**
+**5. Dissection aortique**
 
-### **6. Tachycardie à QRS larges (TV)**
+**6. Tachycardie à QRS larges (TV)**
 
-### **7. Bradycardie / BAV**
+**7. Bradycardie / BAV**
 
-### **8. Fibrillation atriale rapide**
+**8. Fibrillation atriale rapide**
 
-### **9. Choc anaphylactique**
+**9. Choc anaphylactique**
 
-### **10. Œdème de Quincke**
+**10. Œdème de Quincke**
 
 → je sais détecter **qui va mourir en 2 min**. 
 
@@ -457,15 +457,15 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 
 ## Dyspnée / respiration (2e priorité vitale)
 
-### **11. Dyspnée aiguë (diagnostic différentiel complet)**
+**11. Dyspnée aiguë (diagnostic différentiel complet)**
 
-### **12. Asthme aigu grave**
+**12. Asthme aigu grave**
 
-### **13. Exacerbation de BPCO**
+**13. Exacerbation de BPCO**
 
-### **14. Pneumonie communautaire**
+**14. Pneumonie communautaire**
 
-### **15. Pneumothorax**
+**15. Pneumothorax**
 
 Cardiologie + Pneumo = 50% des urgences hospitalières.
 
@@ -473,112 +473,112 @@ Cardiologie + Pneumo = 50% des urgences hospitalières.
 
 ## Neurologie aiguë (3e priorité vitale)
 
-### **16. AVC ischémique**
+**16. AVC ischémique**
 
-### **17. AVC hémorragique**
+**17. AVC hémorragique**
 
-### **18. Crise d’épilepsie généralisée**
+**18. Crise d’épilepsie généralisée**
 
-### **19. État de mal épileptique**
+**19. État de mal épileptique**
 
-### **20. Céphalée aiguë (HSA vs méningite vs migraine)**
+**20. Céphalée aiguë (HSA vs méningite vs migraine)**
 
-### **21. Syndrome confusionnel aigu**
+**21. Syndrome confusionnel aigu**
 
 
 ---
 
 ## Abdomen aiguë (urgences digestives majeures)
 
-### **22. Douleur abdominale aiguë (méthode de tri)**
+**22. Douleur abdominale aiguë (méthode de tri)**
 
-### **23. Appendicite aiguë**
+**23. Appendicite aiguë**
 
-### **24. Pancréatite aiguë**
+**24. Pancréatite aiguë**
 
-### **25. Cholécystite aiguë / colique hépatique**
+**25. Cholécystite aiguë / colique hépatique**
 
-### **26. Hémorragie digestive haute**
+**26. Hémorragie digestive haute**
 
-### **27. Hémorragie digestive basse**
+**27. Hémorragie digestive basse**
 
 
 ---
 
 ## Infectiologie
 
-### **28. Fièvre isolée – démarche EDN**
+**28. Fièvre isolée – démarche EDN**
 
-### **29. Sepsis / Choc septique**
+**29. Sepsis / Choc septique**
 
-### **30. Méningite purulente**
+**30. Méningite purulente**
 
-### **31. Pyélonéphrite aiguë**
+**31. Pyélonéphrite aiguë**
 
-### **32. Infection urinaire simple / cystite**
+**32. Infection urinaire simple / cystite**
 
 
 ---
 
 ## Urgence fréquentes (généraliste)
 
-### **33. Malaise / syncope**
+**33. Malaise / syncope**
 
-### **34. Traumatismes crâniens**
+**34. Traumatismes crâniens**
 
-### **35. Brûlures**
+**35. Brûlures**
 
-### **36. Intoxication médicamenteuse volontaire (IMV)**
+**36. Intoxication médicamenteuse volontaire (IMV)**
 
-### **37. Colique néphrétique / douleur lombaire aiguë**
+**37. Colique néphrétique / douleur lombaire aiguë**
 
 
 ---
 
 ## Endocrinologie et métabolique
 
-### **38. Hyperglycémie + acidocétose diabétique**
+**38. Hyperglycémie + acidocétose diabétique**
 
-### **39. Hypoglycémie sévère**
+**39. Hypoglycémie sévère**
 
-### **40. Hypothyroïdie / myxœdème**
+**40. Hypothyroïdie / myxœdème**
 
-### **41. Hyperthyroïdie / thyrotoxicose**
+**41. Hyperthyroïdie / thyrotoxicose**
 
 
 ---
 
 ## Vasculaire
 
-### **42. Œdèmes des membres inférieurs**
+**42. Œdèmes des membres inférieurs**
 
-### **43. Thrombose veineuse profonde**
+**43. Thrombose veineuse profonde**
 
-### **44. État de choc (hypovolémique, septique, cardiogénique)**
+**44. État de choc (hypovolémique, septique, cardiogénique)**
 
 ---
 
 ## Psychiatrie
 
-### **45. État dépressif majeur avec risque suicidaire**
+**45. État dépressif majeur avec risque suicidaire**
 
-### **46. Bouffée délirante aiguë**
+**46. Bouffée délirante aiguë**
 
 ---
 
 ## Urgence pédiatrique
 
-### **47. Fièvre chez un nourrisson <3 mois**
+ **47. Fièvre chez un nourrisson <3 mois**
 
-### **48. Bronchiolite**
+ **48. Bronchiolite**
 
 ---
 
 ## Allergo et Immuno
 
-### **49. Choc anaphylactique (déjà vu, juste révision)**
+**49. Choc anaphylactique (déjà vu, juste révision)**
 
-### **50. Œdème de Quincke (déjà vu, juste révision)**
+**50. Œdème de Quincke (déjà vu, juste révision)**
 
 
 

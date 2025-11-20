@@ -199,7 +199,7 @@ Le diagnostic d’allergie repose sur :
 - Toujours vérifier facteurs environnementaux et professionnels.
     
 
-## XII. À connaître par cœur
+## XII. À connaître par [[cœur]]
 
 - Définitions : atopie, sensibilisation, allergie.
     

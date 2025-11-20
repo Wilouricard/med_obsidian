@@ -61,7 +61,7 @@ N/A.
 
 La trisomie 21 s’accompagne fréquemment de malformations, dont certaines nécessitent une prise en charge spécifique. Les plus importantes concernent :
 
-- **le cœur** (canal atrioventriculaire, tétralogie de Fallot, CIV, CIA),
+- **le [[cœur]]** (canal atrioventriculaire, tétralogie de Fallot, CIV, CIA),
     
 - **le tube digestif** (atrésie duodénale, maladie de Hirschsprung),
     
@@ -193,7 +193,7 @@ Il est crucial de distinguer les formes libres des translocations, car le risque
 Le DPNI est un test de dépistage et non un test diagnostique.  
 Une clarté nucale ≥ 3,5 mm est un signe d’alerte important.
 
-## XII. À connaître par cœur
+## XII. À connaître par [[cœur]]
 
 - L’algorithme de dépistage anténatal.
     

@@ -10,7 +10,7 @@ Dans la majorité des cas, l’OAP est d’origine cardiogénique, secondaire à
 
 ## Physiopathologie
 
-L’OAP résulte d’une augmentation aiguë de la pression capillaire pulmonaire, le plus souvent due à une défaillance du cœur gauche.
+L’OAP résulte d’une augmentation aiguë de la pression capillaire pulmonaire, le plus souvent due à une défaillance du [[cœur]] gauche.
 
 1. Élévation de la pression dans l’oreillette gauche puis dans les capillaires pulmonaires.
     

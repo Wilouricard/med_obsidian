@@ -229,7 +229,7 @@ Au fil du temps, l’évolution respiratoire peut aboutir à une insuffisance re
 - Se rappeler que la maladie est **autosomique récessive**, avec risques précis pour la famille.
     
 
-## XII. À connaître par cœur
+## XII. À connaître par [[cœur]]
 
 - Le mécanisme : mutation CFTR et viscosité des sécrétions.
     

@@ -994,7 +994,7 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
 
 ---
 
-## XII. À connaître par cœur
+## XII. À connaître par [[cœur]]
 
 - Définition de la réaction inflammatoire (mécanisme de protection, immunité innée, réponse à une agression).
     

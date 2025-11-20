@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T11:53:45.046+01:00
+---
 # Sémiologie Cardiovasculaire
 [[SEMIOLOGIE]]
 

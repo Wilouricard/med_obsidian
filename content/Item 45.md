@@ -149,7 +149,7 @@ Les erreurs fréquentes incluent :
 - oublier que certaines maladies génétiques peuvent toucher plusieurs organes simultanément.
     
 
-## XII. À connaître par cœur
+## XII. À connaître par [[cœur]]
 
 Il est indispensable de maîtriser :
 

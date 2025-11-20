@@ -2,7 +2,7 @@
 
 # La relation médecin-malade. La communication avec le patient et son entourage. L'annonce d'une maladie grave ou létale ou d'un dommage associé aux soins. La formation du patient. La personnalisation de la prise en charge médicale.
 
-Hihi
+
 ## 1. Objectif de l’item
 Savoir établir une **relation de confiance** avec le patient et son entourage, adapter sa communication aux situations cliniques (maladie chronique, grave ou létale, dommage lié aux soins) et participer à la **formation du patient**.
 

@@ -1,4 +1,4 @@
-# [Anatomie] : vascularisation du cœur.
+# [Anatomie] : vascularisation du [[cœur]].
 
 Artères du coeur au nombre de 2 autour du coeur : 
 - ## [[Artère coronaire droite]]

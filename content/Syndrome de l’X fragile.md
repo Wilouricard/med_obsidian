@@ -143,7 +143,7 @@ Les complications varient selon le statut [[génétique]] :
 - Un homme porteur d’une prémutation transmet **obligatoirement** sa prémutation à **toutes ses filles**, mais jamais à ses garçons.
     
 
-## XII. À connaître par cœur
+## XII. À connaître par [[cœur]]
 
 - La correspondance entre nombre de triplets CGG et statut [[génétique]] (normal, prémutation, mutation complète).
     
