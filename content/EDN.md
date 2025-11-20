@@ -246,7 +246,7 @@ Listes des items de l'EDN :
 | 223          | Dyslipidémies                                                                                                                                                                                                                                            |
 | 224          | Hypertension artérielle de l'adulte et de l’enfant                                                                                                                                                                                                       |
 | 225          | Artériopathie oblitérante de l'aorte, des artères viscérales et des membres inférieurs ; anévrysmes                                                                                                                                                      |
-| 226          | [[Thrombose]] veineuse profonde et embolie pulmonaire                                                                                                                                                                                                        |
+| 226          | [[Thrombose]] veineuse profonde et [[embolie pulmonaire]]                                                                                                                                                                                                        |
 | 227          | [[Insuffisance veineuse]] chronique et varices                                                                                                                                                                                                               |
 | 228          | Ulcère de jambe                                                                                                                                                                                                                                          |
 | 229          | Surveillance et complications des abords veineux                                                                                                                                                                                                         |
@@ -438,7 +438,7 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 **2. Syndrome coronarien aigu (STEMI inférieur)**
 [[cc SCA STEMI inférieur]]
 
-**3. Embolie pulmonaire**
+**3. [[Embolie pulmonaire]]**
 
 **4. [[OAP]] / [[Insuffisance cardiaque]] aiguë**
 
