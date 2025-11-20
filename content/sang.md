@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-20T15:20:34.234+01:00
+due_at: 2025-11-20T21:37:11.068+01:00
 ---
 #IFSI_UE2_cycleDeLaVieEtGrandesFonctions 
 # Le sang

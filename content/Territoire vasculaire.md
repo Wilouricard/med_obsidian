@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-20T15:19:39.638+01:00
+due_at: 2025-11-20T21:15:24.905+01:00
 ---
 ### Territoire vasculaire
 Distributions des différents territoires myocardique des coronaires permets de cibler la topographie des [[infarctus]] myocardique. Quel artère vascularise quelle partie du coeur?

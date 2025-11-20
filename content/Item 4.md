@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-20T15:20:31.564+01:00
+due_at: 2025-11-20T21:37:07.456+01:00
 ---
 #UE1 
 # Qualité et sécurité des soins. La sécurité du patient. La gestion des risques. Les événements indésirables associés aux soins (EIAS). Démarche qualité et évaluation des pratiques professionnelles

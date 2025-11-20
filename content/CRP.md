@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:21:07.612+01:00
+repeat: spaced every 24 hours
+due_at: 2025-11-21T21:05:56.436+01:00
 ---
 # C-réactive Protéine
 

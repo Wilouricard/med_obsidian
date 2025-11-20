@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:17:50.447+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-22T20:45:57.840+01:00
 ---
 # Sémiologie Cardiovasculaire
 [[SEMIOLOGIE]]

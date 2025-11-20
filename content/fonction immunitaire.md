@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-20T15:20:48.556+01:00
+due_at: 2025-11-20T21:37:05.775+01:00
 ---
 #IFSI_UE2_cycleDeLaVieEtGrandesFonctions 
 

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:18:36.668+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-22T21:11:19.684+01:00
 ---
 # Reflux hépatojugulaire
 Reflux du [[sang]] veineux vers le système jugulaire, provoqué par la compression du foie.  

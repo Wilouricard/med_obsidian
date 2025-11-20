@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:19:02.069+01:00
+repeat: spaced every 24 hours
+due_at: 2025-11-21T17:22:42.055+01:00
 ---
 # Souffles systoliques
 ## Souffles systoliques

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:18:30.090+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-22T17:24:18.776+01:00
 ---
 # Insuffisance ventriculaire gauche
 Incapacité du ventricule gauche à assurer un débit adapté aux besoins métaboliques de l'organisme dans toutes les circonstances de la vie courante.  

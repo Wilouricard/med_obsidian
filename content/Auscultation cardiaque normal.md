@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:18:59.680+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-22T21:12:18.343+01:00
 ---
 # [[Auscultation]] cardiaque normal
 ## [[Auscultation]] cardiaque normal
@@ -14,4 +14,3 @@ L'intervalle B 2_B 1, plus long délimite la diastole ventriculaire.
 
 
 [[Auscultation cardiaque pathologique]]
-

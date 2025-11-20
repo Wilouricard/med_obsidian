@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-20T15:20:44.984+01:00
+due_at: 2025-11-20T21:27:50.884+01:00
 ---
 RAISONNEMENT CLINIQUE
 |

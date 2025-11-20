@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:18:57.503+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-22T20:52:09.027+01:00
 ---
 # Souffle insuffisance mitrale
 - c'est un souffle holosystolique de régurgitation, car causé par la régurgitation du [[sang]] à travers la valve mitrale

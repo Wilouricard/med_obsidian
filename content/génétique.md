@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-20T15:19:12.726+01:00
+due_at: 2025-11-20T21:37:13.198+01:00
 ---
 #IFSI_UE2_biologieFondamentale
 

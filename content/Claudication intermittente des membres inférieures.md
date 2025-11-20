@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:21:09.923+01:00
+repeat: spaced every 36 hours
+due_at: 2025-11-22T09:20:06.010+01:00
 ---
 _(Symptôme clé de l’[[AOMI]] !)_
 

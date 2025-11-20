@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-20T15:21:09.235+01:00
+due_at: 2025-11-20T21:37:14.789+01:00
 ---
 # Vitesse de Sédimentation
 

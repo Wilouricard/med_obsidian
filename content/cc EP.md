@@ -1,3 +1,7 @@
+---
+repeat: spaced every 2 days
+due_at: 2025-11-22T06:00:00.000+01:00
+---
 # **Cas Clinique – [[Embolie Pulmonaire]] Massive (EP)**
 
 _Raisonnement clinique complet – décisions expliquées – physiopathologie intégrée_

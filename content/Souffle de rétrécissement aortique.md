@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T15:18:55.719+01:00
+repeat: spaced every 24 hours
+due_at: 2025-11-21T21:13:02.542+01:00
 ---
 # Souffle de rétrécissement aortique
 - c'est un souffle mésosystolique, perçu après B1 et finissant avant B2
