@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 #IFSI_UE2_santePublique 
 # Veille sanitaire
 
@@ -192,7 +196,7 @@ Selon leur domaine de compétence :
     
 - **ABM** : Agence de biomédecine
     
-- **EFS** : Établissement Français du Sang
+- **EFS** : Établissement Français du [[Sang]]
     
 - **SPF** : Santé Publique France
     

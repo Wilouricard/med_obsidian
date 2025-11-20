@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:36.668+01:00
+---
 # Reflux hépatojugulaire
 Reflux du [[sang]] veineux vers le système jugulaire, provoqué par la compression du foie.  
 _Il se recherche sur le  patient en position demi-assise, à 45°, en décubitus dorsal en comprimant fortement avec la paume de la main la face antérieure du foie (hypochondre droit) pendant une vingtaine de secondes et en observant les conséquences de cette compression sur les veines jugulaires. La réponse est positive lorsque la manœuvre entraîne une turgescence nette et durable._ 

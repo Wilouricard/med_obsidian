@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:40.255+01:00
+---
 # Diabète
 Le diabète est une **maladie chronique caractérisée par la présence d'un excès de sucre dans le [[sang]]**, appelé hyperglycémie. L'hyperglycémie prolongée du diabète expose à de différentes complications.
 

@@ -21,6 +21,7 @@ TABLE due_at AS "Revoir le"
  WHERE due_at AND date(due_at) > date(today)
  SORT due_at ASC
  ```
+ 
 
  
 
@@ -30,5 +31,5 @@ TABLE due_at AS "Échéance"
 FROM ""
 WHERE due_at
 SORT due_at DESC
-LIMIT 20
 ```
+

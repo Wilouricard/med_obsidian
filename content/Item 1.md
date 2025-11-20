@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:45.657+01:00
+---
 #UE1
 
 # La relation médecin-malade. La communication avec le patient et son entourage. L'annonce d'une maladie grave ou létale ou d'un dommage associé aux soins. La formation du patient. La personnalisation de la prise en charge médicale.
@@ -66,7 +70,7 @@ Complémentarité :
 - Favoriser l’expression du vécu du patient.
 - → 2 interlocuteurs doivent se placer dans un état d'esprit constructif de collaboration : aide et écoute active.
 
-→ Exemple stage avec Dr. R. : on est a l'écoute des patients, on est pédagogue, souriants. Parfois, il faut déceler les situations compliqués : jeune fille patiente psy multiple TS, il faut faire attention à ne pas "trigger". Un regard mal interprété, une question mal posée peut causer problème pour la suite de l'examen clinique. Exemple aussi des femmes voilés où il faut parfois adapter sa façon de pratiquer la médecine - choix propre au soignant (chelou car va un peu à l'encontre du principe 5 de l'item 2 : respect de la dignité ?). 
+→ Exemple stage avec Dr. R. : on est a l'écoute des patients, on est pédagogue, souriants. Parfois, il faut déceler les situations compliqués : jeune fille patiente psy multiple TS, il faut faire attention à ne pas "trigger". Un regard mal interprété, une question mal posée peut causer problème pour la suite de l'examen clinique. Exemple aussi des femmes voilés où il faut parfois adapter sa façon de pratiquer la médecine - choix propre au soignant (chelou car va un peu à l'encontre du principe 5 de l'[[item 2]] : respect de la dignité ?). 
 
 ### Mécanismes de défense du patients 
 A l'annonce d'une maladie, le patient peut faire preuve d'une souffrance psychique. Il existe donc autant de mécanismes de défense que de patients différents. Le patient adopte une attitude, réagit de manière plus ou moins consciente afin de diminuer sa douleur (psy)

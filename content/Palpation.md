@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:33.646+01:00
+---
 # Palpation
 Permet de rechercher en cardiologie : 
 - [[Choc de pointe]] 

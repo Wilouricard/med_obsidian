@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:01.015+01:00
+---
 # Modification des bruits
 ### Modification des bruits
 - éclats du B 1 , perçu à l'apex, peut s'écouter dans le rétrécissement mitral car la valve est épaisse donc sa fermeture engendre un bruit important.

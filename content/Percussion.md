@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:37.479+01:00
+---
 # Percussion
 La percussion est réalisée en tapant avec l'extrémité du majeur de sa main droite sur ses propres doigts de la main gauche (en général au niveau de la deuxième phalange du majeur) placée à plat sur le thorax du patient.
 

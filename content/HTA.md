@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:41.686+01:00
+---
 # HTA
 **hypertension artérielle**
 

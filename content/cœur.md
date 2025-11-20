@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 ## I. Généralités
 
 Le cœur est un **organe musculaire creux**, situé dans le **médiastin moyen**, légèrement dévié à gauche. Il fonctionne comme une **pompe double** : cœur droit (circulation pulmonaire) et cœur gauche (circulation systémique).

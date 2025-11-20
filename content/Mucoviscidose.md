@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:21:06.973+01:00
+---
 ## I. Définition et objectifs
 
 La mucoviscidose est une maladie [[génétique]] **autosomique récessive** fréquente, touchant environ **1 naissance sur 4500** en France. Elle est due à une anomalie du gène **CFTR**, situé sur le chromosome 7, qui code pour une protéine régulant le transport des ions chlore et sodium à travers les épithéliums.  

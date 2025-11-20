@@ -1,10 +1,14 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:20:50.067+01:00
+---
 #cc
 
 # SCA STEMI inférieur
 
 ## **I. Présentation du patient**
 
-**Homme de 57 ans**, fumeur 30 PA, [[HTA]], [[dyslipidémie]], père décédé d’un infarctus à 48 ans.  
+**Homme de 57 ans**, fumeur 30 PA, [[HTA]], [[dyslipidémie]], père décédé d’un [[infarctus]] à 48 ans.  
 Survient aux urgences pour **douleur thoracique constrictive** avec irradiation bras gauche + mâchoire.  
 Déclenchée à l’effort, persiste au repos.
 
@@ -49,9 +53,9 @@ Car ce sont les 3 causes de douleur thoracique qui tuent en quelques minutes/ he
 
 - **Constantes :** TA, FC, FR, SpO₂ → rechercher instabilité
     
-- **Auscultation cardio-pulmonaire** (bruits, souffle, crépitants)
+- **[[Auscultation]] cardio-pulmonaire** (bruits, souffle, crépitants)
     
-- **Inspection générale** (pâleur, sueurs, signes respiratoires)
+- **[[Inspection]] générale** (pâleur, sueurs, signes respiratoires)
     
 - **TA aux deux bras** si suspicion dissection
     
@@ -70,9 +74,9 @@ Car ce sont les 3 causes de douleur thoracique qui tuent en quelques minutes/ he
 
 - **ST+ = STEMI**
     
-- **DII–III–aVF = territoire inférieur = artère coronaire droite**
+- **DII–III–aVF = territoire inférieur = [[artère coronaire droite]]**
     
-- Sous-décalage = signe miroir confirmant l’infarctus.
+- Sous-décalage = signe miroir confirmant l’[[infarctus]].
     
 
 → **Diagnostic : STEMI inférieur.**
@@ -87,7 +91,7 @@ Car ce sont les 3 causes de douleur thoracique qui tuent en quelques minutes/ he
 
 - inhibe COX-1 → ↓ TXA₂ → ↓ activation plaquettaire
     
-- stabilise la thrombose
+- stabilise la [[thrombose]]
     
 - réduit extension du caillot
     
@@ -169,7 +173,7 @@ Car ce sont les 3 causes de douleur thoracique qui tuent en quelques minutes/ he
 - Absence de dissection
     
 
-→ **L’artère coronaire droite est reperfusée.**
+→ **L’[[artère coronaire droite]] est reperfusée.**
 
 ---
 
@@ -179,9 +183,9 @@ Car ce sont les 3 causes de douleur thoracique qui tuent en quelques minutes/ he
 
 ### **1. Troubles du rythme ventriculaire**
 
-- TV / FV
+- [[TV]] / [[FV]]
     
-- cause principale de décès post-infarctus  
+- cause principale de décès post-[[infarctus]]  
     → surveillance ECG continue
     
 
@@ -264,7 +268,7 @@ Hypotension, marbrures, confusion.
     
 - ↓ LDL
     
-- ↓ récidive infarctus
+- ↓ récidive [[infarctus]]
     
 - ↓ mortalité
     
@@ -273,11 +277,11 @@ Hypotension, marbrures, confusion.
 
 ---
 
-## **X. Pourquoi la thrombose de stent est mortelle ?**
+## **X. Pourquoi la [[thrombose]] de stent est mortelle ?**
 
 - Re-occlusion brutale de l’artère
     
-- Myocarde vulnérable → re-infarctus massif
+- Myocarde vulnérable → re-[[infarctus]] massif
     
 - Très haut risque de **fibrillation ventriculaire** → arrêt cardiaque immédiat
     
@@ -292,6 +296,6 @@ Hypotension, marbrures, confusion.
 
 **ST+ en DII–III–aVF = STEMI inférieur → coro immédiate.**  
 Traitement urgent : **Aspirine + P2Y12 + Héparine + Scope + Coro**.  
-Complications : **TV/FV, [[BAV]], ruptures, choc**.  
+Complications : **[[TV]]/[[FV]], [[BAV]], ruptures, choc**.  
 Traitement long cours : **[[DAPT]] + [[Bêta-bloquant]] + [[IEC]] + Statine**.  
 Suivi à vie.

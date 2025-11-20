@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 #cc
 # SCA NSTEMI inférieur, douleur thoracique non traumatique
 
@@ -70,9 +74,9 @@ Dans ce cas → rien de typique.
 
 - douleur pleurétique (qui augmente à la respiration)
     
-- dyspnée brutale
+- [[dyspnée]] brutale
     
-- hémoptysie
+- [[hémoptysie]]
     
 - tachycardie
     
@@ -127,7 +131,7 @@ ECG n°1 :
     
 
 **Interprétation :**  
-→ ECG **non diagnostique**, mais **n’élimine absolument pas** un infarctus.  
+→ ECG **non diagnostique**, mais **n’élimine absolument pas** un [[infarctus]].  
 💡 50 % des NSTEMI ont un ECG initial normal ou peu modifié.
 
 Donc : **poursuite du raisonnement coronarien**.
@@ -142,7 +146,7 @@ Donc : **poursuite du raisonnement coronarien**.
     
 2. **Dosage troponine H0 immédiatement**  
     → Même si l’ECG est normal.  
-    → Car un infarctus débutant peut avoir une troponine quasi normale au début → il faut observer la CINÉTIQUE.
+    → Car un [[infarctus]] débutant peut avoir une troponine quasi normale au début → il faut observer la CINÉTIQUE.
     
 
 **On ne doses pas la troponine pour “voir s’il en a eu avant”.  
@@ -206,7 +210,7 @@ ECG n°3 :
 
 Troponine H1 : **52 ng/L**  
 → Cinétique clairement ascendante.  
-→ Diagnostic : **SCA NSTEMI (infarctus sans élévation ST)**.
+→ Diagnostic : **SCA NSTEMI ([[infarctus]] sans élévation ST)**.
 
 ---
 
@@ -236,14 +240,14 @@ Parce que douleur typique + troponine ascendante = SCA de haut risque.
 
 4 complications MAJEURES à surveiller _obligatoirement_ :
 
-### **1) Troubles du rythme ventriculaire (TV/FV)**
+### **1) Troubles du rythme ventriculaire ([[TV]]/[[FV]])**
 
 → première cause de décès.  
 → surviennent même après revascularisation.
 
 ### **2) Troubles de conduction ([[BAV]])**
 
-→ typiques des infarctus inférieurs  
+→ typiques des [[infarctus]] inférieurs  
 → atteinte du nœud AV
 
 ### **3) Complications mécaniques (J2–J7)**
@@ -283,7 +287,7 @@ Souffle nouveau + choc = **alerte maximale**.
 
 - Douleur thoracique typique → éliminer SCA/dissection/EP
     
-- ECG normal n’élimine pas un infarctus
+- ECG normal n’élimine pas un [[infarctus]]
     
 - Troponine H0/H1 = diagnostic
     

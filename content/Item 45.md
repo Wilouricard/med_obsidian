@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:20:52.997+01:00
+---
 ## I. Définition et objectifs
 
 Les maladies génétiques sont des affections dont la cause est une anomalie du génome. Cette anomalie peut porter sur un chromosome entier, sur une partie de chromosome ou sur un gène particulier. Elles entraînent des manifestations cliniques extrêmement diverses selon la nature de l’atteinte.  
@@ -133,7 +137,7 @@ Les complications sont nombreuses et spécifiques à chaque maladie :
     
 - troubles neurologiques, insuffisance ovarienne prématurée ou FXTAS dans l’X fragile,
     
-- insuffisance respiratoire chronique, malnutrition, diabète et complications infectieuses dans la [[mucoviscidose]].
+- insuffisance respiratoire chronique, malnutrition, [[diabète]] et complications infectieuses dans la [[mucoviscidose]].
     
 
 ## XI. Pièges EDN

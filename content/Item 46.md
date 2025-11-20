@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 # Médecine génomique
 
 ## I. Définition et objectifs
@@ -6,7 +10,7 @@ La médecine génomique est une discipline médicale émergente utilisant l’in
 
 Elle englobe :
 
-- Médecine personnalisée : abus de langage pour valider une PEC fondée sur une approche strictement individuelle. En réalité, toute bonne pratique médicale est personnalisée. Elle inclut toutefois la composante génétique.
+- Médecine personnalisée : abus de langage pour valider une PEC fondée sur une approche strictement individuelle. En réalité, toute bonne pratique médicale est personnalisée. Elle inclut toutefois la composante [[génétique]].
     
 - Médecine prédictive : permet de prévoir une susceptibilité particulière à certaines maladies ou à l’action de certains agents pathogènes à partir de déterminants individuels (santé, génétiques ou autres). Objectif : proposer des mesures de prévention ciblées. Associée à la notion de risque et de probabilité de développer une maladie.
     
@@ -17,7 +21,7 @@ Essor de la médecine génomique fondée sur la médecine des 4P : personnalisé
 
 Objectifs généraux :
 
-- En lien avec les anomalies génétiques constitutionnelles : diminuer l’errance diagnostique, proposer conseil génétique, diagnostic prénatal, adapter la PEC.
+- En lien avec les anomalies génétiques constitutionnelles : diminuer l’errance diagnostique, proposer conseil [[génétique]], diagnostic prénatal, adapter la PEC.
     
 - En lien avec les anomalies somatiques : personnaliser les soins (thérapie ciblée).
     
@@ -28,7 +32,7 @@ Le phénotype résulte de l’interaction entre le génome constitutionnel ou so
 
 ## III. Points clés à connaître
 
-- Nécessité d’un consentement libre, éclairé et écrit avant tout test génétique.
+- Nécessité d’un consentement libre, éclairé et écrit avant tout test [[génétique]].
     
 - Information obligatoire à la parentèle depuis 2013.
     
@@ -43,7 +47,7 @@ Le phénotype résulte de l’interaction entre le génome constitutionnel ou so
 
 ## IV. Sémiologie ou éléments diagnostiques
 
-### A. Signes cliniques (suspecter une maladie génétique)
+### A. Signes cliniques (suspecter une maladie [[génétique]])
 
 - Contexte familial évocateur (transmission mendélienne ou non mendélienne).
     
@@ -61,7 +65,7 @@ Le phénotype résulte de l’interaction entre le génome constitutionnel ou so
     
 - Troubles du langage ou de la phonation.
     
-- Baisse audition/surdite : 50 % des surdités pré-linguales sont d’origine génétique.
+- Baisse audition/surdite : 50 % des surdités pré-linguales sont d’origine [[génétique]].
     
 - Association de symptômes sans étiologie identifiée.
     
@@ -121,7 +125,7 @@ Non décrite dans le PDF.
 
 ## VI. Diagnostic et critères
 
-- Seuls les variants de classe 4 (probablement pathogène) et 5 (pathogène) peuvent conclure à un diagnostic génétique.
+- Seuls les variants de classe 4 (probablement pathogène) et 5 (pathogène) peuvent conclure à un diagnostic [[génétique]].
     
 - Diagnostic non concluant si :
     
@@ -153,7 +157,7 @@ Deux contextes :
 
 ### D. Suivi
 
-- Information obligatoire à la parentèle si découverte d’une anomalie génétique grave justifiant mesures de prévention, soins ou conseil génétique.
+- Information obligatoire à la parentèle si découverte d’une anomalie [[génétique]] grave justifiant mesures de prévention, soins ou conseil [[génétique]].
     
 - Le prescripteur doit informer le patient si un autre variant additionnel est identifié.
     
@@ -168,7 +172,7 @@ Non explicitée au-delà des interactions génome/environnement et de la classif
 
 ## IX. Traitements
 
-Non décrits dans le PDF (orienté génétique, pas thérapeutique).
+Non décrits dans le PDF (orienté [[génétique]], pas thérapeutique).
 
 ## X. Complications
 
@@ -195,7 +199,7 @@ Non décrites dans le PDF.
 
 - 4P : personnalisée, préventive, prédictive, participative.
     
-- Signes évocateurs d’une maladie génétique.
+- Signes évocateurs d’une maladie [[génétique]].
     
 - Consentement écrit obligatoire.
     

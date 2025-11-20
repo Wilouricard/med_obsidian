@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 #IFSI_UE2_santePublique 
 # Concepts en santé publique 
 
@@ -147,7 +151,7 @@ La santé est une **ressource quotidienne**, pas un acquis.
 
 ## VII. Charte d’Ottawa et déterminants de la santé
 
-Depuis 1986, l’OMS reconnaît que **l’environnement** et les **comportements** influencent largement l’état de santé.  
+Depuis 1986, l’OMS reconnaît que **l’environnement** et les **comportements** influencent largement l’[[état de santé]].  
 La **Charte d’Ottawa (1986)** structure la promotion de la santé.
 
 La santé dépend de facteurs :
@@ -229,7 +233,7 @@ Elle part des besoins propres à une communauté → élaboration → mise en œ
 
 ### B. Les indicateurs de santé
 
-Outils permettant de **décrire l’état de santé d’une population**.
+Outils permettant de **décrire l’[[état de santé]] d’une population**.
 
 - **Incidence**  
     → nombre de nouveaux cas sur une période donnée.  

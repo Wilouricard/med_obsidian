@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 # Fibrillation Ventriculaire (FV)
 
 ## Définition
@@ -19,7 +23,7 @@ Sans intervention rapide, la FV évolue en asystolie en quelques minutes.
 
 ## Étiologies principales
 
-- Infarctus du myocarde aigu (cause la plus fréquente).
+- [[Infarctus]] du myocarde aigu (cause la plus fréquente).
     
 - Cardiopathies structurelles : cardiomyopathies dilatées, hypertrophiques, arythmogènes du VD.
     
@@ -52,7 +56,7 @@ La FV provoque immédiatement un arrêt circulatoire.
     
 - Absence de respiration ou gasps.
     
-- Cyanose rapide.
+- [[Cyanose]] rapide.
     
 - Aucune perfusion cérébrale : arrêt cardiaque confirmé.
     
@@ -115,7 +119,7 @@ La FV est toujours un arrêt cardiaque rythmé.
 
 - Hypoxie, hypovolémie, hypo/hyperkaliémie, hypothermie.
     
-- Thrombose coronaire (IDM), tamponnade, toxiques, pneumothorax sous tension.
+- [[Thrombose]] coronaire (IDM), tamponnade, toxiques, pneumothorax sous tension.
     
 
 ---
@@ -137,7 +141,7 @@ La FV est toujours un arrêt cardiaque rythmé.
     
 - L’activité électrique est désorganisée, sans QRS ni contraction efficace.
     
-- La cause la plus fréquente est l’infarctus du myocarde.
+- La cause la plus fréquente est l’[[infarctus]] du myocarde.
     
 - La survie dépend du délai avant le premier choc.
     

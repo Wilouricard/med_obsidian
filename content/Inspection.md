@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:21.251+01:00
+---
 # Inspection
 Ce que **voit** le médecin durant l'osculation.
 

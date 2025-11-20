@@ -1,3 +1,6 @@
+---
+repeat: never
+---
 
 Listes des items de l'EDN : 
 
@@ -20,7 +23,7 @@ Listes des items de l'EDN :
 | N°           | Item                                                                                                                                                                                                                                                     |
 | [[Item 1]]   | La relation médecin-malade. La communication avec le patient et son entourage. L'annonce d'une maladie grave ou létale ou d'un dommage associé aux soins. La formation du patient. La personnalisation de la prise en charge médicale.                   |
 | [[Item 2]]   | Les valeurs professionnelles du médecin et des autres professions de santé                                                                                                                                                                               |
-| [[Item 3]]   | Le raisonnement et la décision en médecine. La médecine fondée sur les preuves (Evidence Based Medicine, EBM). La décision médicale partagée. La controverse.                                                                                            |
+| [[Item 3]]   | Le raisonnement et la décision en médecine. La médecine fondée sur les preuves (Evidence Based Medicine, [[EBM]]). La décision médicale partagée. La controverse.                                                                                            |
 | [[Item 4]]   | Qualité et sécurité des soins. La sécurité du patient. La gestion des risques. Les événements indésirables associés aux soins (EIAS). Démarche qualité et évaluation des pratiques professionnelles                                                      |
 | 5            | La gestion des erreurs et des plaintes ; l'aléa thérapeutique                                                                                                                                                                                            |
 | 6            | L'organisation de l'exercice clinique et les méthodes qui permettent de sécuriser le parcours du patient                                                                                                                                                 |
@@ -36,9 +39,9 @@ Listes des items de l'EDN :
 | 16           | Organisation du système de soins. Sa régulation. Les indicateurs. Parcours de soins.                                                                                                                                                                     |
 | 17           | Télémédecine, télésanté et téléservices en santé                                                                                                                                                                                                         |
 | 18           | Santé et numérique                                                                                                                                                                                                                                       |
-| 19           | La sécurité sociale. L'assurance maladie. Les assurances complémentaires. La complémentaire santé solidaire (CSS). La consommation médicale. Protection sociale. Consommation médicale et économie de la santé.                                          |
+| 19           | La sécurité sociale. L'assurance maladie. Les assurances complémentaires. La complémentaire santé solidaire (CSS). La consommation médicale. Protection sociale. Consommation médicale et [[économie de la santé]].                                          |
 | 20           | La méthodologie de la recherche en santé                                                                                                                                                                                                                 |
-| 21           | Mesure de l'état de santé de la population                                                                                                                                                                                                               |
+| 21           | Mesure de l'[[état de santé]] de la population                                                                                                                                                                                                               |
 | 22           | Maladies rares                                                                                                                                                                                                                                           |
 | 23           | Grossesse normale                                                                                                                                                                                                                                        |
 | 24           | Principales complications de la grossesse                                                                                                                                                                                                                |
@@ -198,7 +201,7 @@ Listes des items de l'EDN :
 | 178          | Risques émergents, bioterrorisme, maladies hautement transmissibles                                                                                                                                                                                      |
 | 179          | Risques sanitaires liés à l'eau et à l'alimentation. Toxi-infections alimentaires (TIAC)                                                                                                                                                                 |
 | 180          | Risques sanitaires liés aux irradiations. Radioprotection                                                                                                                                                                                                |
-| 181          | La sécurité sanitaire des produits destinés à l'homme. La veille sanitaire.                                                                                                                                                                              |
+| 181          | La sécurité sanitaire des produits destinés à l'homme. La [[veille sanitaire]].                                                                                                                                                                              |
 | 182          | Environnement professionnel et santé au travail                                                                                                                                                                                                          |
 | 183          | Organisation de la médecine du travail. Prévention des risques professionnels.                                                                                                                                                                           |
 | 184          | Accidents du travail et maladies professionnelles                                                                                                                                                                                                        |
@@ -220,9 +223,9 @@ Listes des items de l'EDN :
 | 200          | Douleur et épanchement articulaire. Arthrite d'évolution récente.                                                                                                                                                                                        |
 | 201          | Transplantation d'organes : aspects épidémiologiques et immunologiques ; principes de traitement ; complications et pronostic ; aspects éthiques et légaux. Prélèvements d'organes et législation.                                                       |
 | 202          | Biothérapies et thérapies ciblées                                                                                                                                                                                                                        |
-| 203          | Dyspnée aiguë et chronique                                                                                                                                                                                                                               |
+| 203          | [[Dyspnée]] aiguë et chronique                                                                                                                                                                                                                               |
 | 204          | Toux chez l'enfant et chez l'adulte (avec le traitement)                                                                                                                                                                                                 |
-| 205          | Hémoptysie                                                                                                                                                                                                                                               |
+| 205          | [[Hémoptysie]]                                                                                                                                                                                                                                               |
 | 206          | Épanchement pleural liquidien                                                                                                                                                                                                                            |
 | 207          | Opacités et masses intra-thoraciques chez l'enfant et chez l'adulte                                                                                                                                                                                      |
 | 208          | Insuffisance respiratoire chronique chez l'adulte                                                                                                                                                                                                        |
@@ -243,15 +246,15 @@ Listes des items de l'EDN :
 | 223          | Dyslipidémies                                                                                                                                                                                                                                            |
 | 224          | Hypertension artérielle de l'adulte et de l’enfant                                                                                                                                                                                                       |
 | 225          | Artériopathie oblitérante de l'aorte, des artères viscérales et des membres inférieurs ; anévrysmes                                                                                                                                                      |
-| 226          | Thrombose veineuse profonde et embolie pulmonaire                                                                                                                                                                                                        |
-| 227          | Insuffisance veineuse chronique et varices                                                                                                                                                                                                               |
+| 226          | [[Thrombose]] veineuse profonde et embolie pulmonaire                                                                                                                                                                                                        |
+| 227          | [[Insuffisance veineuse]] chronique et varices                                                                                                                                                                                                               |
 | 228          | Ulcère de jambe                                                                                                                                                                                                                                          |
 | 229          | Surveillance et complications des abords veineux                                                                                                                                                                                                         |
 | 230          | Douleur thoracique aiguë                                                                                                                                                                                                                                 |
 | 231          | Électrocardiogramme : indications et interprétations                                                                                                                                                                                                     |
 | 232          | Fibrillation atriale                                                                                                                                                                                                                                     |
-| 233          | Valvulopathies                                                                                                                                                                                                                                           |
-| 234          | Insuffisance cardiaque de l'adulte                                                                                                                                                                                                                       |
+| 233          | [[Valvulopathies]]                                                                                                                                                                                                                                           |
+| 234          | [[Insuffisance cardiaque]] de l'adulte                                                                                                                                                                                                                       |
 | 235          | Péricardite aiguë                                                                                                                                                                                                                                        |
 | 236          | Troubles de la conduction intracardiaque                                                                                                                                                                                                                 |
 | 237          | Palpitations                                                                                                                                                                                                                                             |
@@ -264,7 +267,7 @@ Listes des items de l'EDN :
 | 244          | Adénome hypophysaire                                                                                                                                                                                                                                     |
 | 245          | Insuffisance surrénale chez l'adulte et l'enfant                                                                                                                                                                                                         |
 | 246          | Gynécomastie                                                                                                                                                                                                                                             |
-| 247          | Diabète sucré de types 1 et 2 de l'enfant et de l'adulte. Complications                                                                                                                                                                                  |
+| 247          | [[Diabète]] sucré de types 1 et 2 de l'enfant et de l'adulte. Complications                                                                                                                                                                                  |
 | 248          | Prévention primaire par la nutrition chez l'adulte et chez l'enfant                                                                                                                                                                                      |
 | 249          | Modifications thérapeutiques du mode de vie (alimentation et activité physique) chez l'adulte et l'enfant                                                                                                                                                |
 | 250          | Dénutrition chez l'adulte et l'enfant                                                                                                                                                                                                                    |
@@ -272,7 +275,7 @@ Listes des items de l'EDN :
 | 252          | Troubles nutritionnels chez le sujet âgé                                                                                                                                                                                                                 |
 | 253          | Obésité de l'enfant et de l'adulte                                                                                                                                                                                                                       |
 | 254          | Besoins nutritionnels et grossesse                                                                                                                                                                                                                       |
-| 255          | Diabète gestationnel                                                                                                                                                                                                                                     |
+| 255          | [[Diabète]] gestationnel                                                                                                                                                                                                                                     |
 | 256          | Aptitude au sport chez l'adulte et l'enfant ; besoins nutritionnels chez le sportif                                                                                                                                                                      |
 | 257          | Œdèmes des membres inférieurs localisés ou généralisés                                                                                                                                                                                                   |
 | 258          | Élévation de la créatininémie                                                                                                                                                                                                                            |
@@ -293,9 +296,9 @@ Listes des items de l'EDN :
 | 273          | Dysphagie                                                                                                                                                                                                                                                |
 | 274          | Vomissements du nourrisson, de l'enfant et de l'adulte                                                                                                                                                                                                   |
 | 275          | Splénomégalie                                                                                                                                                                                                                                            |
-| 276          | Hépatomégalie et masse abdominale                                                                                                                                                                                                                        |
+| 276          | [[Hépatomégalie]] et masse abdominale                                                                                                                                                                                                                        |
 | 277          | Lithiase biliaire                                                                                                                                                                                                                                        |
-| 278          | Ictère                                                                                                                                                                                                                                                   |
+| 278          | [[Ictère]]                                                                                                                                                                                                                                                   |
 | 279          | Cirrhose et complications                                                                                                                                                                                                                                |
 | 280          | Ascite                                                                                                                                                                                                                                                   |
 | 281          | Pancréatite chronique                                                                                                                                                                                                                                    |
@@ -390,7 +393,7 @@ Listes des items de l'EDN :
 
 1. **[[Item 1]] – Relation médecin-malade**
 2. **[[Item 2]] – Valeurs professionnelles
-3. **[[Item 3]] – Raisonnement clinique / EBM
+3. **[[Item 3]] – Raisonnement clinique / [[EBM]]
 4. **[[Item 4]] – Qualité & sécurité des soins**
 
 [[Synthèse Item 1, 2, 3 et 4]] 
@@ -410,14 +413,14 @@ Ensuite : bases cardio (déjà fait un peu) → coeur de la cardio
 13. **Item 224 – Hypertension artérielle**
 
 Et deux sémiologies majeures :  
-14. **Item 203 – Dyspnée**  
+14. **Item 203 – [[Dyspnée]]**  
 15. **Item 269 – Douleur abdominale aiguë**
 
 Enfin clinique de base : → pcq c'est le basique à regarder quand on tombe malade + courant
 16. **Item 147 – Fièvre aiguë
 17. **Item 230 – Douleur thoracique aiguë**
 18. **Item 231 – ECG (bases de lecture)**
-19. **Item 203 – Dyspnée** _(déjà fait mais voir vision clinique)_
+19. **Item 203 – [[Dyspnée]]** _(déjà fait mais voir vision clinique)_
 20. **Item 269 – Douleurs abdominales aiguës** _(idem)_
 21. **Items 361–363 : Traumatismes fréquents (entorses, fractures simples)**
 
@@ -437,13 +440,13 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 
 **3. Embolie pulmonaire**
 
-**4. OAP / Insuffisance cardiaque aiguë**
+**4. [[OAP]] / [[Insuffisance cardiaque]] aiguë**
 
 **5. Dissection aortique**
 
-**6. Tachycardie à QRS larges (TV)**
+**6. Tachycardie à QRS larges ([[TV]])**
 
-**7. Bradycardie / BAV**
+**7. Bradycardie / [[BAV]]**
 
 **8. Fibrillation atriale rapide**
 
@@ -455,9 +458,9 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 
 ---
 
-## Dyspnée / respiration (2e priorité vitale)
+## [[Dyspnée]] / respiration (2e priorité vitale)
 
-**11. Dyspnée aiguë (diagnostic différentiel complet)**
+**11. [[Dyspnée]] aiguë (diagnostic différentiel complet)**
 
 **12. Asthme aigu grave**
 
@@ -552,7 +555,7 @@ Cardiologie + Pneumo = 50% des urgences hospitalières.
 
 **42. Œdèmes des membres inférieurs**
 
-**43. Thrombose veineuse profonde**
+**43. [[Thrombose]] veineuse profonde**
 
 **44. État de choc (hypovolémique, septique, cardiogénique)**
 

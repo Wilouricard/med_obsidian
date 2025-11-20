@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:21:06.398+01:00
+---
 ## I. Définition et objectifs
 
 La trisomie 21, encore appelée syndrome de Down, est une maladie [[génétique]] causée par la présence d’un chromosome 21 supplémentaire. Cette anomalie chromosomique est la plus fréquente en France, avec une prévalence d’environ un fœtus sur 700.  
@@ -173,7 +177,7 @@ Elles sont multiples :
     
 - hyperlaxité (avec risque de luxation atlanto-axoïdienne),
     
-- maladies auto-immunes (hypothyroïdie, hyperthyroïdie, maladie cœliaque, diabète),
+- maladies auto-immunes (hypothyroïdie, hyperthyroïdie, maladie cœliaque, [[diabète]]),
     
 - troubles visuels et auditifs,
     

@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 #IFSI_UE2_santePublique 
 
 # Économie de la santé
@@ -8,7 +12,7 @@ L’**économie de la santé** est une branche de l’économie qui étudie la m
 
 - les **meilleurs soins médicaux possibles**,
     
-- et le **meilleur état de santé possible**,  
+- et le **meilleur [[état de santé]] possible**,  
     tout en tenant compte des contraintes financières et matérielles.
     
 
@@ -62,9 +66,9 @@ L’objectif est de faire converger :
 
 Écart entre :
 
-- l’état de santé constaté,
+- l’[[état de santé]] constaté,
     
-- et l’état de santé souhaité.
+- et l’[[état de santé]] souhaité.
     
 
 ### 2. Demande de santé

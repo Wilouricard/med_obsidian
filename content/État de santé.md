@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 #IFSI_UE2_santePublique 
 
 # État de santé
@@ -106,7 +110,7 @@ Ces maladies apparaissent souvent en lien avec :
     
 8. **6 millions** d’enfants meurent du tabagisme (y compris tabagisme passif).
     
-9. **1 adulte sur 10** souffre de diabète.
+9. **1 adulte sur 10** souffre de [[diabète]].
     
 10. Plus de **3500 personnes** meurent chaque jour d’accidents de la route.
     

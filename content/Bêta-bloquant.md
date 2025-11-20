@@ -1,9 +1,13 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 **Définition**  
 Médicaments antagonistes des récepteurs bêta-adrénergiques, diminuant FC, contractilité et consommation d’oxygène.
 
 **Indications principales**
 
-- Cardiopathies : SCA, post-infarctus, insuffisance cardiaque stable, HTA, arythmies (FA, TV).
+- Cardiopathies : SCA, post-[[infarctus]], [[insuffisance cardiaque]] stable, [[HTA]], arythmies (FA, [[TV]]).
     
 - Autres : hyperthyroïdie, anxiété, migraines.
     
@@ -14,9 +18,9 @@ Médicaments antagonistes des récepteurs bêta-adrénergiques, diminuant FC, co
     
 - Bradycardie < 50–55 bpm.
     
-- BAV ≥ 2.
+- [[BAV]] ≥ 2.
     
-- Insuffisance cardiaque aiguë décompensée.
+- [[Insuffisance cardiaque]] aiguë décompensée.
     
 
 **Effets indésirables**

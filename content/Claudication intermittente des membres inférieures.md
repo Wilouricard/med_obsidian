@@ -1,4 +1,8 @@
-_(Symptôme clé de l’AOMI !)_
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:21:09.923+01:00
+---
+_(Symptôme clé de l’[[AOMI]] !)_
 
 ## Définition
 
@@ -31,13 +35,13 @@ Localisation selon le niveau d’atteinte artérielle :
     (**Très important pour localiser l’occlusion**)
     
 
-## Lien avec l’AOMI
+## Lien avec l’[[AOMI]]
 
-La claudication intermittente correspond à l’**AOMI stade II** de la classification de **Leriche-Fontaine** :
+La claudication intermittente correspond à l’**[[AOMI]] stade II** de la classification de **Leriche-Fontaine** :
 
 - **Stade I :** asymptomatique
     
-- **Stade II : claudication intermittente** = **symptôme fonctionnel de l’AOMI**
+- **Stade II : claudication intermittente** = **symptôme fonctionnel de l’[[AOMI]]**
     
 - **Stade III :** douleur de repos
     
@@ -46,7 +50,7 @@ La claudication intermittente correspond à l’**AOMI stade II** de la classifi
 
 Donc :
 
-- La **claudication = manifestation clinique de l’AOMI**.
+- La **claudication = manifestation clinique de l’[[AOMI]]**.
     
 - Elle **n’est pas une maladie**, mais le signe révélateur d’une insuffisance artérielle chronique.
     
@@ -55,7 +59,7 @@ Donc :
 
 - **Interrogatoire + test de marche**
     
-- **IPP < 0,9** confirmant l’AOMI
+- **IPP < 0,9** confirmant l’[[AOMI]]
     
 - Écho-Doppler artériel en seconde intention
     
@@ -63,7 +67,7 @@ Donc :
 ## Enjeux cliniques
 
 La claudication intermittente est **un marqueur systémique d’athérosclérose** :  
-→ risque accru d’**infarctus**, **AVC**, **mort cardiovasculaire**.
+→ risque accru d’**[[infarctus]]**, **AVC**, **mort cardiovasculaire**.
 
 ## Principes de prise en charge
 

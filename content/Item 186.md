@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:20:46.309+01:00
+---
 #UE1 
 # Hypersensibilités et allergies chez l'enfant et l'adulte : aspects physiopathologiques, épidémiologiques, diagnostiques et principes de traitement
 
@@ -63,7 +67,7 @@ Conséquences physiopathologiques : vasodilatation, extravasation, bronchoconstr
 
 **Asthme allergique** :
 
-- sifflements, dyspnée, oppression, toux sèche ou productive.
+- sifflements, [[dyspnée]], oppression, toux sèche ou productive.
     
 
 ### B. Signes de gravité

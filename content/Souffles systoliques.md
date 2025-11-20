@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:02.069+01:00
+---
 # Souffles systoliques
 ## Souffles systoliques
 2 types : 

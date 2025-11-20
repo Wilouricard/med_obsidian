@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:12.726+01:00
+---
 #IFSI_UE2_biologieFondamentale
 
 # Introduction à la génétique

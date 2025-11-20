@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:32.174+01:00
+---
 # [[insuffisance veineuse]]
 
 Incapacité des veines superficielles et profondes du membre inférieur à lutter contre les effets de la pesanteur sur la colonne sanguine qui les remplit.

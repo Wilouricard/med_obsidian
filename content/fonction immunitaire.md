@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:20:48.556+01:00
+---
 #IFSI_UE2_cycleDeLaVieEtGrandesFonctions 
 
 # Fonction immunitaire

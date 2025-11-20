@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 # Œdème Aigu Pulmonaire (OAP)
 
 ## Définition
@@ -23,15 +27,15 @@ L’OAP résulte d’une augmentation aiguë de la pression capillaire pulmonair
 
 Principales causes :
 
-- Insuffisance cardiaque gauche aiguë.
+- [[Insuffisance cardiaque]] gauche aiguë.
     
-- Infarctus du myocarde.
+- [[Infarctus]] du myocarde.
     
-- Troubles du rythme rapides (FA rapide, TV).
+- Troubles du rythme rapides (FA rapide, [[TV]]).
     
 - Hypertension artérielle sévère.
     
-- Valvulopathies mitrales ou aortiques.
+- [[Valvulopathies]] mitrales ou aortiques.
     
 - Excès d’apports hydrosodés.
     
@@ -40,17 +44,17 @@ Principales causes :
 
 ## Signes cliniques
 
-- Dyspnée aiguë, brutale, souvent nocturne.
+- [[Dyspnée]] aiguë, brutale, souvent nocturne.
     
-- Orthopnée.
+- [[Orthopnée]].
     
-- Polypnée, tirage, signes de lutte.
+- [[Polypnée]], tirage, signes de lutte.
     
-- Agitation, sueurs, cyanose.
+- Agitation, sueurs, [[cyanose]].
     
 - Expectoration mousseuse rosée.
     
-- Râles crépitants bilatéraux à l’auscultation.
+- Râles crépitants bilatéraux à l’[[auscultation]].
     
 - Tachycardie.
     
@@ -70,7 +74,7 @@ L’impression clinique est celle d’une détresse respiratoire majeure, le pat
 - Œdème interstitiel puis alvéolaire (opacités péri-hilaires en ailes de papillon).
     
 
-### Gaz du sang
+### Gaz du [[sang]]
 
 - Hypoxémie.
     
@@ -88,7 +92,7 @@ L’impression clinique est celle d’une détresse respiratoire majeure, le pat
     
 - Ionogramme sanguin.
     
-- Troponines si suspicion d’infarctus.
+- Troponines si suspicion d’[[infarctus]].
     
 
 ---
@@ -109,7 +113,7 @@ Réduit le retour veineux et améliore la ventilation.
 
 Furosémide en bolus pour réduire la précharge et favoriser la diurèse.
 
-### 4. Vasodilatateurs (si HTA)
+### 4. Vasodilatateurs (si [[HTA]])
 
 Dérivés nitrés en IV pour diminuer la postcharge et améliorer l’éjection du ventricule gauche.
 
@@ -139,7 +143,7 @@ Dérivés nitrés en IV pour diminuer la postcharge et améliorer l’éjection 
 
 - L’OAP est généralement cardiogénique et survient par augmentation aiguë de la pression capillaire pulmonaire.
     
-- Dyspnée brutale, expectoration mousseuse rosée et crépitants bilatéraux sont caractéristiques.
+- [[Dyspnée]] brutale, expectoration mousseuse rosée et crépitants bilatéraux sont caractéristiques.
     
 - Traitement d’urgence : oxygène, VNI, diurétiques, vasodilatateurs selon la tension.
     

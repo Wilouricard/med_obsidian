@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:10.599+01:00
+---
 # IMC
 L’indice de masse corporelle ou IMC est une grandeur qui permet d'estimer la corpulence d’une personne.
 

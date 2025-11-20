@@ -1,5 +1,9 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:20:28.296+01:00
+---
 #UE1 
-# Le raisonnement et la décision en médecine. La médecine fondée sur les preuves (Evidence Based Medicine, EBM). La décision médicale partagée. La controverse.
+# Le raisonnement et la décision en médecine. La médecine fondée sur les preuves (Evidence Based Medicine, [[EBM]]). La décision médicale partagée. La controverse.
 
 ## I. Définitions
 
@@ -102,12 +106,12 @@ Basée sur le calcul de l’**utilité moyenne** : somme des utilités des issue
     
 - Peut être représentée par un **arbre de décision**.
     
-- En économie de la santé, cette approche devient une **analyse coût-utilité**.
+- En [[économie de la santé]], cette approche devient une **analyse coût-utilité**.
     
 
 ---
 
-## V. L’Evidence-Based Medicine (EBM)
+## V. L’Evidence-Based Medicine ([[EBM]])
 
 ### Définition
 
@@ -123,7 +127,7 @@ La décision médicale intègre :
 3. Les **valeurs et préférences du patient**.
     
 
-### Étapes de l’EBM
+### Étapes de l’[[EBM]]
 
 1. **Formuler une question clinique claire** selon la méthode **PICOT** (Patient, Intervention, Comparator, Outcome, Time).
     
@@ -143,7 +147,7 @@ La décision médicale intègre :
 |3|Étude cas-témoins|C|Faible niveau de preuve|
 |4|Étude rétrospective, descriptive, série de cas|-|Données faibles ou incertaines|
 
-### Limites de l’EBM
+### Limites de l’[[EBM]]
 
 - Données incomplètes ou contradictoires.
     
@@ -267,8 +271,8 @@ Processus collectif de décision impliquant plusieurs professionnels, notamment 
 |---|---|---|
 |**Efficacité (efficacy)**|Résultat obtenu dans des conditions expérimentales idéales.|Essai clinique.|
 |**Effectivité (effectiveness)**|Résultat obtenu en conditions réelles de pratique.|Prise en charge quotidienne.|
-|**Efficience (efficiency)**|Rapport entre le résultat et les ressources utilisées (coût/efficacité).|Économie de la santé.|
-|**Utilité (utility)**|Perception subjective du patient de la qualité de vie liée à un état de santé.|QALY (Quality-Adjusted Life Years).|
+|**Efficience (efficiency)**|Rapport entre le résultat et les ressources utilisées (coût/efficacité).|[[Économie de la santé]].|
+|**Utilité (utility)**|Perception subjective du patient de la qualité de vie liée à un [[état de santé]].|QALY (Quality-Adjusted Life Years).|
 
 ### Méthodes d’évaluation de l’utilité
 
@@ -285,7 +289,7 @@ Processus collectif de décision impliquant plusieurs professionnels, notamment 
 
 - Le raisonnement médical associe **analyse scientifique** et **jugement clinique**.
     
-- L’**approche bayésienne** et l’**EBM** permettent d’objectiver les décisions.
+- L’**approche bayésienne** et l’**[[EBM]]** permettent d’objectiver les décisions.
     
 - La **décision médicale partagée** concrétise la démocratie sanitaire.
     

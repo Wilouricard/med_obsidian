@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:02.967+01:00
+---
 # Le souffle d'insuffisance aortique
 - c'est un souffle protodiastolique decrescendo, perçu au foyer aortique et au bord supérieur du sternum
 - le souffle est doux, humé, et au bord supérieur du sternum aspiratif

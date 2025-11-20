@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 # Tachycardie Ventriculaire (TV)
 
 ## Définition
@@ -11,7 +15,7 @@ Elle compromet le débit cardiaque et peut dégénérer en fibrillation ventricu
 
 La TV résulte d’un foyer ectopique ventriculaire ou d’un circuit de réentrée au sein du myocarde. La dépolarisation ventriculaire devient rapide et désorganisée.  
 Le temps de remplissage diastolique diminue, la contraction ventriculaire devient inefficace et le débit cardiaque chute.  
-Dans les cardiopathies ischémiques, les zones cicatricielles post-infarctus sont des substrats fréquents de circuits de réentrée.
+Dans les cardiopathies ischémiques, les zones cicatricielles post-[[infarctus]] sont des substrats fréquents de circuits de réentrée.
 
 ---
 
@@ -27,7 +31,7 @@ Durée inférieure à 30 secondes. Survient par salves. Signale une irritabilit�
 
 ### TV monomorphe
 
-QRS de morphologie identique. Souvent liée à un circuit fixe, typiquement dans les cardiopathies post-infarctus.
+QRS de morphologie identique. Souvent liée à un circuit fixe, typiquement dans les cardiopathies post-[[infarctus]].
 
 ### TV polymorphe
 
@@ -38,7 +42,7 @@ Les torsades de pointes constituent une forme particulière, associée à un QT 
 
 ## Étiologies principales
 
-- Cardiopathie ischémique, notamment post-infarctus (substrat cicatriciel).
+- Cardiopathie ischémique, notamment post-[[infarctus]] (substrat cicatriciel).
     
 - Cardiomyopathies dilatée, hypertrophique, arythmogène du ventricule droit.
     
@@ -61,7 +65,7 @@ La tolérance est variable selon la fréquence et le terrain.
 
 - Palpitations rapides.
     
-- Dyspnée, asthénie, malaise.
+- [[Dyspnée]], asthénie, malaise.
     
 - Hypotension, signes de choc.
     

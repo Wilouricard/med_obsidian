@@ -1,7 +1,11 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:20:44.984+01:00
+---
 RAISONNEMENT CLINIQUE
 |
 |── I. Motif de consultation
-|      (douleur, dyspnée, fièvre, malaise, trouble digestif…)
+|      (douleur, [[dyspnée]], fièvre, malaise, trouble digestif…)
 |
 |── II. Sémiologie structurée
 |        ├─ Début
@@ -62,7 +66,7 @@ Toujours commencer par :
 
 - douleur
     
-- dyspnée
+- [[dyspnée]]
     
 - fièvre
     
@@ -106,7 +110,7 @@ Exemples :
 
 - douleur thoracique → ischémique / pariétale / pleurale / digestive
     
-- dyspnée → obstructive / restrictive / cardiaque / anémique
+- [[dyspnée]] → obstructive / restrictive / cardiaque / anémique
     
 - fièvre → infectieux / inflammatoire / néoplasique / iatrogène
     
@@ -136,7 +140,7 @@ Pour douleur thoracique :
 5. Pneumothorax
     
 
-Pour dyspnée :
+Pour [[dyspnée]] :
 
 1. [[OAP]]
     
@@ -162,7 +166,7 @@ Exemples :
 
 - Glasgow bas
     
-- polypnée sévère
+- [[polypnée]] sévère
     
 - SpO₂ basse
     
@@ -198,7 +202,7 @@ ECG, radio thorax, écho cardiaque, scanner TAP, écho doppler…
 
 ### Examens complémentaires
 
-Gaz du sang, BU, EFR, PL, etc.
+Gaz du [[sang]], BU, EFR, PL, etc.
 
 Le tout doit être relié aux hypothèses posées.
 

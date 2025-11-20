@@ -1,5 +1,9 @@
-# Auscultation cardiaque normal
-## Auscultation cardiaque normal
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:18:59.680+01:00
+---
+# [[Auscultation]] cardiaque normal
+## [[Auscultation]] cardiaque normal
 
 2 bruits :
 - B 1 : fermeture valves atrioventriculaires (mitral et tricuspide), bruit grave, début de la systole ventriculaire.

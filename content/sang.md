@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:20:34.234+01:00
+---
 #IFSI_UE2_cycleDeLaVieEtGrandesFonctions 
 # Le sang
 
@@ -183,7 +187,7 @@ Déficit → hémorragies.
     
 - Destruction : **rate et foie**
     
-- Production de **bilirubine** (excrétée dans la bile)
+- Production de **[[bilirubine]]** (excrétée dans la bile)
     
 
 >B12/B9/Fer = trio indispensable pour les globules rouges.  

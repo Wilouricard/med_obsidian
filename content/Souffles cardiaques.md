@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:01.855+01:00
+---
 # Souffles cardiaques
 
 Définition de différents paramètres : 

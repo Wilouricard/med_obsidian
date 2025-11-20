@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:20:16.181+01:00
+---
 #UE1 
 # Les valeurs professionnelles du médecin et des autres professions de santé
 
@@ -110,7 +114,7 @@ Inclut la traçabilité, la transparence, et l’obligation d’évaluer ses pra
 
 ### 1. Médecine scientifique et "Values-Based Medicine"
 
-- L’Evidence-Based Medicine (EBM) repose sur la preuve scientifique.
+- L’Evidence-Based Medicine ([[EBM]]) repose sur la preuve scientifique.
     
 - Elle doit être complétée par la **Values-Based Medicine (VBM)** : intégration des valeurs du patient, de la responsabilité du médecin et du contexte humain.
     

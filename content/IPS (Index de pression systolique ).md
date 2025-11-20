@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:05.774+01:00
+---
 # IPS (Index de pression systolique )
 Ils comparent la [[pression artérielle]] systolique humérale aux pressions artérielles périphériques pédieuses et tibiales postérieures : 
 - la [[pression artérielle]] systolique est prise au brassard de façon conventionnelle au niveau de l'artère humérale ; 

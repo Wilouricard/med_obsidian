@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:34.489+01:00
+---
 Origine au niveau du sinus de l'aorte.
 Trajet : 
 - Premier segment part en oblique vers la droite

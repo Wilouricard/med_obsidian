@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:19:16.465+01:00
+---
 # [Anatomie] : vascularisation du [[cœur]].
 
 Artères du coeur au nombre de 2 autour du coeur : 
@@ -10,7 +14,7 @@ Artères du coeur au nombre de 2 autour du coeur :
 - [[Coronaires]] gauches dominantes à 18%
 - Distributions équilibrés 34%
 
-### Territoire vasculaire
+### [[Territoire vasculaire]]
 Distributions des différents territoires myocardique des coronaires permets de cibler la topographie des [[infarctus]] myocardique. Quel artère vascularise quelle partie du coeur?
 - [[Artère interventriculaire antérieure]] - paroi antérieur du VG et septum interventriculaire
 - Artère diagonales - paroi latérale VG
@@ -20,7 +24,7 @@ Distributions des différents territoires myocardique des coronaires permets de 
 
 ### Vascularisation du tissu nodal et des muscles papillaires
 
-- **Nœud sino-atrial (SA)** : artère du nœud sino-atrial issue le plus souvent (≈ 2/3 des cas) de l’artère coronaire droite ; plus rarement de la circonflexe (≈ 1/4).
+- **Nœud sino-atrial (SA)** : artère du nœud sino-atrial issue le plus souvent (≈ 2/3 des cas) de l’[[artère coronaire droite]] ; plus rarement de la circonflexe (≈ 1/4).
 - **Nœud atrio-ventriculaire (AV)** : vascularisé par une artère du nœud AV provenant majoritairement de la coronaire droite (≈ 50 %), parfois de la gauche (≈ 20 %) ou des deux (≈ 30 %).
 - **Muscles papillaires de la valve tricuspide** :
     - **Antérieur et septaux** : branches de la coronaire gauche (artère septale antérieure).

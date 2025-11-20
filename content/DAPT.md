@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 **Définition**  
 Double antiagrégation plaquettaire : **aspirine + inhibiteur P2Y12** (clopidogrel, prasugrel, ***ticagrelor***).
 
@@ -19,4 +23,4 @@ Double antiagrégation plaquettaire : **aspirine + inhibiteur P2Y12** (clopidogr
     
 
 **Objectif**  
-Prévenir la thrombose de stent et les récidives ischémiques.
+Prévenir la [[thrombose]] de stent et les récidives ischémiques.

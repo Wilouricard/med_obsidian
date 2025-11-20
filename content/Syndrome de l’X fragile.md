@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-20T15:21:04.350+01:00
+---
 ## I. Définition et objectifs
 
 Le syndrome de l’X fragile est une génopathie liée au chromosome X. Il est provoqué par une mutation instable du gène **FMR1**, localisé en Xq27, qui entraîne une cassure du bras long du chromosome X au niveau du **site fragile FRAXA**. C’est la première cause de déficience intellectuelle héréditaire et la deuxième cause de déficience intellectuelle d’origine [[génétique]] après la [[trisomie 21]].  

@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-21T06:00:00.000+01:00
+---
 # Bloc Auriculo-Ventriculaire (BAV)
 
 ## **Définition**
@@ -16,7 +20,7 @@ Quand cette conduction se ralentit ou cesse :
     
 - le débit cardiaque chute,
     
-- le risque d’**hypotension**, **syncopes** ou **arrêt** augmente selon la sévérité.
+- le risque d’**hypotension**, **[[syncopes]]** ou **arrêt** augmente selon la sévérité.
     
 
 ---
@@ -77,7 +81,7 @@ Conduction intermittente : certaines ondes P ne sont pas conduites.
 
 ## **Étiologies principales**
 
-- Ischémie cardiaque / infarctus (souvent inférieur : BAV nodal)
+- Ischémie cardiaque / [[infarctus]] (souvent inférieur : BAV nodal)
     
 - Dégénérescence du système de conduction (vieillissement)
     
@@ -98,7 +102,7 @@ Conduction intermittente : certaines ondes P ne sont pas conduites.
     
 - Malaise, lipothymie, syncope
     
-- Fatigue intense, dyspnée
+- Fatigue intense, [[dyspnée]]
     
 - Hypotension, confusion
     
@@ -151,4 +155,4 @@ Conduction intermittente : certaines ondes P ne sont pas conduites.
     
 - Le BAV complet = **urgence** par risque d’arrêt.
     
-- Toujours rechercher et corriger les **causes réversibles** (médocs, hyperK, infarctus).
+- Toujours rechercher et corriger les **causes réversibles** (médocs, hyperK, [[infarctus]]).
