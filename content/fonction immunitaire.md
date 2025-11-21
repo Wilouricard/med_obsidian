@@ -89,7 +89,7 @@ Le système immunitaire repose sur différentes lignées cellulaires dérivées 
 
 ### **1. Lymphocytes B (LB)**
 
-- Maturation dans la moelle osseuse.
+- Maturation dans la [[moelle osseuse]].
     
 - Produisent les **anticorps** (plasmocytes).
     
@@ -130,7 +130,7 @@ Cellule souche hématopoïétique multipotente →
 
 ### Maturation
 
-- **LB** : moelle osseuse → organes lymphoïdes.
+- **LB** : [[moelle osseuse]] → organes lymphoïdes.
     
 - **LT** : moelle → thymus (éducation, sélection positive/négative) → organes lymphoïdes.
     

@@ -349,7 +349,7 @@ Le terme correct = **granulocyte**.
 
 Le système hématopoïétique = **production + maturation + régulation** des cellules sanguines.
 
-### Moelle osseuse
+### [[Moelle osseuse]]
 
 - **Moelle rouge** : active
     

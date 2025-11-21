@@ -25,7 +25,7 @@ due_at: 2025-11-22T20:04:21.964+01:00
         
     - Expliquer les manifestations cliniques et biologiques.
         
-    - Connaître les marqueurs biologiques d’un syndrome inflammatoire et leur cinétique.
+    - Connaître les [[marqueurs biologiques]] d’un syndrome inflammatoire et leur cinétique.
         
     - Connaître les principales étiologies d’un syndrome inflammatoire.
         
