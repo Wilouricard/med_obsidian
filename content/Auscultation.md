@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-22T20:44:44.309+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-28T15:35:25.359+01:00
 ---
 # Auscultation
 Auscultation cardiaque avec un stéthoscope, essentiel de l'examen cardiaque : bruit du [[cœur]], [[souffles cardiaques]].

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-22T21:05:12.733+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-28T15:48:57.093+01:00
 ---
 # IMC
 L’indice de masse corporelle ou IMC est une grandeur qui permet d'estimer la corpulence d’une personne.

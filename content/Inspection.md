@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 36 hours
-due_at: 2025-11-22T09:30:57.904+01:00
+repeat: spaced every 72 hours
+due_at: 2025-11-27T15:27:53.355+01:00
 ---
 # Inspection
 Ce que **voit** le médecin durant l'osculation.

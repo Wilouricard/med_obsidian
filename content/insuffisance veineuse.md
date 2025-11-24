@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 36 hours
-due_at: 2025-11-22T09:24:20.699+01:00
+repeat: spaced every 72 hours
+due_at: 2025-11-27T15:25:43.734+01:00
 ---
 # [[insuffisance veineuse]]
 

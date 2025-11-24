@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "94fd3e4770e80cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "56be827b08857dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6848f96d569506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EDN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EDN"
+            }
+          },
+          {
+            "id": "318a30bc599e6343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asystolie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "asystolie"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21bcff84479abcb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "abbf31a2bfcfd5e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac818ce04b3bfd4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "ad56871479932154",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "oap",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "9872fa63cea22cca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "0a0fcebadadacfee",
+    "type": "split",
+    "children": [
+      {
+        "id": "3de20720b424d74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3e6fb6457478f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tableau de bord/Tableau de bord des révisions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Tableau de bord des révisions"
+            }
+          },
+          {
+            "id": "84195f32a9d4bf1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tableau de bord/Tableau de bord des révisions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Tableau de bord des révisions"
+            }
+          },
+          {
+            "id": "8cb12f8285d38c53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "f6bf67fc0bddc057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tableau de bord/Tableau de bord des révisions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Tableau de bord des révisions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 890.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Ouvrir la vue graphique": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false,
+      "repeat-plugin:Repeat due notes": false
+    }
+  },
+  "active": "318a30bc599e6343",
+  "lastOpenFiles": [
+    "Amiodarone.md",
+    "Item 221.md",
+    "sténose.md",
+    "cc OAP hypertenseur fulminant.md",
+    "EDN.md",
+    "insuffisance ventriculaire gauche.md",
+    "OAP.md",
+    "hémoptysie.md",
+    "cc SCA NSTEMI inférieur.md",
+    "Item 212.md",
+    "Tableau de bord/Tableau de bord des révisions.md",
+    "pression artérielle.md",
+    "valvulopathies.md",
+    "bradypnée.md",
+    "embolie pulmonaire.md",
+    "raisonnement clinique.md",
+    "Item 45.md",
+    "Trisomie 21.md",
+    "Le souffle d'insuffisance aortique.md",
+    "TV.md",
+    "État de santé.md",
+    "Item 46.md",
+    "HNF.md",
+    "hypomagnésémie.md",
+    "FV.md",
+    "hypokaliémie.md",
+    "Pasted image 20251121113358.png",
+    "Sans titre 1",
+    "Sans titre",
+    "Pasted image 20251106133544.jpg",
+    "Tableau de bord",
+    "Dashboard",
+    "tasks",
+    "daily",
+    "Sans titre.base",
+    "Sans titre 3",
+    "Sans titre 2",
+    "Pasted image 20251107095150.png",
+    "Sans titre.canvas",
+    "Pasted image 20251106133526.jpg",
+    "copilot/copilot-conversations",
+    "Pasted image 20251106080232.png",
+    "Pasted image 20251106080225.png"
+  ]
+}

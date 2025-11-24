@@ -1,6 +1,6 @@
 ---
 repeat: spaced every 24 hours
-due_at: 2025-11-21T20:42:01.738+01:00
+due_at: 2025-11-24T15:56:13.546+01:00
 ---
 ## I. Définition et objectifs
 

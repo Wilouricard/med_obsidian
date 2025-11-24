@@ -5,7 +5,7 @@ repeat: never
 
 ---
 
-## 🔥 Notes à revoir aujourd’hui
+## 🔥 Notes non suivies
 ```dataview
 TABLE repeat.next as "À revoir"
 FROM ""

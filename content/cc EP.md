@@ -1,6 +1,6 @@
 ---
 repeat: spaced every 2 days
-due_at: 2025-11-22T06:00:00.000+01:00
+due_at: 2025-11-24T15:56:09.059+01:00
 ---
 # **Cas Clinique – [[Embolie Pulmonaire]] Massive (EP)**
 
@@ -172,7 +172,7 @@ Le patient devient instable :
 - Souffrance VD confirmée
     
 
-## **1. Pourquoi HNF seule ne suffit pas ?**
+## **1. Pourquoi [[HNF]] seule ne suffit pas ?**
 
 L’héparine **n’empêche que la formation de nouveaux caillots**.  
 Elle **ne dissout pas l’embolie déjà présente**.
@@ -252,7 +252,7 @@ Une fois le choc traité :
 
 ### ✔️ Anticoagulation prolongée
 
-- HNF/HBPM initialement
+- [[HNF]]/HBPM initialement
     
 - Puis relais AOD/AVK 6 mois minimum
     

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T21:27:50.884+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-26T14:58:01.311+01:00
 ---
 RAISONNEMENT CLINIQUE
 |

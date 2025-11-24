@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-21T06:00:00.000+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-28T15:50:09.926+01:00
 ---
 **Définition**  
 Médicaments antagonistes des récepteurs bêta-adrénergiques, diminuant FC, contractilité et consommation d’oxygène.

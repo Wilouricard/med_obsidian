@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 24 hours
-due_at: 2025-11-21T21:10:38.594+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-26T15:18:50.813+01:00
 ---
 # Palpation
 Permet de rechercher en cardiologie : 

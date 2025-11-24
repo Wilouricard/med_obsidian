@@ -241,7 +241,7 @@ Listes des items de l'EDN :
 | 218          | Éosinophilie                                                                                                                                                                                                                                             |
 | 219          | Pathologie du fer chez l'adulte et l'enfant                                                                                                                                                                                                              |
 | 220          | Adénopathie superficielle de l'adulte et de l'enfant                                                                                                                                                                                                     |
-| 221          | Athérome : épidémiologie et physiopathologie. Le malade poly-athéromateux                                                                                                                                                                                |
+| [[Item 221]] | Athérome : épidémiologie et physiopathologie. Le malade poly-athéromateux                                                                                                                                                                                |
 | 222          | Facteurs de risque cardio-vasculaire et prévention                                                                                                                                                                                                       |
 | 223          | Dyslipidémies                                                                                                                                                                                                                                            |
 | 224          | Hypertension artérielle de l'adulte et de l’enfant                                                                                                                                                                                                       |
@@ -407,7 +407,7 @@ Listes des items de l'EDN :
 9. **[[Item 212]] – Hémogramme (interprétation basique)** → outil de base !
 
 Ensuite : bases cardio (déjà fait un peu) → coeur de la cardio
-10. **Item 221 – Athérome**  
+10. **[[Item 221]] – Athérome**  
 11. **Item 222 – Facteurs de risque cardiovasculaire**  
 12. **Item 223 – Dyslipidémies**  
 13. **Item 224 – Hypertension artérielle**
@@ -442,6 +442,7 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 [[cc EP]]
 
 **4. [[OAP]] / [[Insuffisance cardiaque]] aiguë**
+[[cc OAP hypertenseur fulminant]]
 
 **5. Dissection aortique**
 

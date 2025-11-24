@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T21:37:09.893+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-24T15:54:34.279+01:00
 ---
 ## I. Introduction
 

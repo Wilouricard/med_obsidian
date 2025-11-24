@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-22T21:21:46.006+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-28T15:38:34.357+01:00
 ---
 Origine : au niveau du sinus de l'aorte.
 Trajet court :

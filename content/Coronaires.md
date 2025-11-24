@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-22T20:49:11.327+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-28T15:35:32.602+01:00
 ---
 # [Anatomie] : vascularisation du [[cœur]].
 

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 36 hours
-due_at: 2025-11-22T09:13:56.548+01:00
+repeat: spaced every 54 hours
+due_at: 2025-11-26T21:24:57.869+01:00
 ---
 # IPS (Index de pression systolique )
 Ils comparent la [[pression artérielle]] systolique humérale aux pressions artérielles périphériques pédieuses et tibiales postérieures : 

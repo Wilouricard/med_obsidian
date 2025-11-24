@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-22T21:15:37.316+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-28T15:47:07.196+01:00
 ---
 Origine : [[Artère coronaire gauche]].
 Cheminement dans le sillon coronaire gauche.

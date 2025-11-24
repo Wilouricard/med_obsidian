@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 24 hours
-due_at: 2025-11-21T21:11:52.714+01:00
+repeat: spaced every 36 hours
+due_at: 2025-11-26T03:19:32.212+01:00
 ---
 # Signe de Harzer
 Perception des battements cardiaques au niveau de l'épigastre, caractéristique de l’hypertrophie ventriculaire droite.

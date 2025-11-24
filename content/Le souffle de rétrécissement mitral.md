@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 36 hours
-due_at: 2025-11-22T09:08:36.176+01:00
+repeat: spaced every 54 hours
+due_at: 2025-11-26T21:23:23.477+01:00
 ---
 # Le souffle de rétrécissement mitral
 - c'est un souffle (roulement) diastolique perçu au foyer mitral

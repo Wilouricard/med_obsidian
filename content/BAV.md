@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-21T06:00:00.000+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-26T15:05:27.707+01:00
 ---
 # Bloc Auriculo-Ventriculaire (BAV)
 

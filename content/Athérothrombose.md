@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-22T11:48:53.838+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-28T15:28:11.952+01:00
 ---
 # Athérothrombose
 

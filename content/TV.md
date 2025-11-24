@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-21T06:00:00.000+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-26T11:24:56.898+01:00
 ---
 # Tachycardie Ventriculaire (TV)
 
@@ -108,7 +108,7 @@ Critères : hypotension, altération de la conscience, signes de choc, douleur t
 
 ### TV bien tolérée
 
-- Amiodarone IV en première intention.
+- [[Amiodarone]] IV en première intention.
     
 - Alternatives selon le contexte : lidocaïne (particulièrement dans l’ischémie), sotalol.
     

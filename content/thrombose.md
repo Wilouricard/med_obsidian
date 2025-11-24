@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 24 hours
-due_at: 2025-11-21T20:52:38.112+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-26T15:16:58.004+01:00
 ---
 # Thrombose
 

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 24 hours
-due_at: 2025-11-21T21:12:39.621+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-26T15:19:15.246+01:00
 ---
 # HTA
 **hypertension artérielle**

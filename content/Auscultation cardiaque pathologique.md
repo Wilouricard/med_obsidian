@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 36 hours
-due_at: 2025-11-22T08:53:53.792+01:00
+repeat: spaced every 72 hours
+due_at: 2025-11-27T15:20:53.190+01:00
 ---
 # [[Auscultation]] cardiaque pathologique
 

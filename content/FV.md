@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-21T06:00:00.000+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-26T10:26:32.409+01:00
 ---
 # Fibrillation Ventriculaire (FV)
 
@@ -17,7 +17,7 @@ C'est le chaos électriquement parlant. Le/les ventricule "tremblent" au lieu de
 La FV résulte d’une activation électrique anarchique des ventricules, avec multiplication de circuits de micro-réentrée et perte totale de synchronisation.  
 Cette activité chaotique empêche toute contraction coordonnée des fibres myocardiques.  
 Il en résulte une absence de débit cardiaque, une hypoperfusion cérébrale immédiate et un collapsus circulatoire complet.  
-Sans intervention rapide, la FV évolue en asystolie en quelques minutes.
+Sans intervention rapide, la FV évolue en [[asystolie]] en quelques minutes.
 
 ---
 
@@ -29,7 +29,7 @@ Sans intervention rapide, la FV évolue en asystolie en quelques minutes.
     
 - Ischémie myocardique sévère ou post-reperfusion.
     
-- Troubles ioniques graves : hyperkaliémie, hypokaliémie, hypomagnésémie.
+- Troubles ioniques graves : [[hyperkaliémie]], [[hypokaliémie]], [[hypomagnésémie]].
     
 - Troubles acidobasiques (acidose métabolique sévère).
     

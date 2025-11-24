@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-20T21:37:15.323+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-26T15:07:38.447+01:00
 ---
 #UE1 
 # Les valeurs professionnelles du médecin et des autres professions de santé
