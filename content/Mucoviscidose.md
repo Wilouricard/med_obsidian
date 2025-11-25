@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-25T09:09:41.302+01:00
+due_at: 2025-11-25T16:11:11.177+01:00
 ---
 ## I. Définition et objectifs
 
@@ -220,7 +220,7 @@ Les complications détaillées incluent :
 
 Au fil du temps, l’évolution respiratoire peut aboutir à une insuffisance respiratoire chronique.
 
-## XI. Pièges EDN
+## XI. Pièges
 
 - Penser à la mucoviscidose devant **tout iléus méconial**.
     

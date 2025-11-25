@@ -190,7 +190,7 @@ Elles sont multiples :
 
 Risque de maltraitance chez les personnes en situation de handicap.
 
-## XI. Pièges EDN
+## XI. Pièges
 
 Il ne faut jamais se contenter du seul aspect clinique, même évocateur : le caryotype est indispensable.  
 Il est crucial de distinguer les formes libres des translocations, car le risque de récidive familial diffère.  

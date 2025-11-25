@@ -1,6 +1,6 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-25T09:09:43.931+01:00
+due_at: 2025-11-25T16:10:14.099+01:00
 ---
 #UE1 
 # Hypersensibilités et allergies chez l'enfant et l'adulte : aspects physiopathologiques, épidémiologiques, diagnostiques et principes de traitement
@@ -190,7 +190,7 @@ Le diagnostic d’allergie repose sur :
 - Maladies professionnelles allergiques.
     
 
-## XI. Pièges EDN
+## XI. Pièges
 
 - Confusion atopie / sensibilisation / allergie.
     

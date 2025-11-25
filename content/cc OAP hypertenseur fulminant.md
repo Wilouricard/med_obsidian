@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-25T09:09:48.050+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-27T15:25:29.829+01:00
 ---
 #cc
 ## **1. Présentation du patient**

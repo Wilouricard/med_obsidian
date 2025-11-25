@@ -140,7 +140,7 @@ Les complications sont nombreuses et spécifiques à chaque maladie :
 - insuffisance respiratoire chronique, malnutrition, [[diabète]] et complications infectieuses dans la [[mucoviscidose]].
     
 
-## XI. Pièges EDN
+## XI. Pièges
 
 Les erreurs fréquentes incluent :
 

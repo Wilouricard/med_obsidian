@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-25T09:09:46.241+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-29T15:33:56.054+01:00
 ---
 #IFSI_UE2_cycleDeLaVieEtGrandesFonctions #IFSI
 
@@ -90,7 +90,7 @@ L’eau représente **60 à 70 % du poids corporel total**.
 
 ### Rôle
 
-Les **électrolytes** (Na⁺, K⁺, Cl⁻, HPO₄²⁻) assurent les équilibres hydriques, la contraction musculaire et la transmission nerveuse.
+- Les **électrolytes** (Na⁺, K⁺, Cl⁻, HPO₄²⁻) assurent les équilibres hydriques, la contraction musculaire et la transmission nerveuse.
 
 ---
 

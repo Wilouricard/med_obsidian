@@ -1,6 +1,6 @@
 ---
 repeat: spaced every 24 hours
-due_at: 2025-11-25T09:09:56.734+01:00
+due_at: 2025-11-25T16:10:13.079+01:00
 ---
 ## I. Définition et objectifs
 
@@ -138,7 +138,7 @@ Les complications varient selon le statut [[génétique]] :
 - insuffisance ovarienne prématurée chez la femme porteuse d’une prémutation.
     
 
-## XI. Pièges EDN
+## XI. Pièges
 
 - Ne pas confondre **prémutation** et **mutation complète** : les implications cliniques sont totalement différentes.
     
