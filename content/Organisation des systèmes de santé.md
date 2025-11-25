@@ -2,7 +2,7 @@
 repeat: spaced every 48 hours
 due_at: 2025-11-26T11:04:44.306+01:00
 ---
-#IFSI_UE2_santePublique 
+#IFSI_UE2_santePublique #IFSI
 # Organisation des systèmes de santé
 
 ## I. Les différentes instances

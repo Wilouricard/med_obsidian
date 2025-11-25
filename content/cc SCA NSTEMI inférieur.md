@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-24T15:55:28.296+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-27T08:33:02.713+01:00
 ---
 #cc
 # SCA NSTEMI inférieur, douleur thoracique non traumatique

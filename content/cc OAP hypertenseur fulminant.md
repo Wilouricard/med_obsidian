@@ -1,7 +1,8 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-25T06:00:00.000+01:00
+due_at: 2025-11-25T09:09:48.050+01:00
 ---
+#cc
 ## **1. Présentation du patient**
 
 Homme de 72 ans, détresse respiratoire grave.

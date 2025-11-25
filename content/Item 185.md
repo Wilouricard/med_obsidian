@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-24T15:56:11.010+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-29T06:59:29.123+01:00
 ---
 #UE1 
 # Réaction inflammatoire : aspects biologiques et cliniques. Conduite à tenir
@@ -823,7 +823,7 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
     
     - Le traitement étiologique de la cause de l’inflammation reste central.
         
-    - Les thérapeutiques anti-inflammatoires ciblent différents niveaux de la cascade inflammatoire.
+    - Les thérapeutiques [[anti-inflammatoires]] ciblent différents niveaux de la cascade inflammatoire.
         
 
 1. Glucocorticoïdes
@@ -850,7 +850,7 @@ Imagerie orientée par la suspicion étiologique (voir conduite à tenir) :
     - Redistribution des graisses.
         
 
-2. Anti-inflammatoires non stéroïdiens (AINS)
+2. [[Anti-inflammatoires]] non stéroïdiens (AINS)
     
 
 - Inhibent la cyclo-oxygénase (COX).

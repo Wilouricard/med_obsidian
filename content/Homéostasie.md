@@ -1,8 +1,8 @@
 ---
 repeat: spaced every 48 hours
-due_at: 2025-11-24T15:54:32.998+01:00
+due_at: 2025-11-25T09:09:46.241+01:00
 ---
-#IFSI_UE2_cycleDeLaVieEtGrandesFonctions
+#IFSI_UE2_cycleDeLaVieEtGrandesFonctions #IFSI
 
 ## Définition
 

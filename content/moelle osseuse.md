@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-11-25T09:09:59.048+01:00
+---
 _(Anatomie + Histologie + Physiologie + Physiopathologie)_
 
 # I. Définition conceptuelle

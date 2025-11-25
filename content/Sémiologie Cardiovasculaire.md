@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-24T15:42:50.663+01:00
+repeat: spaced every 96 hours
+due_at: 2025-11-29T08:57:08.307+01:00
 ---
 # Sémiologie Cardiovasculaire
 [[SEMIOLOGIE]]
@@ -40,6 +40,8 @@ Tout les antécédents cardiovasculaires athéromateuses, précoces  (moins de 5
 	- hérédité cardiovasculaire : [[infarctus]] du myocarde ou mort subite avant l'âge de 55 ans (père frère) / 65 ans (mère sœur) 
 	- Obésité : : [[IMC]] > 30 kg/m2 (surpoids : [[IMC]] > 25kg / m2 )
 	- Sédentarité
+
+Cf : [[Item 222]] : facteurs de risques cardiovasculaire
 
 - ### Traitements :
 prise quotidiennement et doses à prendre en compte pour l'interrogatoire.

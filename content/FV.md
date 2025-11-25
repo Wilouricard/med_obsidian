@@ -79,7 +79,7 @@ Sans défibrillation rapide, le pronostic est sombre avec mortalité quasi certa
     
     - FV de grande amplitude au début.
         
-    - FV de faible amplitude avant l’asystolie.
+    - FV de faible amplitude avant l’[[asystolie]].
         
 
 La FV est toujours un arrêt cardiaque rythmé.
@@ -110,7 +110,7 @@ La FV est toujours un arrêt cardiaque rythmé.
 
 - Adrénaline IV toutes les 3 à 5 minutes.
     
-- Amiodarone après les premiers chocs si FV persistante.
+- [[Amiodarone]] après les premiers chocs si FV persistante.
     
 - Correction simultanée des troubles électrolytiques et de l’hypoxie.
     

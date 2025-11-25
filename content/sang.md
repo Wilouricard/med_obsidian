@@ -1,8 +1,8 @@
 ---
 repeat: spaced every day
-due_at: 2025-11-24T15:02:57.914+01:00
+due_at: 2025-11-25T09:09:42.689+01:00
 ---
-#IFSI_UE2_cycleDeLaVieEtGrandesFonctions 
+#IFSI_UE2_cycleDeLaVieEtGrandesFonctions #IFSI
 # Le sang
 
 # 1. Généralités sur le sang

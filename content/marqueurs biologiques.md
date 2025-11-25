@@ -1,8 +1,8 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-24T15:56:12.053+01:00
+repeat: spaced every 48 hours
+due_at: 2025-11-27T08:10:24.249+01:00
 ---
- #IFSI_UE2_processusInflamatoires 
+ #IFSI_UE2_processusInflamatoires #IFSI
  [[Item 212]] 
 # Les marqueurs biologiques de l’infection et examens microbiologiques
 

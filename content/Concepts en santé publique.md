@@ -2,7 +2,7 @@
 repeat: spaced every 48 hours
 due_at: 2025-11-26T14:35:55.851+01:00
 ---
-#IFSI_UE2_santePublique 
+#IFSI_UE2_santePublique #IFSI
 # Concepts en santé publique 
 
 ## I. Qu’est-ce que la santé ?
