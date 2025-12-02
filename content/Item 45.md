@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-26T14:21:41.583+01:00
+repeat: spaced every 185 hours
+due_at: 2025-12-10T06:00:00.000+01:00
 ---
 ## I. Définition et objectifs
 
@@ -127,7 +127,7 @@ Chaque maladie dispose d’une physiopathologie propre détaillée dans les note
 ## IX. Traitements
 
 Les traitements décrits sont uniquement symptomatiques et organisés selon les complications de chaque maladie.  
-Il n’existe pas de traitement curatif [[génétique]] (enfin je crois pas ??).
+Il n’existe pas de traitement curatif [[génétique]].
 
 ## X. Complications
 

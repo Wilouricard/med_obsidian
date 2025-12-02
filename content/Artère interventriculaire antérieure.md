@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 54 hours
-due_at: 2025-11-26T21:24:36.111+01:00
+repeat: spaced every 210 hours
+due_at: 2025-12-11T06:00:00.000+01:00
 ---
 Origine : [[artère coronaire gauche]]. 
 Il chemine dans le sillon interventriculaire antérieur et passe par derrière (postérieur) par le bas (l'incisure cardiaque). 

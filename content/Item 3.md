@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-25T16:10:15.387+01:00
+repeat: spaced every 188 hours
+due_at: 2025-12-08T06:00:00.000+01:00
 ---
 #UE1 
 # Le raisonnement et la décision en médecine. La médecine fondée sur les preuves (Evidence Based Medicine, [[EBM]]). La décision médicale partagée. La controverse.

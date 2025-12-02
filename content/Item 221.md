@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-25T16:10:09.760+01:00
+repeat: spaced every 96 hours
+due_at: 2025-12-04T16:36:51.753+01:00
 ---
 # Athérome
 
@@ -14,7 +14,7 @@ Objectifs :
     
 - Identifier les **localisations fréquentes** et leurs conséquences cliniques.
     
-- Connaître les **facteurs de risque**, la **prévention** et la **prise en charge**.
+- Connaître les **facteurs de risque** ([[Item 222]]), la **prévention** et la **prise en charge**.
     
 - Reconnaître le **malade polyathéromateux** et la nécessité d’une évaluation multi-territoires.
     

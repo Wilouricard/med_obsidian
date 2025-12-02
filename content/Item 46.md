@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-26T10:34:14.817+01:00
+repeat: spaced every 185 hours
+due_at: 2025-12-10T06:00:00.000+01:00
 ---
 # Médecine génomique
 

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-11-28T15:47:18.573+01:00
+repeat: spaced every 182 hours
+due_at: 2025-12-06T06:00:00.000+01:00
 ---
 # [[Auscultation]] cardiaque normal
 ## [[Auscultation]] cardiaque normal

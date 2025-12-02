@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-26T11:24:56.898+01:00
+repeat: spaced every 183 hours
+due_at: 2025-12-09T06:00:00.000+01:00
 ---
 # Tachycardie Ventriculaire (TV)
 
@@ -46,7 +46,7 @@ Les torsades de pointes constituent une forme particulière, associée à un QT 
     
 - Cardiomyopathies dilatée, hypertrophique, arythmogène du ventricule droit.
     
-- Troubles ioniques : hypokaliémie, hypomagnésémie.
+- Troubles ioniques : [[hypokaliémie]], hypomagnésémie.
     
 - Médicaments pro-arythmogènes (antiarythmiques de classe I, antidépresseurs, psychotropes).
     

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-11-28T15:46:56.603+01:00
+repeat: spaced every 182 hours
+due_at: 2025-12-06T06:00:00.000+01:00
 ---
 # Symptômes fonctionnels cardiaques
 

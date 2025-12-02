@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-26T06:00:00.000+01:00
+repeat: spaced every 96 hours
+due_at: 2025-12-04T10:38:34.922+01:00
 ---
 #IFSI_UE2_pharmacologie #IFSI
 
@@ -354,17 +354,17 @@ Les AIS de synthèse ont des propriétés similaires aux glucocorticoïdes + min
 
 ### **Tableau 9 : Système tégumentaire**
 
-|Action|Effet|Conséquence|Prévention|
-|---|---|---|---|
-|Peau|Atrophie cutanée|Fragilité, hématomes, vergetures|Hygiène, soins cutanés, épilation si gêne|
+| Action | Effet            | Conséquence                      | Prévention                                |
+| ------ | ---------------- | -------------------------------- | ----------------------------------------- |
+| Peau   | Atrophie cutanée | Fragilité, hématomes, vergetures | Hygiène, soins cutanés, épilation si gêne |
 
 ---
 
 ### **Tableau 10 : Neuropsychique**
 
-|Action|Effet|Conséquence|Prévention|
-|---|---|---|---|
-|Neuropsychique|Psychostimulation|Insomnie, excitation, troubles bipolaires|Administration le matin, évaluer sommeil|
+| Action         | Effet             | Conséquence                               | Prévention                               |
+| -------------- | ----------------- | ----------------------------------------- | ---------------------------------------- |
+| Neuropsychique | Psychostimulation | Insomnie, excitation, troubles bipolaires | Administration le matin, évaluer sommeil |
 
 ---
 

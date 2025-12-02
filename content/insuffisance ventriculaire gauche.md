@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 72 hours
-due_at: 2025-11-27T15:32:28.743+01:00
+repeat: spaced every 144 hours
+due_at: 2025-12-03T18:52:10.080+01:00
 ---
 ## Définition
 

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-11-26T06:00:00.000+01:00
+repeat: spaced every 96 hours
+due_at: 2025-12-05T00:12:22.066+01:00
 ---
 # **Facteurs de risque cardiovasculaire et prévention**
 
@@ -137,7 +137,7 @@ Objectifs adaptés au risque SCORE :
 
 • **Mesures hygiénodiététiques** systématiques  
 • Objectif PA selon recommandations européennes (120–129 mmHg <70 ans)  
-• Objectif LDL selon risque (cf item 223)  
+• Objectif LDL selon risque (cf [[item 223]])  
 • Sevrage tabagique : substituts nicotiniques, TCC, varénicline/bupropion  
 • PNNS : fruits/légumes, poisson, réduction graisses saturées/sucre/sel  
 • Activité physique : **≥30 min, 5j/sem**  

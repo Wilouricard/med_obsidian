@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-11-29T08:20:37.786+01:00
+repeat: spaced every 181 hours
+due_at: 2025-12-08T06:00:00.000+01:00
 ---
 #cc
 # **Cas Clinique – [[Embolie Pulmonaire]] Massive (EP)**

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-11-29T08:06:56.803+01:00
+repeat: spaced every 175 hours
+due_at: 2025-12-07T06:00:00.000+01:00
 ---
 # Vitesse de Sédimentation
 

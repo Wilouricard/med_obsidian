@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-11-28T15:29:11.538+01:00
+repeat: spaced every 144 hours
+due_at: 2025-12-04T16:03:32.385+01:00
 ---
 # Modification des bruits
 ### Modification des bruits

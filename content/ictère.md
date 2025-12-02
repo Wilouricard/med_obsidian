@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 72 hours
-due_at: 2025-11-27T15:23:36.171+01:00
+repeat: spaced every 144 hours
+due_at: 2025-12-03T18:50:18.281+01:00
 ---
 # Ictère
 Coloration jaune plus ou moins intense de la peau, des muqueuses et des conjonctives due à leur imprégnation par les pigments biliaires

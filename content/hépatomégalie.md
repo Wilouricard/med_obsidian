@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-11-28T15:29:44.603+01:00
+repeat: spaced every 182 hours
+due_at: 2025-12-06T06:00:00.000+01:00
 ---
 # Hépatomégalie
 Augmentation du volume du foie.  

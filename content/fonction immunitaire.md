@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-26T14:51:54.275+01:00
+repeat: spaced every 185 hours
+due_at: 2025-12-10T06:00:00.000+01:00
 ---
 #IFSI_UE2_cycleDeLaVieEtGrandesFonctions #IFSI
 

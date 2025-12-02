@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-27T08:10:24.249+01:00
+repeat: spaced every 180 hours
+due_at: 2025-12-10T06:00:00.000+01:00
 ---
  #IFSI_UE2_processusInflamatoires #IFSI
  [[Item 212]] 

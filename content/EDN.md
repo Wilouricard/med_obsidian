@@ -223,7 +223,7 @@ Listes des items de l'EDN :
 | 200          | Douleur et épanchement articulaire. Arthrite d'évolution récente.                                                                                                                                                                                        |
 | 201          | Transplantation d'organes : aspects épidémiologiques et immunologiques ; principes de traitement ; complications et pronostic ; aspects éthiques et légaux. Prélèvements d'organes et législation.                                                       |
 | 202          | Biothérapies et thérapies ciblées                                                                                                                                                                                                                        |
-| 203          | [[Dyspnée]] aiguë et chronique                                                                                                                                                                                                                           |
+| [[Item 203]] | [[Dyspnée]] aiguë et chronique                                                                                                                                                                                                                           |
 | 204          | Toux chez l'enfant et chez l'adulte (avec le traitement)                                                                                                                                                                                                 |
 | 205          | [[Hémoptysie]]                                                                                                                                                                                                                                           |
 | 206          | Épanchement pleural liquidien                                                                                                                                                                                                                            |
@@ -243,8 +243,8 @@ Listes des items de l'EDN :
 | 220          | Adénopathie superficielle de l'adulte et de l'enfant                                                                                                                                                                                                     |
 | [[Item 221]] | Athérome : épidémiologie et physiopathologie. Le malade poly-athéromateux                                                                                                                                                                                |
 | [[Item 222]] | Facteurs de risque cardio-vasculaire et prévention                                                                                                                                                                                                       |
-| 223          | Dyslipidémies                                                                                                                                                                                                                                            |
-| 224          | Hypertension artérielle de l'adulte et de l’enfant                                                                                                                                                                                                       |
+| [[Item 223]] | Dyslipidémies                                                                                                                                                                                                                                            |
+| [[Item 224]] | Hypertension artérielle de l'adulte et de l’enfant                                                                                                                                                                                                       |
 | 225          | Artériopathie oblitérante de l'aorte, des artères viscérales et des membres inférieurs ; anévrysmes                                                                                                                                                      |
 | 226          | [[Thrombose]] veineuse profonde et [[embolie pulmonaire]]                                                                                                                                                                                                |
 | 227          | [[Insuffisance veineuse]] chronique et varices                                                                                                                                                                                                           |
@@ -289,7 +289,7 @@ Listes des items de l'EDN :
 | 266          | Polykystose rénale                                                                                                                                                                                                                                       |
 | 267          | Troubles de l'équilibre acido-basique et désordres hydro-électrolytiques                                                                                                                                                                                 |
 | 268          | Hypercalcémie                                                                                                                                                                                                                                            |
-| 269          | Douleurs abdominales aiguës chez l'enfant et chez l'adulte                                                                                                                                                                                               |
+| [[Item 269]] | Douleurs abdominales aiguës chez l'enfant et chez l'adulte                                                                                                                                                                                               |
 | 270          | Douleurs lombaires aiguës chez l'enfant et chez l'adulte                                                                                                                                                                                                 |
 | 271          | Reflux gastro-œsophagien chez le nourrisson, chez l'enfant et chez l'adulte. Hernie hiatale                                                                                                                                                              |
 | 272          | Ulcère gastrique et duodénal. Gastrite.                                                                                                                                                                                                                  |
@@ -409,12 +409,12 @@ Listes des items de l'EDN :
 Ensuite : bases cardio (déjà fait un peu) → coeur de la cardio
 10. **[[Item 221]] – Athérome**  
 11. **[[Item 222]] – Facteurs de risque cardiovasculaire**  
-12. **Item 223 – Dyslipidémies**  
-13. **Item 224 – Hypertension artérielle**
+12. **[[Item 223]] – Dyslipidémies**  
+13. **[[Item 224]] – Hypertension artérielle**
 
 Et deux sémiologies majeures :  
-14. **Item 203 – [[Dyspnée]]**  
-15. **Item 269 – Douleur abdominale aiguë**
+14. **[[Item 203]] – [[Dyspnée]]**  
+15. **[[Item 269]] – Douleur abdominale aiguë**
 
 Enfin clinique de base : → pcq c'est le basique à regarder quand on tombe malade + courant
 16. **Item 147 – Fièvre aiguë
@@ -448,6 +448,7 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 [[cc dissection aortique aiguë]]
 
 **6. Tachycardie à QRS larges ([[TV]])**
+[[cc Tachycardie à QRS larges (TV) mal tolérée]]
 
 **7. Bradycardie / [[BAV]]**
 

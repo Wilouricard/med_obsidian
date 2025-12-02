@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-11-29T08:51:36.573+01:00
+repeat: spaced every 188 hours
+due_at: 2025-12-08T06:00:00.000+01:00
 ---
 #UE1
 

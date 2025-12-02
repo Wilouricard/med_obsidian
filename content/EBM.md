@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-11-26T10:13:05.346+01:00
+repeat: spaced every 187 hours
+due_at: 2025-12-09T06:00:00.000+01:00
 ---
 # **Evidence-Based Medicine (EBM)**
 

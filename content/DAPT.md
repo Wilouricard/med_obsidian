@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-11-28T15:49:53.518+01:00
+repeat: spaced every 182 hours
+due_at: 2025-12-06T06:00:00.000+01:00
 ---
 **Définition**  
 Double antiagrégation plaquettaire : **aspirine + inhibiteur P2Y12** (clopidogrel, prasugrel, ***ticagrelor***).
