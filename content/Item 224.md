@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-12-03T00:19:47.457+01:00
+repeat: spaced every 96 hours
+due_at: 2025-12-07T17:38:47.587+01:00
 ---
 # Hypertension artérielle de l’adulte et de l’enfant
 

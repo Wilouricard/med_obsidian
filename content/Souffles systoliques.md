@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 108 hours
-due_at: 2025-12-03T04:27:50.373+01:00
+repeat: spaced every 207 hours
+due_at: 2025-12-12T06:00:00.000+01:00
 ---
 # Souffles systoliques
 ## Souffles systoliques

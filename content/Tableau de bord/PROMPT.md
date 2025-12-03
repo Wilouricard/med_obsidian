@@ -1,8 +1,6 @@
 ---
 repeat: never
 ---
-**PROMPT :**
-
 Génère-moi une note Obsidian complète pour l’ITEM [NUMÉRO] – [TITRE].
 
 Exigences impératives :

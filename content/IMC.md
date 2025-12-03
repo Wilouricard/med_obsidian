@@ -9,6 +9,7 @@ L’indice de masse corporelle ou IMC est une grandeur qui permet d'estimer la c
 $$
 IMC = \frac{poids(kg)}{taille(m)²}
 $$
+
 ## Interprétation de l'IMC
 
 Selon les classifications de l'OMS, l'IMC se répartit comme suit :

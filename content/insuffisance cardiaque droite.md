@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 144 hours
-due_at: 2025-12-03T18:56:54.939+01:00
+repeat: spaced every 279 hours
+due_at: 2025-12-15T06:00:00.000+01:00
 ---
 # [[Insuffisance cardiaque]] droite
 Les principaux symptômes de l'[[insuffisance cardiaque]] droite sont **une accumulation de liquide qui entraîne un gonflement (œdème) des pieds, des chevilles, des jambes, du bas du dos, du foie et de l'abdomen**. La partie du corps où le liquide s'accumule dépend de la quantité d'excès de liquide et des effets de gravité.

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-12-03T23:20:13.529+01:00
+repeat: spaced every 184 hours
+due_at: 2025-12-11T06:00:00.000+01:00
 ---
 ### **Définition**  
 **Mg²⁺ < 0,7 mmol/L**.  

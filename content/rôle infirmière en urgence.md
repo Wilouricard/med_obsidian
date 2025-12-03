@@ -1,3 +1,7 @@
+---
+repeat: spaced every day
+due_at: 2025-12-04T06:00:00.000+01:00
+---
 #IFSI #IFSI_UE4_soinsUrgence 
 ## Le rôle de l’infirmier(e) dans les services d’urgence
 

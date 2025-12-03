@@ -12,7 +12,7 @@ Listes des items de l'EDN :
 | UE4  | Perception - système nerveux - revêtement cutané                                              | (81 → 117)  |
 | UE5  | Handicap - Vieillissement - Dépendance - Douleur - Soins palliatifs - Accompagnement          | (118 → 144) |
 | UE6  | Maladies transmissibles - Risques sanitaires - Santé au travail                               | (145 → 184) |
-| UE7  | Inflammation - Immunopathologie - Poumon - [[Sang]]                                               | (185 → 220) |
+| UE7  | Inflammation - Immunopathologie - Poumon - [[Sang]]                                           | (185 → 220) |
 | UE8  | Circulation - Métabolismes                                                                    | (221 → 289) |
 | UE9  | Cancérologie - Onco-hématologie                                                               | (290 → 320) |
 | UE10 | Le bon usage du médicament et des thérapeutiques non médicamenteuses                          | (321 → 330) |
@@ -167,7 +167,7 @@ Listes des items de l'EDN :
 | 144          | Deuil normal et pathologique                                                                                                                                                                                                                             |
 | 145          | Surveillance des maladies infectieuses transmissibles                                                                                                                                                                                                    |
 | 146          | Vaccinations                                                                                                                                                                                                                                             |
-| 147          | Fièvre aiguë chez l'enfant et l'adulte                                                                                                                                                                                                                   |
+| [[Item 147]] | Fièvre aiguë chez l'enfant et l'adulte                                                                                                                                                                                                                   |
 | 148          | Infections naso-sinusiennes de l'adulte et de l'enfant                                                                                                                                                                                                   |
 | 149          | Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant                                                                                                                                                                                       |
 | 150          | Otites infectieuses de l'adulte et de l'enfant                                                                                                                                                                                                           |
@@ -417,7 +417,7 @@ Et deux sémiologies majeures :
 15. **[[Item 269]] – Douleur abdominale aiguë**
 
 Enfin clinique de base : → pcq c'est le basique à regarder quand on tombe malade + courant
-16. **Item 147 – Fièvre aiguë
+16. **[[Item 147]] – Fièvre aiguë
 17. **Item 230 – Douleur thoracique aiguë**
 18. **Item 231 – ECG (bases de lecture)**
 19. **Item 203 – [[Dyspnée]]** _(déjà fait mais voir vision clinique)_
@@ -451,8 +451,10 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 [[cc Tachycardie à QRS larges (TV) mal tolérée]]
 
 **7. Bradycardie / [[BAV]]**
+[[cc bradycardie sévère BAV complet bas]]
 
 **8. Fibrillation atriale rapide**
+[[cc fibrillation atriale rapide FARVR]]
 
 **9. Choc anaphylactique**
 
