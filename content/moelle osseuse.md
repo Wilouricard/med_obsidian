@@ -193,7 +193,7 @@ Régulent l’hématopoïèse par :
 
 ### a. Stimulation
 
-→ **Erythropoïétine (EPO)**, sécrétée par le rein en réponse à l’hypoxie
+→ **Erythropoïétine (EPO)**, sécrétée par le [[rein]] en réponse à l’hypoxie
 
 ### b. Maturation
 

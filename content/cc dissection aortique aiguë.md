@@ -1,6 +1,6 @@
 ---
 repeat: spaced every 96 hours
-due_at: 2025-12-04T16:27:46.177+01:00
+due_at: 2025-12-04T17:37:18.913+01:00
 ---
 #cc 
 # Dissection aortique aiguë (Type A)
@@ -104,7 +104,7 @@ Dans 5 à 15 % des dissections, le flap obstrue partiellement une coronaire. On 
 Une élévation modérée de troponines reflète l’hypoperfusion, pas un infarctus athéromateux.
 
 **Pourquoi lactates ?**  
-Marqueur d’hypoperfusion systémique. Une dissection peut réduire la perfusion des organes (rein, intestin, moelle).
+Marqueur d’hypoperfusion systémique. Une dissection peut réduire la perfusion des organes ([[rein]], intestin, moelle).
 
 **Pourquoi créat ?**  
 Si une artère rénale est perfusée par la fausse lumière, la perfusion rénale diminue, et la créatinine augmente.
@@ -275,7 +275,7 @@ Sans chirurgie pour une dissection de type A :
     
 - Oublier d’appeler la chirurgie avant l’imagerie.
     
-- Oublier l’évaluation des organes : rein, cerveau, mésentère.
+- Oublier l’évaluation des organes : [[rein]], cerveau, mésentère.
     
 
 ---

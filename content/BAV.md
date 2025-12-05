@@ -2,157 +2,310 @@
 repeat: spaced every 184 hours
 due_at: 2025-12-09T06:00:00.000+01:00
 ---
-# Bloc Auriculo-Ventriculaire (BAV)
+# **Blocs atrioventriculaires (BAV1, BAV2, BAV3)**
 
-## **Définition**
+## I. Définition et objectifs
 
-Le bloc auriculo-ventriculaire (BAV) est un **trouble de la conduction** entre les oreillettes et les ventricules, dû à un ralentissement ou une interruption du passage de l’influx électrique au niveau du **nœud AV**, du **faisceau de His** ou des **branches**.  
-Il entraîne un **rythme ventriculaire lent** et potentiellement instable selon le degré du bloc.
+Les blocs atrioventriculaires (BAV) correspondent à un **ralentissement**, une **interruption** ou une **dissociation complète** de la conduction entre les oreillettes et les ventricules.
 
----
+Objectifs :
 
-## **Physiopathologie (courte)**
-
-Le signal électrique issu du nœud sinusal doit traverser le nœud AV pour atteindre les ventricules.  
-Quand cette conduction se ralentit ou cesse :
-
-- les oreillettes et les ventricules **ne sont plus synchronisés**,
+- reconnaître les critères ECG des BAV de 1er, 2e et 3e degré,
     
-- le débit cardiaque chute,
+- distinguer Mobitz I, Mobitz II et BAV 2/1,
     
-- le risque d’**hypotension**, **[[syncopes]]** ou **arrêt** augmente selon la sévérité.
+- savoir différencier un bloc **suprahissien** d’un bloc **infrahissien**,
+    
+- comprendre la gravité potentielle.
     
 
----
+## II. Compréhension physiopathologique (synthèse courte)
 
-## **Classification**
-
-### **BAV 1er degré**
-
-- Ralentissement simple de la conduction.
+- La conduction AV dépend du **NAV**, du **His**, puis des **branches**.
     
-- **PR allongé (> 200 ms)** mais **constant**.
+- Le ralentissement ou blocage peut survenir :
     
-- Conduction 1:1 (chaque onde P donne un QRS).
-    
-- Souvent asymptomatique.
-    
-
-### **BAV 2e degré**
-
-Conduction intermittente : certaines ondes P ne sont pas conduites.
-
-#### **Mobitz I (Wenckebach)**
-
-- PR s’allonge progressivement
-    
-- Puis un QRS est **bloqué**.
-    
-- Souvent bénin, souvent nodal.
-    
-
-#### **Mobitz II**
-
-- PR normal et constant
-    
-- Mais QRS sautent **sans avertissement**.
-    
-- **Risque élevé d’évolution en BAV complet**.
-    
-- Bloc généralement infra-nodal (His/Purkinje).
-    
-- **Indication fréquente de pacemaker.**
-    
-
-### **BAV 3e degré (bloc complet)**
-
-- **Aucune conduction** oreillette → ventricule.
-    
-- Les ventricules battent grâce à un **rythme d’échappement** lent (20–40 bpm).
-    
-- Discordance P / QRS = activités indépendantes.
-    
-- **Urgence vitale** (syncope d’Adams-Stokes possible).
-    
-- Indication : pacing externe en aigu → pacemaker définitif.
-    
-
----
-
-## **Étiologies principales**
-
-- Ischémie cardiaque / [[infarctus]] (souvent inférieur : BAV nodal)
-    
-- Dégénérescence du système de conduction (vieillissement)
-    
-- Médicaments : bêtabloquants, inhibiteurs calciques, digoxine, antiarythmiques
-    
-- Hyperkaliémie
-    
-- Myocardites
-    
-- Maladies infiltratives (sarcoïdose, amylose)
-    
-
----
-
-## **Signes cliniques**
-
-- Bradycardie
-    
-- Malaise, lipothymie, syncope
-    
-- Fatigue intense, [[dyspnée]]
-    
-- Hypotension, confusion
-    
-- Dans BAV complet : **signes de bas débit sévère**
-    
-
----
-
-## **Diagnostic (ECG / Scope)**
-
-- **BAV 1** : PR > 200 ms, régulier
-    
-- **BAV 2 Mobitz I** : allongement progressif PR + QRS manquant
-    
-- **BAV 2 Mobitz II** : PR normal + QRS « dropped »
-    
-- **BAV 3** : dissociation complète P–QRS, rythme d’échappement lent
-    
-
----
-
-## **Conduite à tenir**
-
-- Évaluer la tolérance : TA, conscience, signes de choc
-    
-- Corriger les causes réversibles (médicaments, K+, ischémie)
-    
-- **Instable** :
-    
-    - **Atropine** (efficacité variable)
+    - **au NAV (suprahissien)** : généralement bénin, QRS fins, échappement jonctionnel.
         
-    - **Pacing externe** (stimulation transcutanée)
+    - **au niveau infra-hissien** : danger majeur, QRS larges, risque d’asystolie.
         
-    - Oxygène, remplissage si besoin
-        
-- **Stabilisation / permanence** :
+- Un BAV complet = **dissociation atrioventriculaire**, échappement propre (jonctionnel ou ventriculaire).
     
-    - Pacing transveineux temporaire si besoin
+
+## III. Points clés à connaître
+
+- **BAV 1** : PR > 200 ms, **aucune onde P bloquée**.
+    
+- **Mobitz I (Wenckebach)** : allongement progressif du PR → onde P bloquée.
+    
+- **Mobitz II** : PR constant → ondes P bloquées brutales → **grave, risque de BAV complet**.
+    
+- **BAV 2/1** : une onde P sur deux passe ; l’orientation dépend de la largeur du QRS.
+    
+- **BAV 3 (complet)** : dissociation AV → échappement jonctionnel (QRS fins) ou ventriculaire (QRS larges).
+    
+- Le territoire du bloc (supra vs infra-hissien) conditionne la gravité.
+    
+
+## IV. Sémiologie ou éléments diagnostiques
+
+### A. Signes ECG caractéristiques
+
+---
+
+## **1. BAV 1 (1er degré)**
+
+**Critère unique : PR > 200 ms**, fixe, constant.  
+Aucune onde P bloquée.
+
+**Figure à insérer** : _Fig. 15.21 – BAV 1er degré._
+
+---
+
+## **2. BAV 2e degré**
+
+### a) **Mobitz I (Luciani–Wenckebach)**
+
+Caractéristiques :
+
+- Allongement **progressif** de l’intervalle PR,
+    
+- puis **onde P bloquée**,
+    
+- la P bloquée est parfois prématurée (ES atriale bloquée).
+    
+
+**Bloc typiquement suprahissien.**
+
+**Figure à insérer** : _Fig. 15.22 – Mobitz I._
+
+---
+
+### b) **Mobitz II**
+
+Dans le PDF, Mobitz II est évoqué en lien avec la gravité (risque d’infra-hissien), bien qu’aucun tracé n’illustre directement ce type.
+
+Caractéristiques (mention indirecte) :
+
+- PR **constant**,
+    
+- Ondes P bloquées **brutales**,
+    
+- Souvent QRS **larges** (bloc infra-hissien),
+    
+- Forte gravité → risque de BAV complet.
+    
+
+---
+
+### c) **BAV 2/1**
+
+Définition : **une onde P sur deux passe**.
+
+Interprétation :
+
+- Si QRS **fins** → bloc probablement **suprahissien**.
+    
+- Si QRS **larges** → bloc probablement **infrahissien**.
+    
+
+Mention importante du PDF :  
+Dans un BAV 2/1, on s’oriente vers :
+
+- **bloc infrahissien** si QRS larges
+    
+- **bloc suprahissien** si QRS fins ou si alternance Mobitz I visible à d’autres moments.
+    
+
+---
+
+## **3. BAV 3 (3e degré ou bloc complet)**
+
+Caractéristiques :
+
+- **Dissociation atrioventriculaire**,
+    
+- Ondes P **régulières**, indépendantes des QRS,
+    
+- Echappement :
+    
+    - **jonctionnel** → QRS **fins**, FC 40–60 bpm (**bloc suprahissien**),
         
-    - **Pacemaker définitif** (Mobitz II + BAV 3)
+    - **ventriculaire** → QRS **larges**, FC 15–30 bpm (**bloc infrahissien**).
         
 
+**Figure à insérer** : _Fig. 15.23 – BAV complet._  
+(Noter les ondes P visibles en V1 et l’échappement jonctionnel.)
+
 ---
 
-## **Points clés**
+### B. Signes de gravité
 
-- **Mobitz II et BAV 3 = toujours graves → pacemaker.**
+- BAV **Mobitz II** → grave, risque de BAV complet.
     
-- **Wenckebach = souvent nodal et bénin.**
+- BAV 2/1 avec **QRS larges** → suspicion de bloc **infrahissien**.
     
-- Le BAV complet = **urgence** par risque d’arrêt.
+- BAV **complet** → urgence si échappement instable.
     
-- Toujours rechercher et corriger les **causes réversibles** (médocs, hyperK, [[infarctus]]).
+- Toute **bradycardie symptomatique** (syncope, lipothymie).
+    
+
+### C. Diagnostics différentiels
+
+- Dysfonction sinusale (absence d’onde P vs onde P bloquée).
+    
+- Extrasystole atriale non conduite (forme de pseudo-bloc).
+    
+- Tachy-brady syndrome (alternance FA et bradycardie).
+    
+
+### D. Situations particulières
+
+- Une **onde P bloquée précoce** peut être une **ES atriale bloquée** (ex : 3e onde P bloquée dans Fig. 15.22).
+    
+- Dans un tracé avec FA, un BAV complet peut exister si l’activité ventriculaire devient **régulière** et lente.
+    
+
+## V. Examens complémentaires
+
+### A. Biologie
+
+- Recherche d’ischémie ou troubles ioniques (non spécifique au BAV).
+    
+
+### B. Imagerie
+
+- Échocardiographie si suspicion de maladie structurelle.
+    
+
+### C. Orientation et interprétation
+
+- Déterminer si QRS **fin** ou **large**.
+    
+- Rechercher signes en faveur d’un bloc **infrahissien**.
+    
+- Explorer le contexte : syncope, troubles de conduction associés.
+    
+
+## VI. Diagnostic et critères
+
+Résumé clair :
+
+|Type|Critères essentiels|
+|---|---|
+|**BAV 1**|PR > 200 ms, constant|
+|**Mobitz I**|PR qui s’allonge progressivement → P bloquée|
+|**Mobitz II**|PR constant → P bloquées brusques|
+|**BAV 2/1**|une P sur deux transmise ; interprétation selon largeur QRS|
+|**BAV 3**|Dissociation AV ; échappement jonctionnel (fins) ou ventriculaire (larges)|
+
+## VII. Conduite à tenir
+
+### A. Urgences
+
+- BAV **complet** → surveillance + stimulation si instabilité.
+    
+- BAV 2e degré **Mobitz II** → indication fréquente de pacemaker.
+    
+- Bradycardie sévère → atropine ± entraînement électrosystolique.
+    
+
+### B. Traitement initial
+
+- Corriger causes aggravantes : médicaments bradycardisants, hyperkaliémie, ischémie.
+    
+- Préparer stimulation si QRS larges ou instabilité.
+    
+
+### C. Réévaluation
+
+- Contrôle ECG répété.
+    
+- Évaluation du site de bloc (supra vs infra-hissien).
+    
+- Analyse des symptômes (syncope, malaise).
+    
+
+### D. Suivi
+
+- Indication de **pacemaker** dans :
+    
+    - BAV2 Mobitz II,
+        
+    - BAV3,
+        
+    - BAV2/1 infrahissien présumé.
+        
+
+## VIII. Physiopathologie détaillée
+
+- Le NAV agit comme filtre : un ralentissement nodal donne souvent un **PR long** mais QRS fins.
+    
+- Les blocs infra-hissiens impliquent les branches → QRS larges.
+    
+- En BAV complet, le pacemaker d’échappement dépend du niveau de bloc.
+    
+
+### Figures associées
+
+À insérer :
+
+- **Fig. 15.20 – Résumé des BAV**.
+    
+- **Fig. 15.21 – BAV 1**.
+    
+- **Fig. 15.22 – Mobitz I**.
+    
+- **Fig. 15.23 – BAV complet**.
+    
+
+## IX. Traitements
+
+- Traitement étiologique (médicaments, ionogramme).
+    
+- **Pacemaker définitif** si :
+    
+    - Mobitz II,
+        
+    - BAV3,
+        
+    - Dysfonction sinusale sévère avec pauses,
+        
+    - Bloc infrahissien documenté.
+        
+
+## X. Complications
+
+- Évolution vers un **BAV complet**.
+    
+- Syncope traumatique.
+    
+- Mort subite (bloc infra-hissien non reconnu).
+    
+- Bradycardie extrême → choc cardiogénique.
+    
+
+## XI. Pièges
+
+- BAV 2/1 **ne permet pas** de distinguer Mobitz I vs II → analyser QRS.
+    
+- Interpréter une ES atriale bloquée comme Mobitz I.
+    
+- Confondre FA lente et BAV complet.
+    
+- Oublier que **les ondes P sont régulières** dans tous les BAV.
+    
+- Penser qu’un PR long = toujours bloc nodal (peut être infra-hissien si bifasciculaire).
+    
+
+## XII. À connaître par cœur
+
+- **PR > 200 ms = BAV1**.
+    
+- **Mobitz I = allongement progressif du PR** ; **Mobitz II = PR constant**.
+    
+- **BAV2/1 + QRS larges = infrahissien** (priorité EDN).
+    
+- **BAV3 = dissociation AV**, échappement selon la largeur du QRS.
+    
+- **Toute syncope dans un contexte de trouble de conduction = red flag**

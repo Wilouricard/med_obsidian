@@ -250,8 +250,8 @@ Listes des items de l'EDN :
 | 227          | [[Insuffisance veineuse]] chronique et varices                                                                                                                                                                                                           |
 | 228          | Ulcère de jambe                                                                                                                                                                                                                                          |
 | 229          | Surveillance et complications des abords veineux                                                                                                                                                                                                         |
-| 230          | Douleur thoracique aiguë                                                                                                                                                                                                                                 |
-| 231          | Électrocardiogramme : indications et interprétations                                                                                                                                                                                                     |
+| [[Item 230]] | Douleur thoracique aiguë                                                                                                                                                                                                                                 |
+| [[Item 231]] | Électrocardiogramme : indications et interprétations                                                                                                                                                                                                     |
 | 232          | Fibrillation atriale                                                                                                                                                                                                                                     |
 | 233          | [[Valvulopathies]]                                                                                                                                                                                                                                       |
 | 234          | [[Insuffisance cardiaque]] de l'adulte                                                                                                                                                                                                                   |
@@ -418,8 +418,8 @@ Et deux sémiologies majeures :
 
 Enfin clinique de base : → pcq c'est le basique à regarder quand on tombe malade + courant
 16. **[[Item 147]] – Fièvre aiguë
-17. **Item 230 – Douleur thoracique aiguë**
-18. **Item 231 – ECG (bases de lecture)**
+17. **[[Item 230]] – Douleur thoracique aiguë**
+18. **[[Item 231]] – ECG (bases de lecture)**
 19. **Item 203 – [[Dyspnée]]** _(déjà fait mais voir vision clinique)_
 20. **Item 269 – Douleurs abdominales aiguës** _(idem)_
 21. **Items 361–363 : Traumatismes fréquents (entorses, fractures simples)**
@@ -439,7 +439,8 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 [[cc SCA STEMI inférieur]]
 
 **3. [[Embolie pulmonaire]]**
-[[cc EP]]
+[[cc EP massive]]
+[[cc EP intermédiaire bas]]
 
 **4. [[OAP]] / [[Insuffisance cardiaque]] aiguë**
 [[cc OAP hypertenseur fulminant]]
@@ -457,6 +458,7 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 [[cc fibrillation atriale rapide FARVR]]
 
 **9. Choc anaphylactique**
+[[cc choc anaphylactique]]
 
 **10. Œdème de Quincke**
 

@@ -58,4 +58,5 @@ Exigences impératives :
     
 12. Le contenu doit être **99–100 % exhaustif**, même si l’item est long.
     
+13. Indique : Figure/Schema [nom du schema] à coller ici. Je m'occuperai de copier coller dans la note le schema en question. 
 

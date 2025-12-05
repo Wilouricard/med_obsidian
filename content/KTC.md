@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-12-04T06:00:00.000+01:00
+repeat: spaced every 48 hours
+due_at: 2025-12-06T17:15:01.061+01:00
 ---
 #IFSI #IFSI_UE4_soinsUrgence 
 # **KTC Pose, Surveillance, Soins infirmiers & Complications**

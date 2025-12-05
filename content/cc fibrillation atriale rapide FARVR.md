@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-12-04T06:00:00.000+01:00
+repeat: spaced every 48 hours
+due_at: 2025-12-06T17:09:40.681+01:00
 ---
 #cc
 ## Fibrillation atriale rapide (FARVR)

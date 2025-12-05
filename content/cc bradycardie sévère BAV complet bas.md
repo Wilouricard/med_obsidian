@@ -1,9 +1,9 @@
 ---
-repeat: spaced every day
-due_at: 2025-12-04T06:00:00.000+01:00
+repeat: spaced every 48 hours
+due_at: 2025-12-06T17:01:17.508+01:00
 ---
 #cc 
-# Bradycardie sévère / BAV complet bas**
+# Bradycardie sévère / BAV complet bas
 
 ## **1. Situation initiale**
 

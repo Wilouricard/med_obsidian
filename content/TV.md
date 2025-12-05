@@ -2,143 +2,258 @@
 repeat: spaced every 183 hours
 due_at: 2025-12-09T06:00:00.000+01:00
 ---
-# Tachycardie Ventriculaire (TV)
+---
 
-## Définition
+# **Tachycardie Ventriculaire (TV)**
 
-La tachycardie ventriculaire (TV) est un trouble du rythme rapide prenant naissance dans les ventricules, caractérisé par des QRS larges et une fréquence généralement supérieure à 120–150 bpm.  
-Elle compromet le débit cardiaque et peut dégénérer en fibrillation ventriculaire, entraînant un risque élevé de mort subite.
+_(strictement conforme au PDF SFC – Item ECG)_
+
+La tachycardie ventriculaire (TV) est une **tachycardie régulière à QRS larges**, prenant naissance **sous la bifurcation du faisceau de His**, donc **en dehors des voies de conduction physiologiques**.  
+Il s’agit du trouble du rythme responsable de **plus de la moitié des morts subites**.
+
+Toute tachycardie régulière à QRS larges = **TV jusqu’à preuve du contraire**.
 
 ---
 
-## Physiopathologie
+# **I. Définition**
 
-La TV résulte d’un foyer ectopique ventriculaire ou d’un circuit de réentrée au sein du myocarde. La dépolarisation ventriculaire devient rapide et désorganisée.  
-Le temps de remplissage diastolique diminue, la contraction ventriculaire devient inefficace et le débit cardiaque chute.  
-Dans les cardiopathies ischémiques, les zones cicatricielles post-[[infarctus]] sont des substrats fréquents de circuits de réentrée.
+Une TV est définie par :
 
----
-
-## Formes cliniques
-
-### TV soutenue
-
-Durée supérieure à 30 secondes ou nécessitant une intervention du fait d’une mauvaise tolérance clinique. Toujours pathologique.
-
-### TV non soutenue (TVNS)
-
-Durée inférieure à 30 secondes. Survient par salves. Signale une irritabilité ventriculaire et nécessite un bilan étiologique.
-
-### TV monomorphe
-
-QRS de morphologie identique. Souvent liée à un circuit fixe, typiquement dans les cardiopathies post-[[infarctus]].
-
-### TV polymorphe
-
-Morphologie des QRS changeante. Peut être liée à une ischémie aiguë, une cardiomyopathie sévère ou un trouble ionique.  
-Les torsades de pointes constituent une forme particulière, associée à un QT long.
-
----
-
-## Étiologies principales
-
-- Cardiopathie ischémique, notamment post-[[infarctus]] (substrat cicatriciel).
+- **Fréquence > 100 bpm**,
     
-- Cardiomyopathies dilatée, hypertrophique, arythmogène du ventricule droit.
+- **≥ 3 QRS larges consécutifs** (> 120 ms),
     
-- Troubles ioniques : [[hypokaliémie]], hypomagnésémie.
+- Origine **ventriculaire**, donc conduction lente « de proche en proche ».
     
-- Médicaments pro-arythmogènes (antiarythmiques de classe I, antidépresseurs, psychotropes).
+
+Deux formes selon la durée :
+
+- **TV non soutenue (TVNS)** : < 30 s.
     
-- Canalopathies (syndrome de Brugada, QT long, QT court).
-    
-- Myocardite.
-    
-- Intoxications (cocaïne, digoxine).
+- **TV soutenue** : ≥ 30 s ou nécessitant un geste urgent (malaise / choc).
     
 
 ---
 
-## Signes cliniques
+# **II. Physiopathologie (selon le PDF)**
 
-La tolérance est variable selon la fréquence et le terrain.
+Deux mécanismes possibles :
 
-- Palpitations rapides.
+### **1. TV par réentrée (le plus fréquent sur cardiopathie)**
+
+- Survient dans les zones de **fibrose**, notamment après un infarctus.
     
-- [[Dyspnée]], asthénie, malaise.
+- Le front d’activation tourne autour d’une **cicatrice ventriculaire** → QRS **monomorphes**.
     
-- Hypotension, signes de choc.
+
+### **2. TV par automatisme anormal (plus fréquente sur cœur sain)**
+
+- Foyer ventriculaire hyperautomatique.
     
-- Douleur thoracique secondaire à une ischémie.
+- Peut produire des TV **polymorphes**, parfois déclenchées par catécholamines.
     
-- Perte de connaissance en cas de débit cardiaque très diminué.
+
+**Figure 15.40 du PDF : à coller ici**  
+→ Mécanisme de réentrée sur cicatrice ventriculaire.
+
+---
+
+# **III. Critères ECG diagnostiques**
+
+### **1. QRS larges > 120 ms**
+
+Toute TV prend naissance dans le myocarde → conduction lente → QRS très larges.
+
+### **2. Tachycardie régulière**
+
+La régularité est un critère fort.  
+Si irrégulier = penser FA pré-excitée ou torsade de pointes.
+
+---
+
+## **A. Arguments de certitude (PDF)**
+
+### **1. Dissociation ventriculo–atriale (VA)**
+
+= Critère **MAJEUR**, pathognomonique.
+
+- Ondes P **indépendantes** des QRS.
     
-- En absence de pouls : équivalent d’un arrêt cardiaque nécessitant une défibrillation immédiate.
+- Si **plus de QRS que de P**, alors l’activation est forcément ventriculaire.
+    
+- Ne pas confondre avec dissociation atrioventriculaire d’un BAV complet.
+    
+
+**Figure 15.42 du PDF : à coller ici**  
+→ 13 QRS pour 9 P.
+
+---
+
+### **2. Complexes de capture et de fusion**
+
+Les meilleurs arguments en faveur d’une TV :
+
+#### **Complexe de capture**
+
+- Un QRS **fin**, normal, capturé par une dépolarisation sinusale qui réussit à passer avant l’onde de TV.
+    
+
+#### **Complexe de fusion**
+
+- Un QRS **intermédiaire**, résultat de la compétition entre activation ventriculaire par le sinus et activation par la TV.
+    
+
+**Figures 15.43 et 15.44 : à coller ici**
+
+---
+
+## **B. Arguments forts en faveur d’une TV**
+
+- **Concordance positive** (V1 → V6 tous positifs)
+    
+- **Concordance négative** (V1 → V6 tous QS)
+    
+
+→ Très évocateur de TV, jamais observé dans un BBD ou BBG simple.
+
+**Figure 15.45 : à coller ici**
+
+---
+
+## **C. Arguments additionnels du PDF**
+
+- **Déviation axiale extrême** (QRS positif en aVR)
+    
+- QRS très larges, ne ressemblant à aucun BBG/BBD classique
+    
+- Contexte de **cardiopathie** (post-infarctus, cardiomyopathie)
+    
+
+**Figure 15.46 : à coller ici**
+
+---
+
+# **IV. Classification clinique (selon PDF)**
+
+### **1. TV monomorphe**
+
+- Tous les QRS identiques.
+    
+- Typique des cardiopathies ischémiques ou cicatricielles.
+    
+
+### **2. TV polymorphe**
+
+- QRS de morphologies multiples.
+    
+- Causes possibles :
+    
+    - ischémie aiguë,
+        
+    - cardiomyopathie sévère,
+        
+    - troubles ioniques (hypoK+),
+        
+    - médicaments proarythmiants.
+        
+
+---
+
+# **V. Formes particulières**
+
+### **1. TV non soutenue (TVNS)**
+
+- 3 battements à QRS larges → < 30 s.
+    
+- Peut être asymptomatique.
+    
+- **Signale un risque rythmique majeur** dans les cardiopathies.
+    
+
+**Figure 15.41 : à coller ici**
+
+---
+
+### **2. Torsade de pointes**
+
+(Est une forme **particulière** de TV polymorphe)
+
+- Associée à **QT long**.
+    
+- Peut dégénérer en FV.
+    
+
+**Figures 15.49, 15.50 : à coller ici**
+
+---
+
+# **VI. Diagnostic différentiel**
+
+### **1. Tachycardie supra-ventriculaire à QRS larges**
+
+- Flutter + BB
+    
+- FA + BB
+    
+- Tachycardie jonctionnelle avec aberration
+    
+- Tachycardie antidromique sur voie accessoire
+    
+
+**Règle absolue du PDF :**  
+**Toute tachycardie régulière à QRS larges = TV jusqu’à preuve du contraire.**
+
+---
+
+# **VII. Conduite à tenir (logique SFC)**
+
+### **A. TV mal tolérée**
+
+(hypotension, choc, douleur thoracique, altération conscience)
+
+→ **Cardioversion électrique immédiate**, synchronisée.
+
+### **B. TV bien tolérée**
+
+- **Amiodarone IV** en première intention.
+    
+- **Lidocaïne** si contexte ischémique.
+    
+- Correction des facteurs associés (hypoxie, acidose, ions).
+    
+
+### **C. Gestion des TV répétées / orage rythmique**
+
+- **Ablation par radiofréquence** dans certaines TV monomorphes.
+    
+- **DAI (défibrillateur implantable)** en prévention secondaire selon indication.
     
 
 ---
 
-## Diagnostic
+# **VIII. Correction des causes réversibles**
 
-### ECG ou scope
-
-- Tachycardie régulière à QRS larges (> 120 ms).
+- Hypokaliémie, hypomagnésémie
     
-- Dissociation auriculo-ventriculaire (ondes P indépendantes).
+- Médicaments pro-arythmogènes
     
-- Phénomènes de capture et de fusion, en faveur d’une TV monomorphe.
+- Myocardite / hypoxie / acidose
     
-- Axes et morphologies variables selon le foyer ventriculaire.
-    
-- Toute tachycardie à QRS larges doit être considérée comme une TV jusqu’à preuve du contraire.
+- Ischémie myocardique aiguë
     
 
 ---
 
-## Conduite à tenir
+# **IX. Points essentiels du PDF**
 
-### TV mal tolérée
-
-Critères : hypotension, altération de la conscience, signes de choc, douleur thoracique sévère.
-
-- Cardioversion électrique externe immédiate, synchronisée.
+- La TV est un **état électrique instable**, pouvant évoluer vers la FV.
     
-- Monitoring cardiaque continu, oxygénothérapie, voie veineuse.
+- Les **captures** et **fusions** sont les signes ECG les plus spécifiques.
     
-
-### TV bien tolérée
-
-- [[Amiodarone]] IV en première intention.
+- Une TV doit **toujours** être suspectée, même si le patient est stable.
     
-- Alternatives selon le contexte : lidocaïne (particulièrement dans l’ischémie), sotalol.
+- **Concordance V1→V6** est très en faveur d’une TV.
     
-
-### Correction des causes réversibles
-
-- Correction des troubles ioniques (K+, Mg2+).
+- La dissociation VA est un **critère de certitude absolu**.
     
-- Traitement de l’hypoxie, de l’acidose.
-    
-- Arrêt des médicaments pro-arythmogènes.
-    
-- Prise en charge d’une ischémie aiguë si nécessaire.
-    
-
-### Situations particulières
-
-- TV récidivantes ou orage rythmique : discussion d’une ablation par radiofréquence.
-    
-- Prévention secondaire : implantation d’un défibrillateur automatique implantable (DAI) selon les recommandations.
-    
-
----
-
-## Points clés
-
-- Toute tachycardie à QRS larges est une TV jusqu’à preuve du contraire.
-    
-- La TV soutenue est une urgence thérapeutique par risque de dégénérescence en fibrillation ventriculaire.
-    
-- Une TV mal tolérée impose une cardioversion immédiate.
-    
-- La correction des troubles ioniques et la recherche d’une cardiopathie sous-jacente sont essentielles.
+- La TV fait partie des troubles du rythme responsables de **la majorité des morts subites**.

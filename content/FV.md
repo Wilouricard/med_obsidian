@@ -2,147 +2,212 @@
 repeat: spaced every 183 hours
 due_at: 2025-12-09T06:00:00.000+01:00
 ---
-# Fibrillation Ventriculaire (FV)
+# **Fibrillation Ventriculaire (FV)**
 
-## Définition
+_(Urgence absolue – Trouble du rythme ventriculaire majeur)_
 
-La fibrillation ventriculaire (FV) est un trouble du rythme ventriculaire majeur caractérisé par une activité électrique totalement désorganisée des ventricules, entraînant l’absence complète de contraction mécanique efficace.  
-La FV correspond à un arrêt cardiaque rythmé, sans pouls, et nécessite une défibrillation immédiate.
-C'est le chaos électriquement parlant. Le/les ventricule "tremblent" au lieu de se contracter.
-
----
-
-## Physiopathologie
-
-La FV résulte d’une activation électrique anarchique des ventricules, avec multiplication de circuits de micro-réentrée et perte totale de synchronisation.  
-Cette activité chaotique empêche toute contraction coordonnée des fibres myocardiques.  
-Il en résulte une absence de débit cardiaque, une hypoperfusion cérébrale immédiate et un collapsus circulatoire complet.  
-Sans intervention rapide, la FV évolue en [[asystolie]] en quelques minutes.
+La fibrillation ventriculaire est le **trouble du rythme le plus grave**, cause immédiate de **mort subite cardiaque** si aucun geste de réanimation n’est entrepris.  
+Elle correspond à une **activation ventriculaire totalement anarchique**, inefficace, entraînant **débit cardiaque nul** → **arrêt cardiaque**.
 
 ---
 
-## Étiologies principales
+# **I. Définition**
 
-- [[Infarctus]] du myocarde aigu (cause la plus fréquente).
+La FV est :
+
+- une **tachyarythmie ventriculaire** à QRS **polymorphes**,
     
-- Cardiopathies structurelles : cardiomyopathies dilatées, hypertrophiques, arythmogènes du VD.
+- totalement **désorganisée**,
     
-- Ischémie myocardique sévère ou post-reperfusion.
+- entraînant **absence de contraction mécanique**,
     
-- Troubles ioniques graves : [[hyperkaliémie]], [[hypokaliémie]], [[hypomagnésémie]].
-    
-- Troubles acidobasiques (acidose métabolique sévère).
-    
-- Trouble du QT (long ou court).
-    
-- Canalopathies (Brugada, CPVT).
-    
-- Intoxications médicamenteuses (digitaliques, antiarythmiques) ou toxiques (cocaïne).
-    
-- Électrisation.
-    
-- Post-choc, post-hypoxie.
+- donc un **arrêt circulatoire immédiat**.
     
 
 ---
 
-## Clinique
+# **II. Physiopathologie (selon PDF)**
 
-La FV provoque immédiatement un arrêt circulatoire.
-
-- Perte de connaissance brutale.
+- Dépolarisation ventriculaire **multifocale**, rapide, sans coordination.
     
-- Absence de pouls carotidien.
+- Chaque groupe de fibres se dépolarise indépendamment.
     
-- Absence de respiration ou gasps.
+- L'activité électrique devient incohérente et inefficace.
     
-- [[Cyanose]] rapide.
+- En absence de défibrillation :
     
-- Aucune perfusion cérébrale : arrêt cardiaque confirmé.
-    
-
-Sans défibrillation rapide, le pronostic est sombre avec mortalité quasi certaine.
-
----
-
-## Diagnostic
-
-### ECG / Scope
-
-- Tracé totalement désorganisé, ondulations irrégulières.
-    
-- Absence de QRS identifiables.
-    
-- Pas d’onde P.
-    
-- Amplitude variable selon les minutes d’évolution :
-    
-    - FV de grande amplitude au début.
+    - chute du débit cardiaque → perte de connaissance en quelques secondes
         
-    - FV de faible amplitude avant l’[[asystolie]].
+    - dégénérescence vers **asystole** par anoxie cellulaire.
         
 
-La FV est toujours un arrêt cardiaque rythmé.
+**Figures du PDF :**
 
----
-
-## Conduite à tenir (réanimation immédiate)
-
-### 1. Débuter immédiatement la RCP
-
-- Compressions thoraciques rapides et profondes.
+- **Fig. 15.47** : FV en fuseaux larges → retour en RS après choc.
     
-- Ventilation selon les protocoles en vigueur.
-    
-- Monitoring continu.
-    
-
-### 2. Défibrillation immédiate
-
-- Choix du mode : choc non synchronisé.
-    
-- Energie biphasique standard (généralement 200 J).
-    
-- Reprise immédiate de la RCP après le choc, sans évaluer le pouls.
-    
-
-### 3. Médicaments pendant la réanimation
-
-- Adrénaline IV toutes les 3 à 5 minutes.
-    
-- [[Amiodarone]] après les premiers chocs si FV persistante.
-    
-- Correction simultanée des troubles électrolytiques et de l’hypoxie.
-    
-
-### 4. Recherche et traitement des causes réversibles (4H/4T)
-
-- Hypoxie, hypovolémie, hypo/hyperkaliémie, hypothermie.
-    
-- [[Thrombose]] coronaire (IDM), tamponnade, toxiques, pneumothorax sous tension.
+- **Fig. 15.48** : FV en ECG 12 dérivations.  
+    **(À coller dans Obsidian)**
     
 
 ---
 
-## Évolution
+# **III. Signes cliniques**
 
-- Reprise efficace d’une activité circulatoire (ROSC) après choc(s) si intervention rapide.
+La FV **équivaut à un arrêt cardiaque** :
+
+- Perte de connaissance **en quelques secondes**
     
-- Lésions neurologiques liées au temps d’anoxie.
+- Absence de pouls carotidien
     
-- Risque de récidive : discussion du défibrillateur implantable selon le contexte.
+- Apnée ou respiration agonique
+    
+- Aucune perfusion tissulaire
+    
+- Cyanose, mydriase si prolongée
+    
+
+**Situations exceptionnelles :**  
+Dans le PDF, un cas particulier montre une FV **cliniquement tolérée** chez un patient porteur d’un **cœur artificiel mécanique**, permettant un ECG malgré la FV → situation extrêmement rare.
+
+---
+
+# **IV. ECG : caractéristiques essentielles**
+
+### **1. Activité électrique chaotique**
+
+- Pas de QRS identifiables
+    
+- Pas d’onde P
+    
+- Amplitudes variables
+    
+- Morphologies anarchiques
+    
+
+### **2. Tachycardie ventriculaire polymorphe désorganisée**
+
+- Irrégulière
+    
+- Amplitude et fréquence variables
+    
+- « Tracé en fuseaux », parfois initialement
+    
+
+### **3. Diagnostic immédiat**
+
+La FV se reconnaît **au premier coup d’œil** :
+
+- aspect totalement désorganisé
+    
+- absence de complexes identifiables
+    
+- absence de rythme mécanique
+    
+
+**Figure 15.48 à coller ici**
+
+---
+
+# **V. Diagnostic différentiel**
+
+### **1. Torsade de pointes**
+
+- Peut ressembler à une FV une fois installée.
+    
+- Différence clé :
+    
+    - **TdP survient sur QT long**
+        
+    - **TdP peut être auto-limitée**
+        
+    - Mais une TdP peut **dégénérer en FV**.
+        
+
+### **2. Tachycardie ventriculaire polymorphe**
+
+- Existe parfois un certain degré d’organisation.
+    
+- Dans la FV : désorganisation totale.
     
 
 ---
 
-## Points clés
+# **VI. Conduite à tenir (urgences)**
 
-- La FV est un arrêt cardiaque rythmé nécessitant une défibrillation immédiate.
+### **1. Urgence absolue = défibrillation immédiate**
+
+**Le choc électrique externe est le seul traitement efficace.**
+
+- Défibrillation **non synchronisée**
     
-- L’activité électrique est désorganisée, sans QRS ni contraction efficace.
+- Intensité biphasique recommandée selon le matériel
     
-- La cause la plus fréquente est l’[[infarctus]] du myocarde.
+- À répéter si nécessaire
     
-- La survie dépend du délai avant le premier choc.
+
+### **2. Massage cardiaque en attendant le choc**
+
+- Compressions thoraciques immédiatement
     
-- Après récupération, un bilan complet recherche une cause et évalue l’indication d’un DAI.
+- Pas de délai
+    
+
+### **3. Vérifications simultanées**
+
+- Voie veineuse
+    
+- Oxygène
+    
+- Monitoring
+    
+- Recherche de causes réversibles (4H / 4T) selon algorithme ACLS  
+    _(Non détaillé dans le PDF → non ajouté ici)_
+    
+
+### **Note du PDF**
+
+Après quelques secondes de FV :  
+→ perte de connaissance  
+→ abolition du pouls  
+→ arrêt cardiaque avéré  
+→ nécessité immédiate d’un choc électrique.
+
+---
+
+# **VII. Évolution spontanée**
+
+Sans choc :
+
+- FV → asystolie → décès  
+    (en quelques minutes)
+    
+
+---
+
+# **VIII. Points clés du PDF**
+
+- La FV est une **urgence vitale immédiate**.
+    
+- Le diagnostic est **visuel et instantané**.
+    
+- **Défibrillation = traitement**, aucun médicament n’est efficace seul.
+    
+- La FV est souvent précédée d’une TV → la TV est donc un **état pré-mortel**.
+    
+- Une FV est **incompatible avec un état de conscience**, sauf situation exceptionnelle de cœur artificiel.
+    
+- Toute minute sans choc ↓↓↓ survie.
+    
+
+---
+
+# **IX. Figures à coller dans Obsidian**
+
+- **Fig. 15.47** : FV → retour en rythme sinusal après choc
+    
+- **Fig. 15.48** : FV en 12 dérivations
+    
+
+_(Placeholders à insérer dans la note Obsidian)_  
+**Figure 15.47 du PDF : à coller ici**  
+**Figure 15.48 du PDF : à coller ici**

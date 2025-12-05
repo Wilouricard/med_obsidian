@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "94fd3e4770e80cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc1db8125001008f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cfee10d7673640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tableau de bord/EDN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EDN"
+            }
+          },
+          {
+            "id": "aecfb11aa83ae032",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21bcff84479abcb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "abbf31a2bfcfd5e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac818ce04b3bfd4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "ad56871479932154",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "embolie",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "9872fa63cea22cca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0a0fcebadadacfee",
+    "type": "split",
+    "children": [
+      {
+        "id": "3de20720b424d74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3e6fb6457478f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tableau de bord/Tableau de bord des révisions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Tableau de bord des révisions"
+            }
+          },
+          {
+            "id": "84195f32a9d4bf1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tableau de bord/Tableau de bord des révisions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Tableau de bord des révisions"
+            }
+          },
+          {
+            "id": "8cb12f8285d38c53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "f6bf67fc0bddc057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tableau de bord/Tableau de bord des révisions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Tableau de bord des révisions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 890.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Ouvrir la vue graphique": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false,
+      "repeat-plugin:Repeat due notes": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "aecfb11aa83ae032",
+  "lastOpenFiles": [
+    "Tableau de bord/Tableau de bord des révisions.md",
+    "Tableau de bord/EDN.md",
+    "Item 231.md",
+    "ECG normal.md",
+    "Axe, dérivations, valeurs normales.md",
+    "BBD.md",
+    "BBG.md",
+    "Hémiblocs.md",
+    "BAV.md",
+    "DS.md",
+    "Extrasystoles.md",
+    "FA.md",
+    "Flutter.md",
+    "TAF.md",
+    "TJ.md",
+    "TV.md",
+    "FV.md",
+    "Torsades de pointes.md",
+    "Hypertrophies atriales.md",
+    "Hypertrophie ventriculaire gauche.md",
+    "Hypertrophie ventriculaire droite.md",
+    "Péricardite aiguë.md",
+    "Préexcitation & WPW.md",
+    "Syndrome coronarien aigu.md",
+    "Pacemakers.md",
+    "Indications ECG & Holter & télémédecine.md",
+    "Pasted image 20251204104439.png",
+    "Pasted image 20251204104433.png",
+    "Pasted image 20251204103924.png",
+    "Pasted image 20251204103805.png",
+    "Pasted image 20251204103433.png",
+    "Sans titre.canvas",
+    "Pasted image 20251203163334.png",
+    "Pasted image 20251203163304.png",
+    "Pasted image 20251201143639.png",
+    "Pasted image 20251201124831.png",
+    "Pasted image 20251201124812.png",
+    "Excalidraw",
+    "oral vx",
+    "Sans titre 1",
+    "Tableau de bord",
+    "Dashboard",
+    "tasks",
+    "daily",
+    "Sans titre.base",
+    "Sans titre 3",
+    "Sans titre 2"
+  ]
+}

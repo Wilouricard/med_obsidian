@@ -1,6 +1,6 @@
 ---
 repeat: spaced every 96 hours
-due_at: 2025-12-04T14:09:24.952+01:00
+due_at: 2025-12-04T17:37:17.904+01:00
 ---
 # Dyslipidémies
 
