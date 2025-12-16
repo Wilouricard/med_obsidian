@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 181 hours
-due_at: 2025-12-07T06:00:00.000+01:00
+repeat: spaced every 354 hours
+due_at: 2025-12-26T06:00:00.000+01:00
 ---
 #UE1 
 # Réaction inflammatoire : aspects biologiques et cliniques. Conduite à tenir

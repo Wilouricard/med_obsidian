@@ -1,5 +1,9 @@
+---
+repeat: spaced every 96 hours
+due_at: 2025-12-18T11:49:31.136+01:00
+---
 # **Fibrillation atriale (FA)**
-
+[[cc fibrillation atriale rapide FARVR]]
 _(Forme spécifique des troubles du rythme supraventriculaires)_
 
 La fibrillation atriale est le **trouble du rythme supraventriculaire le plus fréquent**. Elle correspond à une **activation anarchique et désorganisée des oreillettes**, conduisant à une activité ventriculaire **irrégulière**, filtrée par le nœud AV.
@@ -59,14 +63,7 @@ Remplacée par :
 
 ### **3. QRS fins (sauf anomalies associées)**
 
-### **Figures du PDF à coller :**
-
-- **Fig. 15.29** : FA à petites mailles + BBG
-    
-- **Fig. 15.30** : mécanisme de la FA
-    
-- **Fig. 15.31** : FA et niveaux de conduction AV
-    
+![[Pasted image 20251211111148.png]]
 
 ---
 
@@ -181,24 +178,6 @@ La difficulté diagnostique est levée en cas d’utilisation de :
 - **Faux rythme irrégulier** lié à des extrasystoles fréquentes :  
     vérifier présence d’ondes P.
     
-
----
-
-## **IX. Figures à insérer dans Obsidian**
-
-- **Figure 15.29** : FA à petites mailles, avec BBG
-    
-- **Figure 15.30** : mécanismes électrophysiologiques de la FA
-    
-- **Figure 15.31** : FA + filtrage AV
-    
-- **Figure 15.32** : FA + BAV complet
-    
-
-Indication dans la note :  
-**« Figure X du PDF : à coller ici »**
-
----
 
 ## **X. Points clés**
 

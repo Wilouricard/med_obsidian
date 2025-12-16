@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 186 hours
-due_at: 2025-12-10T06:00:00.000+01:00
+repeat: spaced every 373 hours
+due_at: 2025-12-27T06:00:00.000+01:00
 ---
 #cc
 ## **1. Présentation du patient**
@@ -230,7 +230,7 @@ Permet de rechercher :
 
 ### ECG
 
-→ recherche SCA, FA rapide, trouble du rythme, BAV
+→ recherche SCA, [[FA]] rapide, trouble du rythme, BAV
 
 ### Biologie
 

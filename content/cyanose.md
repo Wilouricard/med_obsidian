@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 182 hours
-due_at: 2025-12-06T06:00:00.000+01:00
+repeat: spaced every 355 hours
+due_at: 2025-12-24T06:00:00.000+01:00
 ---
 # Cyanose
 symptôme clinique consistent en la coloration bleutée que prennent la peau et les muqueuses lorsque le [[sang]] contient plus de 5 grammes par décilitre d'hémoglobine désoxygénée. C'est donc un signe d'hypoxémie qui peut être la cause d'hypoxie.

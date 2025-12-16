@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 181 hours
-due_at: 2025-12-10T06:00:00.000+01:00
+repeat: spaced every 349 hours
+due_at: 2025-12-26T06:00:00.000+01:00
 ---
 ## **Définition**
 
@@ -16,7 +16,7 @@ Antiarythmique **classe III** (Vaughan-Williams) → **allonge la repolarisation
 
 ## **Indications majeures**
 
-- **FA** (contrôle du rythme).
+- **[[FA]]** (contrôle du rythme).
     
 - **[[TV]] soutenue**.
     

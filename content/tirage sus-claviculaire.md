@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 144 hours
-due_at: 2025-12-06T17:10:08.896+01:00
+repeat: spaced every 279 hours
+due_at: 2025-12-21T06:00:00.000+01:00
 ---
 # Tirage sus-claviculaire
 tirage sus-**claviculaire**, **sus**-sternal et intercostal correspond à une activité majeure des muscles inspiratoires extradiaphragmatiques (comme les scalènes et les intercostaux externes) et au recrutement des muscles respiratoires accessoires. 

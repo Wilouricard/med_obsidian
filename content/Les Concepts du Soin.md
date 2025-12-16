@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-12-05T06:00:00.000+01:00
+repeat: spaced every 183 hours
+due_at: 2025-12-24T06:00:00.000+01:00
 ---
 #IFSI #IFSI_UE4_soinsConfort 
 # Les Concepts du Soin

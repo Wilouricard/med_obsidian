@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 181 hours
-due_at: 2025-12-10T06:00:00.000+01:00
+repeat: spaced every 346 hours
+due_at: 2025-12-27T06:00:00.000+01:00
 ---
 #UE1 
 # Hypersensibilités et allergies chez l'enfant et l'adulte : aspects physiopathologiques, épidémiologiques, diagnostiques et principes de traitement

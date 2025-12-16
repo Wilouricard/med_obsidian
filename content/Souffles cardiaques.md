@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 210 hours
-due_at: 2025-12-11T06:00:00.000+01:00
+repeat: spaced every 418 hours
+due_at: 2025-12-29T06:00:00.000+01:00
 ---
 # Souffles cardiaques
 

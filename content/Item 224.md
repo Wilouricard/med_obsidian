@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-12-07T17:38:47.587+01:00
+repeat: spaced every 179 hours
+due_at: 2025-12-20T06:00:00.000+01:00
 ---
 # Hypertension artérielle de l’adulte et de l’enfant
 
@@ -108,7 +108,7 @@ due_at: 2025-12-07T17:38:47.587+01:00
         
     - IR terminale
         
-    - FA
+    - [[FA]]
         
     - Démence vasculaire
         

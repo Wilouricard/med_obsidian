@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 184 hours
-due_at: 2025-12-09T06:00:00.000+01:00
+repeat: spaced every 374 hours
+due_at: 2025-12-27T06:00:00.000+01:00
 ---
 # **Blocs atrioventriculaires (BAV1, BAV2, BAV3)**
 
@@ -58,7 +58,7 @@ Objectifs :
 **Critère unique : PR > 200 ms**, fixe, constant.  
 Aucune onde P bloquée.
 
-**Figure à insérer** : _Fig. 15.21 – BAV 1er degré._
+**![[Pasted image 20251211162313.png]]_
 
 ---
 
@@ -77,7 +77,7 @@ Caractéristiques :
 
 **Bloc typiquement suprahissien.**
 
-**Figure à insérer** : _Fig. 15.22 – Mobitz I._
+![[Pasted image 20251211162332.png]]
 
 ---
 
@@ -115,7 +115,8 @@ Dans un BAV 2/1, on s’oriente vers :
 - **bloc infrahissien** si QRS larges
     
 - **bloc suprahissien** si QRS fins ou si alternance Mobitz I visible à d’autres moments.
-    
+
+![[Pasted image 20251211162509.png]]
 
 ---
 
@@ -134,8 +135,9 @@ Caractéristiques :
     - **ventriculaire** → QRS **larges**, FC 15–30 bpm (**bloc infrahissien**).
         
 
-**Figure à insérer** : _Fig. 15.23 – BAV complet._  
-(Noter les ondes P visibles en V1 et l’échappement jonctionnel.)
+![[Pasted image 20251211162531.png]]
+
+[[cc bradycardie sévère BAV complet bas]]
 
 ---
 
@@ -156,7 +158,7 @@ Caractéristiques :
     
 - Extrasystole atriale non conduite (forme de pseudo-bloc).
     
-- Tachy-brady syndrome (alternance FA et bradycardie).
+- Tachy-brady syndrome (alternance [[FA]] et bradycardie).
     
 
 ### D. Situations particulières

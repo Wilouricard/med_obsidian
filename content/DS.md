@@ -155,7 +155,7 @@ La question clé en bradycardie :
         
     - épisodes de fibrillation atriale.
         
-- Pauses post-FA (pauses de régularisation).
+- Pauses post-[[FA]] (pauses de régularisation).
     
 - Ramène au diagnostic :  
     **dysfonction du nœud sinusal** + **conduction AV intacte** souvent.

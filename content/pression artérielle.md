@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 182 hours
-due_at: 2025-12-06T06:00:00.000+01:00
+repeat: spaced every 355 hours
+due_at: 2025-12-24T06:00:00.000+01:00
 ---
 # PA (Pression artérielle)
 La pression artérielle, ou pression artérielle systémique, correspond à la pression sanguine dans les artères de la circulation systémique. On parle aussi de tension artérielle car cette pression est aussi la force exercée par le [[sang]] sur la paroi des artères, ce qui les tend.

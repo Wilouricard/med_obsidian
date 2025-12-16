@@ -1,13 +1,13 @@
 ---
-repeat: spaced every 144 hours
-due_at: 2025-12-05T23:15:57.435+01:00
+repeat: spaced every 284 hours
+due_at: 2025-12-21T06:00:00.000+01:00
 ---
 **Définition**  
 Bloque l’ECA (enzyme de conversion de l’angiotensine)→ ↓ angiotensine II (hormone vasoconstrictrice et hypertensive) → vasodilatation + ↓ aldostérone (moins de rétention d'H20 et NA+, donc baisse [[pression artérielle]] et baisse pre-charge → réduction volume circulant).
 
 **Indications principales**
 
-- [[Insuffisance cardiaque]].
+- [[IC]].
     
 - Post-[[infarctus]].
     

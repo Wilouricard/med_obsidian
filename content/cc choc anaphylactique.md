@@ -1,3 +1,7 @@
+---
+repeat: spaced every 96 hours
+due_at: 2025-12-17T15:52:53.573+01:00
+---
 # Choc anaphylactique sévère avec détresse respiratoire
 
 ## **I. Définition**

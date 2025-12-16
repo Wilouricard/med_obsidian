@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 144 hours
-due_at: 2025-12-06T17:10:24.534+01:00
+repeat: spaced every 279 hours
+due_at: 2025-12-21T06:00:00.000+01:00
 ---
 # Le souffle d'insuffisance aortique
 - c'est un souffle protodiastolique decrescendo, perçu au foyer aortique et au bord supérieur du sternum

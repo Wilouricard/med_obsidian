@@ -1,13 +1,13 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-12-06T17:09:40.681+01:00
+repeat: spaced every 175 hours
+due_at: 2025-12-23T06:00:00.000+01:00
 ---
 #cc
 ## Fibrillation atriale rapide (FARVR)
 
 ## I. Présentation du patient
 
-Homme de **72 ans**, ATCD d’**HTA**, **diabète**, **insuffisance cardiaque (FE 45%)**, **FA chronique anticoagulée** d’habitude.
+Homme de **72 ans**, ATCD d’**HTA**, **diabète**, **insuffisance cardiaque (FE 45%)**, **[[FA]] chronique anticoagulée** d’habitude.
 
 Arrive aux urgences pour **dyspnée**, sueurs, malaise.
 
@@ -23,7 +23,7 @@ Arrive aux urgences pour **dyspnée**, sueurs, malaise.
     
 - Conscient, anxieux
     
-- Scope : tachycardie irrégulière, QRS fins → suspicion FA rapide
+- Scope : tachycardie irrégulière, QRS fins → suspicion [[FA]] rapide
     
 
 ---
@@ -76,7 +76,7 @@ ECG est fait **une fois la stabilité minimale assurée**.
     
 
 → **Fibrillation atriale à réponse ventriculaire rapide (FARVR)**.
-
+![[Pasted image 20251211105629.png]]
 ### **Piège :**
 
 Toujours éliminer **WPW + FA** : QRS très larges, irréguliers, FC > 250 → interdiction d’amiodarone/diltiazem/bêtabloquant.
@@ -122,13 +122,13 @@ Toujours éliminer **WPW + FA** : QRS très larges, irréguliers, FC > 250 → i
 
 ## V. Biologie et imagerie initiales
 
-- **K+ 3,2 mmol/L** → hypokaliémie
+- **K+ 3,2 mmol/L** → [[hypokaliémie]]
     
 - Mg2+ bas-normale
     
 - Tropo légèrement élevée (cinétique à suivre)
     
-- BNP haut
+- [[BNP]] haut
     
 - Rx thorax : **surcharge pulmonaire débutante**
     

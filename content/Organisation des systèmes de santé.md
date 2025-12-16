@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 176 hours
-due_at: 2025-12-09T06:00:00.000+01:00
+repeat: spaced every 349 hours
+due_at: 2025-12-24T06:00:00.000+01:00
 ---
 #IFSI_UE2_santePublique #IFSI
 # Organisation des systèmes de santé

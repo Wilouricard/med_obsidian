@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-12-04T17:37:17.161+01:00
+repeat: spaced every 182 hours
+due_at: 2025-12-21T06:00:00.000+01:00
 ---
 #IFSI #IFSI_UE4_soinsUrgence 
 

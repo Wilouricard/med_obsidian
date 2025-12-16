@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-12-05T00:11:33.977+01:00
+repeat: spaced every 181 hours
+due_at: 2025-12-17T06:00:00.000+01:00
 ---
 **Définition :**  
 K⁺ < **3,5 mmol/L**.

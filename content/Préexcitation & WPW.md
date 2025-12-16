@@ -1,7 +1,7 @@
 # **Préexcitation / Wolff-Parkinson-White**
 
 La préexcitation ventriculaire correspond au passage prématuré de l’influx atrial vers le ventricule via une **voie accessoire** (faisceau musculaire anormal) qui court-circuite partiellement le nœud atrioventriculaire (NAV).  
-Elle modifie la dépolarisation ventriculaire et expose à des **tachycardies jonctionnelles** et à des arythmies potentiellement létales en cas de FA.
+Elle modifie la dépolarisation ventriculaire et expose à des **tachycardies jonctionnelles** et à des arythmies potentiellement létales en cas de [[FA]].
 
 ---
 

@@ -1,7 +1,7 @@
 # **Flutter atrial**
 
 Le flutter atrial est un **trouble du rythme supraventriculaire fréquent**, fondé sur un **circuit macro-réentrant** atrial, le plus souvent situé dans l’oreillette droite.  
-Il se distingue de la FA par son **activité atriale organisée et régulière**, avec des **ondes F monomorphes**.
+Il se distingue de la [[FA]] par son **activité atriale organisée et régulière**, avec des **ondes F monomorphes**.
 
 ---
 
@@ -167,7 +167,7 @@ Le diagnostic formel se fait souvent lors de l’**exploration électrophysiolog
 
 ### **Flutter vs Fibrillation atriale**
 
-|Critère|Flutter|FA|
+|Critère|Flutter|[[FA]]|
 |---|---|---|
 |Activité atriale|Ondes F **monomorphes**, régulières|Mailles **chaotiques**, irrégulières|
 |Ligne isoélectrique|**Absente**|Présente ou trémulation|

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-12-04T17:37:50.242+01:00
+repeat: spaced every 96 hours
+due_at: 2025-12-18T12:04:04.090+01:00
 ---
 # Douleur abdominale chez l’enfant & l'adulte
 

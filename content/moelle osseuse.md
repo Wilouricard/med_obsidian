@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 144 hours
-due_at: 2025-12-06T23:58:31.044+01:00
+repeat: spaced every 279 hours
+due_at: 2025-12-21T06:00:00.000+01:00
 ---
 _(Anatomie + Histologie + Physiologie + Physiopathologie)_
 

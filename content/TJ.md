@@ -167,7 +167,7 @@ Conforme à l’encadré 15.1 :
 
 - asthme (risque bronchospasme),
     
-- **FA sur voie accessoire** (risque de FV).
+- **[[FA]] sur voie accessoire** (risque de FV).
     
 
 ---
@@ -212,7 +212,7 @@ Conforme à l’encadré 15.1 :
     
 - Les tachycardies antidromiques ont **QRS larges** (rare) → diagnostic différentiel avec TV.
     
-- L’adénosine **ne doit pas être utilisée** en cas de FA pré-excité (super-Wolff).
+- L’adénosine **ne doit pas être utilisée** en cas de [[FA]] pré-excité (super-Wolff).
     
 
 ---

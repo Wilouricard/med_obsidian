@@ -1,3 +1,7 @@
+---
+repeat: spaced every 96 hours
+due_at: 2025-12-19T22:45:14.715+01:00
+---
 # Électrocardiogramme : indications et interprétations (Vue d’ensemble)**
 
 ## I. Définition et objectifs
@@ -31,7 +35,7 @@ Objectifs principaux :
 
 - Toute **tachycardie régulière à QRS larges = TV jusqu’à preuve du contraire**.
     
-- Toute **tachycardie irrégulière à QRS fins = FA**.
+- Toute **tachycardie irrégulière à QRS fins = [[FA]]**.
     
 - QRS positif en V1 → **BBD** ; QRS négatif en V1 → **BBG**.
     

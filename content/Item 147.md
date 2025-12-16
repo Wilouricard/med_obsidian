@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-12-04T17:37:48.311+01:00
+repeat: spaced every 48 hours
+due_at: 2025-12-16T14:53:49.989+01:00
 ---
 # Fièvre aiguë de l’enfant
 

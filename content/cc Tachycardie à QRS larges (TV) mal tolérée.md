@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-12-04T17:37:41.317+01:00
+repeat: spaced every 181 hours
+due_at: 2025-12-18T06:00:00.000+01:00
 ---
 ## I. Présentation initiale
 

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 279 hours
-due_at: 2025-12-15T06:00:00.000+01:00
+repeat: spaced every 560 hours
+due_at: 2026-01-08T06:00:00.000+01:00
 ---
 ## Définition
 
@@ -8,13 +8,13 @@ Défaillance du **ventricule gauche** → incapacité à éjecter correctement l
 
 ## Mécanisme clé
 
-↓ Débit cardiaque + ↑ Pression capillaire pulmonaire → **œdème pulmonaire** (transsudation dans alvéoles).
+↓ Débit cardiaque + ↑ Pression capillaire pulmonaire → **œdème pulmonaire** [[OAP]] (transsudation dans alvéoles).
 
 ## Causes majeures
 
 - **Cardiaques** : infarctus, cardiopathies ischémiques, valvulopathies mitrale/aortique, cardiomyopathies.
     
-- **HTA** décompensée.
+- **[[HTA]]** décompensée.
     
 
 ## Signes cliniques essentiels
@@ -51,13 +51,13 @@ Défaillance du **ventricule gauche** → incapacité à éjecter correctement l
 
 ## Conduite à tenir (aigu)
 
-1. O₂.
+1. O₂. (pour contrebalancer la pression donc VNI CPAP)
     
 2. **Diurétiques IV** (furosémide).
     
 3. **Vasodilatateurs** si PA ok (dérivés nitrés).
     
-4. **Traitement cause** : SCA, FA, HTA, poussée hypertensive.
+4. **Traitement cause** : SCA, [[FA]], HTA, poussée hypertensive.
     
 
 ## Traitement de fond
@@ -75,7 +75,7 @@ Défaillance du **ventricule gauche** → incapacité à éjecter correctement l
 
 - BPCO
     
-- Embolie pulmonaire
+- [[embolie pulmonaire]] ( [[cc EP massive]] [[cc EP intermédiaire bas]] )
     
 - Pneumonie
 

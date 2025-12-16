@@ -254,7 +254,7 @@ Listes des items de l'EDN :
 | [[Item 231]] | Électrocardiogramme : indications et interprétations                                                                                                                                                                                                     |
 | 232          | Fibrillation atriale                                                                                                                                                                                                                                     |
 | 233          | [[Valvulopathies]]                                                                                                                                                                                                                                       |
-| 234          | [[Insuffisance cardiaque]] de l'adulte                                                                                                                                                                                                                   |
+| 234          | [[IC]] de l'adulte                                                                                                                                                                                                                   |
 | 235          | Péricardite aiguë                                                                                                                                                                                                                                        |
 | 236          | Troubles de la conduction intracardiaque                                                                                                                                                                                                                 |
 | 237          | Palpitations                                                                                                                                                                                                                                             |
@@ -442,7 +442,7 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 [[cc EP massive]]
 [[cc EP intermédiaire bas]]
 
-**4. [[OAP]] / [[Insuffisance cardiaque]] aiguë**
+**4. [[OAP]] / [[IC]] aiguë**
 [[cc OAP hypertenseur fulminant]]
 
 **5. Dissection aortique**
@@ -461,15 +461,14 @@ _Objectif : savoir reconnaître/hiérarchiser une urgence._
 [[cc choc anaphylactique]]
 
 **10. Œdème de Quincke**
-
-→ je sais détecter **qui va mourir en 2 min**. 
+[[cc Œdème de Quincke]]
 
 ---
 
 ## [[Dyspnée]] / respiration (2e priorité vitale)
 
 **11. [[Dyspnée]] aiguë (diagnostic différentiel complet)**
-
+[[cc dyspnée aigue OAP cardiogenique]]
 **12. Asthme aigu grave**
 
 **13. Exacerbation de BPCO**
@@ -500,7 +499,7 @@ Cardiologie + Pneumo = 50% des urgences hospitalières.
 ---
 
 ## Abdomen aiguë (urgences digestives majeures)
-
+[[cc Ischémie mésentérique aiguë (IMA)]]
 **22. Douleur abdominale aiguë (méthode de tri)**
 
 **23. Appendicite aiguë**

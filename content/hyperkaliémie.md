@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 184 hours
-due_at: 2025-12-11T06:00:00.000+01:00
+repeat: spaced every 370 hours
+due_at: 2025-12-27T06:00:00.000+01:00
 ---
 ### **Définition**  
 **K⁺ > 5,0 mmol/L** (sévère si **> 6,5** ou signes ECG).  
@@ -50,7 +50,7 @@ Urgence car **risque de troubles du rythme ventriculaire → arrêt cardiaque.**
     
 
 **Absence d’ECG anormal n’élimine JAMAIS une hyperK sévère.**
-
+![[Pasted image 20251211202723.png]]
 ---
 
 ## Traitement d’urgence (séquentiel, à apprendre par cœur)

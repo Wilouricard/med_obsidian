@@ -137,7 +137,7 @@ Le PDF mentionne plusieurs situations mimant une HVD :
 # **VI. Figures du PDF à intégrer**
 
 - **Figure 15.54 du PDF : à coller ici**  
-    → EPU aiguë : déviation axiale droite, S1Q3, FA associée.
+    → EPU aiguë : déviation axiale droite, S1Q3, [[FA]] associée.
     
 
 ---

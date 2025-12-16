@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-12-04T17:37:00.391+01:00
+repeat: spaced every 188 hours
+due_at: 2025-12-19T06:00:00.000+01:00
 ---
 #IFSI_UE2_pharmacologie #IFSI
 

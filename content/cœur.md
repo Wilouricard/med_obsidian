@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 176 hours
-due_at: 2025-12-09T06:00:00.000+01:00
+repeat: spaced every 350 hours
+due_at: 2025-12-24T06:00:00.000+01:00
 ---
 ## I. Généralités
 
@@ -94,7 +94,7 @@ Le cœur est enveloppé par un **péricarde** :
     
 - Paroi lisse.
     
-- Auricule gauche développé (zone possible de stase → FA).
+- Auricule gauche développé (zone possible de stase → [[FA]]).
     
 
 ### 4. Ventricule gauche (VG)

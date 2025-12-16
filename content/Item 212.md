@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 181 hours
-due_at: 2025-12-12T06:00:00.000+01:00
+repeat: spaced every 351 hours
+due_at: 2025-12-28T06:00:00.000+01:00
 ---
 [[marqueurs biologiques]]
 # Hémogramme chez l’adulte et l’enfant : indications et interprétation

@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-12-05T06:00:00.000+01:00
+repeat: spaced every 96 hours
+due_at: 2025-12-17T15:22:35.275+01:00
 ---
 # Le rein
 

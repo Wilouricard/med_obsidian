@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 188 hours
-due_at: 2025-12-09T06:00:00.000+01:00
+repeat: spaced every 373 hours
+due_at: 2025-12-25T06:00:00.000+01:00
 ---
 # Œdème Aigu Pulmonaire (OAP)
 
@@ -27,11 +27,11 @@ L’OAP résulte d’une augmentation aiguë de la pression capillaire pulmonair
 
 Principales causes :
 
-- [[Insuffisance cardiaque]] gauche aiguë.
+- [[IC]] gauche aiguë.
     
 - [[Infarctus]] du myocarde.
     
-- Troubles du rythme rapides (FA rapide, [[TV]]).
+- Troubles du rythme rapides ([[FA]] rapide, [[TV]]).
     
 - Hypertension artérielle sévère.
     

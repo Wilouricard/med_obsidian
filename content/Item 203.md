@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 48 hours
-due_at: 2025-12-04T17:37:15.765+01:00
+repeat: spaced every 186 hours
+due_at: 2025-12-22T06:00:00.000+01:00
 ---
 # **Item 203 – Dyspnée aiguë et chronique**
 

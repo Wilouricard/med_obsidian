@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 183 hours
-due_at: 2025-12-09T06:00:00.000+01:00
+repeat: spaced every 349 hours
+due_at: 2025-12-26T06:00:00.000+01:00
 ---
 ---
 
@@ -67,7 +67,10 @@ Toute TV prend naissance dans le myocarde → conduction lente → QRS très lar
 ### **2. Tachycardie régulière**
 
 La régularité est un critère fort.  
-Si irrégulier = penser FA pré-excitée ou torsade de pointes.
+Si irrégulier = penser [[FA]] pré-excitée ou torsade de pointes.
+
+
+![[Pasted image 20251211165624.png]]
 
 ---
 
@@ -103,7 +106,7 @@ Les meilleurs arguments en faveur d’une TV :
 - Un QRS **intermédiaire**, résultat de la compétition entre activation ventriculaire par le sinus et activation par la TV.
     
 
-**Figures 15.43 et 15.44 : à coller ici**
+![[Pasted image 20251211165657.png]]
 
 ---
 
@@ -183,7 +186,7 @@ Les meilleurs arguments en faveur d’une TV :
 - Peut dégénérer en FV.
     
 
-**Figures 15.49, 15.50 : à coller ici**
+![[Pasted image 20251211170259.png]]
 
 ---
 
@@ -193,7 +196,7 @@ Les meilleurs arguments en faveur d’une TV :
 
 - Flutter + BB
     
-- FA + BB
+- [[FA]] + BB
     
 - Tachycardie jonctionnelle avec aberration
     

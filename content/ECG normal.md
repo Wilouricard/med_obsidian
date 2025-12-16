@@ -1,3 +1,7 @@
+---
+repeat: spaced every 96 hours
+due_at: 2025-12-19T23:09:49.667+01:00
+---
 # **ECG normal et principes d’électrophysiologie**
 
 ## I. Définition et objectifs

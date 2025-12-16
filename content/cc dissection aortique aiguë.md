@@ -1,6 +1,6 @@
 ---
-repeat: spaced every 96 hours
-due_at: 2025-12-04T17:37:18.913+01:00
+repeat: spaced every 181 hours
+due_at: 2025-12-17T06:00:00.000+01:00
 ---
 #cc 
 # Dissection aortique aiguë (Type A)

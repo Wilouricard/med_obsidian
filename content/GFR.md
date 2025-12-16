@@ -1,6 +1,6 @@
 ---
-repeat: spaced every day
-due_at: 2025-12-05T06:00:00.000+01:00
+repeat: spaced every 96 hours
+due_at: 2025-12-17T15:39:42.301+01:00
 ---
 # Gradient de filtration glomérulaire (GFR)
 [[rein]] 

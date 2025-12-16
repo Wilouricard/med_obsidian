@@ -119,7 +119,7 @@ Indications PDF :
 
 - **Syncope inexpliquée**
     
-- **FA silencieuse** (dépistage, notamment post-AVC)
+- **[[FA]] silencieuse** (dépistage, notamment post-AVC)
     
 
 ### **4. Autres indications du Holter 24h :**
@@ -200,7 +200,7 @@ Le PDF ajoute que :
     
 - **ECG 12 dérivations** = symptômes cardiaques, bilan HTA, bilan préop ≥ 65 ans, enquêtes familiales, aptitude sportive/pro.
     
-- **Holter** = symptômes intermittents ; FA silencieuse ; syncope inexpliquée ; réglage de pacemaker ; évaluation risque post-IDM.
+- **Holter** = symptômes intermittents ; [[FA]] silencieuse ; syncope inexpliquée ; réglage de pacemaker ; évaluation risque post-IDM.
     
 - **MEI** = suivi ultra-long des troubles du rythme.
     

@@ -1,9 +1,9 @@
 ---
-repeat: spaced every 279 hours
-due_at: 2025-12-15T06:00:00.000+01:00
+repeat: spaced every 560 hours
+due_at: 2026-01-08T06:00:00.000+01:00
 ---
-# [[Insuffisance cardiaque]] droite
-Les principaux symptômes de l'[[insuffisance cardiaque]] droite sont **une accumulation de liquide qui entraîne un gonflement (œdème) des pieds, des chevilles, des jambes, du bas du dos, du foie et de l'abdomen**. La partie du corps où le liquide s'accumule dépend de la quantité d'excès de liquide et des effets de gravité.
+# [[IC]] droite
+Les principaux symptômes de l'[[IC]] droite sont **une accumulation de liquide qui entraîne un gonflement (œdème) des pieds, des chevilles, des jambes, du bas du dos, du foie et de l'abdomen**. La partie du corps où le liquide s'accumule dépend de la quantité d'excès de liquide et des effets de gravité.
 
 Incapacité du ventricule droit à assurer un débit sanguin suffisant.  
 _Elle se manifeste par une hépatalgie d'effort, des oedèmes des membres inférieurs. La [[dyspnée]] n’est ressentie que lorsque la cause de l’IVD est une maladie du poumon, ou quand il y a association à une [[insuffisance ventriculaire gauche]]._  
